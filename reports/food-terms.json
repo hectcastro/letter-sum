@@ -1,0 +1,1283 @@
+{
+  "source": {
+    "name": "Open English Wordnet",
+    "version": "2025",
+    "url": "https://en-word.net/static/english-wordnet-2025.xml.gz",
+    "sha256": "9ca6d1dcb75f822fdd66617f7d9da48142ace38dd544d6ad5e2feca1674ad3fe",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Open English Wordnet Community, derived from Princeton WordNet",
+    "homepage": "https://en-word.net/",
+    "beverageSynsets": [
+      "oewn-07897775-n",
+      "oewn-07901198-n"
+    ],
+    "excludedBranches": {
+      "oewn-07576468-n": "Diets and dietary regimens",
+      "oewn-07589261-n": "Meals and eating occasions rather than individual dishes",
+      "oewn-07816067-n": "Animal feed",
+      "oewn-07587918-n": "Food supplies and stores",
+      "oewn-07586889-n": "Cuisine and styles of cooking",
+      "oewn-07593928-n": "Portions and quantities"
+    },
+    "excludedSynsets": {
+      "oewn-07571428-n": "Generic solid food",
+      "oewn-07572202-n": "Generic edible substance",
+      "oewn-07572535-n": "Generic course of a meal",
+      "oewn-07572999-n": "Generic dish",
+      "oewn-07575987-n": "Generic nourishment",
+      "oewn-07576217-n": "Generic fare",
+      "oewn-07581905-n": "Generic foodstuff",
+      "oewn-07586285-n": "Generic nutrition and sustenance",
+      "oewn-07588522-n": "Generic canned foods",
+      "oewn-07588423-n": "Generic frozen foods",
+      "oewn-07589018-n": "Generic dehydrated foods",
+      "oewn-07897775-n": "Generic beverage",
+      "oewn-07901198-n": "Generic serving of a drink"
+    }
+  },
+  "counts": {
+    "total": 3584,
+    "food": 3013,
+    "drink": 571
+  },
+  "dictionaryCandidates": 3553,
+  "ambiguousCategories": [
+    "chicory",
+    "chocolate",
+    "cobbler",
+    "cocktail",
+    "cocoa",
+    "coffee",
+    "corn",
+    "demerara",
+    "frappe",
+    "liquor",
+    "malt",
+    "malted milk",
+    "maraschino",
+    "milk",
+    "mocha",
+    "muscat",
+    "muscatel",
+    "nectar",
+    "ratafia",
+    "sillabub",
+    "syllabub",
+    "tea",
+    "toast",
+    "tokay"
+  ],
+  "excludedSenses": [
+    {
+      "name": "afternoon tea",
+      "synset": "oewn-07591075-n",
+      "definition": "a light midafternoon meal of tea and sandwiches or cakes"
+    },
+    {
+      "name": "alfalfa",
+      "synset": "oewn-07817755-n",
+      "definition": "leguminous plant grown for hay or forage"
+    },
+    {
+      "name": "aliment",
+      "synset": "oewn-07586285-n",
+      "definition": "a source of materials to nourish the body"
+    },
+    {
+      "name": "alimentation",
+      "synset": "oewn-07586285-n",
+      "definition": "a source of materials to nourish the body"
+    },
+    {
+      "name": "banquet",
+      "synset": "oewn-07593658-n",
+      "definition": "a meal that is well prepared and greatly enjoyed"
+    },
+    {
+      "name": "barbecue",
+      "synset": "oewn-07592346-n",
+      "definition": "a cookout in which food is cooked over an open fire; especially a whole animal carcass roasted on a spit"
+    },
+    {
+      "name": "barbeque",
+      "synset": "oewn-07592346-n",
+      "definition": "a cookout in which food is cooked over an open fire; especially a whole animal carcass roasted on a spit"
+    },
+    {
+      "name": "beverage",
+      "synset": "oewn-07897775-n",
+      "definition": "any liquid suitable for drinking"
+    },
+    {
+      "name": "bird feed",
+      "synset": "oewn-07821570-n",
+      "definition": "food given to birds; usually mixed seeds"
+    },
+    {
+      "name": "bird food",
+      "synset": "oewn-07821570-n",
+      "definition": "food given to birds; usually mixed seeds"
+    },
+    {
+      "name": "birdseed",
+      "synset": "oewn-07821570-n",
+      "definition": "food given to birds; usually mixed seeds"
+    },
+    {
+      "name": "bite",
+      "synset": "oewn-07592939-n",
+      "definition": "a light informal meal"
+    },
+    {
+      "name": "blood meal",
+      "synset": "oewn-07585706-n",
+      "definition": "the dried and powdered blood of animals"
+    },
+    {
+      "name": "breakfast",
+      "synset": "oewn-07590167-n",
+      "definition": "the first meal of the day (usually in the morning)"
+    },
+    {
+      "name": "breast",
+      "synset": "oewn-07664017-n",
+      "definition": "meat carved from the breast of a fowl"
+    },
+    {
+      "name": "broad bean",
+      "synset": "oewn-07817868-n",
+      "definition": "a bean plant cultivated for use animal fodder"
+    },
+    {
+      "name": "brunch",
+      "synset": "oewn-07590488-n",
+      "definition": "combination of breakfast and lunch; usually served in late morning"
+    },
+    {
+      "name": "buffet",
+      "synset": "oewn-07591747-n",
+      "definition": "a meal set out on a buffet at which guests help themselves"
+    },
+    {
+      "name": "burgoo",
+      "synset": "oewn-07605443-n",
+      "definition": "a gathering at which burgoo stew is served"
+    },
+    {
+      "name": "business lunch",
+      "synset": "oewn-07590791-n",
+      "definition": "lunch (usually at a restaurant) where business is discussed and the cost is charged as a business expense"
+    },
+    {
+      "name": "canary seed",
+      "synset": "oewn-07822096-n",
+      "definition": "a mixture of seeds used to feed caged birds"
+    },
+    {
+      "name": "canned food",
+      "synset": "oewn-07588522-n",
+      "definition": "food preserved by canning"
+    },
+    {
+      "name": "canned foods",
+      "synset": "oewn-07588522-n",
+      "definition": "food preserved by canning"
+    },
+    {
+      "name": "canned goods",
+      "synset": "oewn-07588522-n",
+      "definition": "food preserved by canning"
+    },
+    {
+      "name": "cat food",
+      "synset": "oewn-07822019-n",
+      "definition": "food prepared for cats"
+    },
+    {
+      "name": "cattle cake",
+      "synset": "oewn-07816463-n",
+      "definition": "a concentrated feed for cattle; processed in the form of blocks or cakes"
+    },
+    {
+      "name": "chicken drumstick",
+      "synset": "oewn-07663759-n",
+      "definition": "the lower joint of the leg of a chicken"
+    },
+    {
+      "name": "chicken feed",
+      "synset": "oewn-07821365-n",
+      "definition": "dry mash for poultry"
+    },
+    {
+      "name": "chicken leg",
+      "synset": "oewn-07663759-n",
+      "definition": "the lower joint of the leg of a chicken"
+    },
+    {
+      "name": "chicken wing",
+      "synset": "oewn-07664423-n",
+      "definition": "the wing of a chicken"
+    },
+    {
+      "name": "clambake",
+      "synset": "oewn-07592534-n",
+      "definition": "a cookout at the seashore where clams and fish and other foods are cooked — usually on heated stones covered with seaweed"
+    },
+    {
+      "name": "coffee break",
+      "synset": "oewn-07593483-n",
+      "definition": "a short break from work"
+    },
+    {
+      "name": "collation",
+      "synset": "oewn-07592939-n",
+      "definition": "a light informal meal"
+    },
+    {
+      "name": "comestible",
+      "synset": "oewn-07572202-n",
+      "definition": "any substance that can be used as food"
+    },
+    {
+      "name": "commissariat",
+      "synset": "oewn-07587918-n",
+      "definition": "a stock or supply of foods"
+    },
+    {
+      "name": "continental breakfast",
+      "synset": "oewn-07590345-n",
+      "definition": "a breakfast that usually includes a roll and coffee or tea"
+    },
+    {
+      "name": "cookout",
+      "synset": "oewn-07592142-n",
+      "definition": "an informal meal cooked and eaten outdoors"
+    },
+    {
+      "name": "corn gluten feed",
+      "synset": "oewn-07586095-n",
+      "definition": "a feed consisting primarily of corn gluten"
+    },
+    {
+      "name": "course",
+      "synset": "oewn-07572535-n",
+      "definition": "part of a meal served at one time"
+    },
+    {
+      "name": "creep feed",
+      "synset": "oewn-07816612-n",
+      "definition": "feed given to young animals isolated in a creep"
+    },
+    {
+      "name": "cud",
+      "synset": "oewn-07821454-n",
+      "definition": "food of a ruminant regurgitated to be chewed again"
+    },
+    {
+      "name": "cuisine",
+      "synset": "oewn-07586889-n",
+      "definition": "the practice or manner of preparing food or the food so prepared"
+    },
+    {
+      "name": "culinary art",
+      "synset": "oewn-07586889-n",
+      "definition": "the practice or manner of preparing food or the food so prepared"
+    },
+    {
+      "name": "cutlet",
+      "synset": "oewn-07670495-n",
+      "definition": "thin slice of meat (especially veal) usually fried or broiled"
+    },
+    {
+      "name": "dehydrated food",
+      "synset": "oewn-07589018-n",
+      "definition": "food preserved by dehydration"
+    },
+    {
+      "name": "dehydrated foods",
+      "synset": "oewn-07589018-n",
+      "definition": "food preserved by dehydration"
+    },
+    {
+      "name": "dejeuner",
+      "synset": "oewn-07590641-n",
+      "definition": "a midday meal"
+    },
+    {
+      "name": "diet",
+      "synset": "oewn-07576468-n",
+      "definition": "the usual food and drink consumed by an organism (person or animal)"
+    },
+    {
+      "name": "dim sum",
+      "synset": "oewn-07587112-n",
+      "definition": "traditional Chinese cuisine; a variety of foods (including several kinds of steamed or fried dumplings) are served successively in small portions"
+    },
+    {
+      "name": "dinner",
+      "synset": "oewn-07591291-n",
+      "definition": "the main meal of the day served in the evening or at midday"
+    },
+    {
+      "name": "dish",
+      "synset": "oewn-07572999-n",
+      "definition": "a particular item of prepared food"
+    },
+    {
+      "name": "dog food",
+      "synset": "oewn-07821942-n",
+      "definition": "food prepared for dogs"
+    },
+    {
+      "name": "drink",
+      "synset": "oewn-07897775-n",
+      "definition": "any liquid suitable for drinking"
+    },
+    {
+      "name": "drink",
+      "synset": "oewn-07901198-n",
+      "definition": "a single serving of a beverage"
+    },
+    {
+      "name": "drinkable",
+      "synset": "oewn-07897775-n",
+      "definition": "any liquid suitable for drinking"
+    },
+    {
+      "name": "drumstick",
+      "synset": "oewn-07663479-n",
+      "definition": "the lower joint of the leg of a fowl"
+    },
+    {
+      "name": "eatable",
+      "synset": "oewn-07572202-n",
+      "definition": "any substance that can be used as food"
+    },
+    {
+      "name": "eatage",
+      "synset": "oewn-07817067-n",
+      "definition": "bulky food like grass or hay for browsing or grazing horses or cattle"
+    },
+    {
+      "name": "edible",
+      "synset": "oewn-07572202-n",
+      "definition": "any substance that can be used as food"
+    },
+    {
+      "name": "ensilage",
+      "synset": "oewn-07817318-n",
+      "definition": "fodder harvested while green and kept succulent by partial fermentation as in a silo"
+    },
+    {
+      "name": "escallop",
+      "synset": "oewn-07670495-n",
+      "definition": "thin slice of meat (especially veal) usually fried or broiled"
+    },
+    {
+      "name": "fare",
+      "synset": "oewn-07576217-n",
+      "definition": "the food and drink that are regularly served or consumed"
+    },
+    {
+      "name": "feast",
+      "synset": "oewn-07593658-n",
+      "definition": "a meal that is well prepared and greatly enjoyed"
+    },
+    {
+      "name": "feed",
+      "synset": "oewn-07816067-n",
+      "definition": "food for domestic livestock"
+    },
+    {
+      "name": "feed grain",
+      "synset": "oewn-07816983-n",
+      "definition": "grain grown for cattle feed"
+    },
+    {
+      "name": "filet",
+      "synset": "oewn-07670946-n",
+      "definition": "a longitudinal slice or boned side of a fish"
+    },
+    {
+      "name": "fillet",
+      "synset": "oewn-07670946-n",
+      "definition": "a longitudinal slice or boned side of a fish"
+    },
+    {
+      "name": "fish filet",
+      "synset": "oewn-07670946-n",
+      "definition": "a longitudinal slice or boned side of a fish"
+    },
+    {
+      "name": "fish fillet",
+      "synset": "oewn-07670946-n",
+      "definition": "a longitudinal slice or boned side of a fish"
+    },
+    {
+      "name": "fish fry",
+      "synset": "oewn-07592709-n",
+      "definition": "a cookout where fried fish is the main course"
+    },
+    {
+      "name": "fodder",
+      "synset": "oewn-07816716-n",
+      "definition": "coarse food (especially for livestock) composed of entire plants or the leaves and stalks of a cereal crop"
+    },
+    {
+      "name": "food cache",
+      "synset": "oewn-07588084-n",
+      "definition": "food in a secure or hidden storage place"
+    },
+    {
+      "name": "food product",
+      "synset": "oewn-07581905-n",
+      "definition": "a substance that can be used or prepared for use as food"
+    },
+    {
+      "name": "foodstuff",
+      "synset": "oewn-07581905-n",
+      "definition": "a substance that can be used or prepared for use as food"
+    },
+    {
+      "name": "forage",
+      "synset": "oewn-07817067-n",
+      "definition": "bulky food like grass or hay for browsing or grazing horses or cattle"
+    },
+    {
+      "name": "frozen food",
+      "synset": "oewn-07588423-n",
+      "definition": "food preserved by freezing"
+    },
+    {
+      "name": "frozen foods",
+      "synset": "oewn-07588423-n",
+      "definition": "food preserved by freezing"
+    },
+    {
+      "name": "gastronomy",
+      "synset": "oewn-07587771-n",
+      "definition": "a particular style of cookery (as of a region)"
+    },
+    {
+      "name": "grass",
+      "synset": "oewn-07817067-n",
+      "definition": "bulky food like grass or hay for browsing or grazing horses or cattle"
+    },
+    {
+      "name": "hairball formula",
+      "synset": "oewn-92429235-n",
+      "definition": "An addition to cat food or a type of cat food that prevents the forming of hairballs in the cat's stomach."
+    },
+    {
+      "name": "haute cuisine",
+      "synset": "oewn-07587330-n",
+      "definition": "(French) an elaborate and skillful manner of preparing food"
+    },
+    {
+      "name": "hay",
+      "synset": "oewn-07818002-n",
+      "definition": "grass mowed and cured for use as fodder"
+    },
+    {
+      "name": "helping",
+      "synset": "oewn-07593928-n",
+      "definition": "an individual quantity of food or drink taken as part of a meal"
+    },
+    {
+      "name": "high tea",
+      "synset": "oewn-07590957-n",
+      "definition": "substantial early evening meal including tea"
+    },
+    {
+      "name": "horse bean",
+      "synset": "oewn-07817868-n",
+      "definition": "a bean plant cultivated for use animal fodder"
+    },
+    {
+      "name": "ingesta",
+      "synset": "oewn-07575987-n",
+      "definition": "solid and liquid nourishment taken into the body through the mouth"
+    },
+    {
+      "name": "larder",
+      "synset": "oewn-07588181-n",
+      "definition": "a supply of food especially for a household"
+    },
+    {
+      "name": "libation",
+      "synset": "oewn-07901807-n",
+      "definition": "a serving (of wine) poured out in honor of a deity"
+    },
+    {
+      "name": "lunch",
+      "synset": "oewn-07590641-n",
+      "definition": "a midday meal"
+    },
+    {
+      "name": "luncheon",
+      "synset": "oewn-07590641-n",
+      "definition": "a midday meal"
+    },
+    {
+      "name": "mash",
+      "synset": "oewn-07821230-n",
+      "definition": "mixture of ground animal feeds"
+    },
+    {
+      "name": "mast",
+      "synset": "oewn-07821848-n",
+      "definition": "nuts of forest trees used as feed for swine"
+    },
+    {
+      "name": "meal",
+      "synset": "oewn-07589261-n",
+      "definition": "the food served and eaten at one time"
+    },
+    {
+      "name": "medallion",
+      "synset": "oewn-07664811-n",
+      "definition": "a circular helping of food (especially a boneless cut of meat)"
+    },
+    {
+      "name": "mess",
+      "synset": "oewn-07581173-n",
+      "definition": "a meal eaten in a mess hall by service personnel"
+    },
+    {
+      "name": "nosh",
+      "synset": "oewn-07593103-n",
+      "definition": "(Yiddish) a snack or light meal"
+    },
+    {
+      "name": "nosh-up",
+      "synset": "oewn-07593222-n",
+      "definition": "a large satisfying meal"
+    },
+    {
+      "name": "nourishment",
+      "synset": "oewn-07586285-n",
+      "definition": "a source of materials to nourish the body"
+    },
+    {
+      "name": "nouvelle cuisine",
+      "synset": "oewn-07587468-n",
+      "definition": "a school of French cooking that uses light sauces and tries to bring out the natural flavors of foods instead of making heavy use of butter and cream"
+    },
+    {
+      "name": "nutriment",
+      "synset": "oewn-07586285-n",
+      "definition": "a source of materials to nourish the body"
+    },
+    {
+      "name": "nutrition",
+      "synset": "oewn-07586285-n",
+      "definition": "a source of materials to nourish the body"
+    },
+    {
+      "name": "oil cake",
+      "synset": "oewn-07817484-n",
+      "definition": "mass of e.g. linseed or cottonseed or soybean from which the oil has been pressed; used as food for livestock"
+    },
+    {
+      "name": "oil meal",
+      "synset": "oewn-07817685-n",
+      "definition": "ground oil cake"
+    },
+    {
+      "name": "oyster",
+      "synset": "oewn-07664951-n",
+      "definition": "a small muscle on each side of the back of a fowl"
+    },
+    {
+      "name": "pabulum",
+      "synset": "oewn-07572202-n",
+      "definition": "any substance that can be used as food"
+    },
+    {
+      "name": "parson's nose",
+      "synset": "oewn-07665072-n",
+      "definition": "the tail of a dressed fowl"
+    },
+    {
+      "name": "pasturage",
+      "synset": "oewn-07817067-n",
+      "definition": "bulky food like grass or hay for browsing or grazing horses or cattle"
+    },
+    {
+      "name": "pasture",
+      "synset": "oewn-07817067-n",
+      "definition": "bulky food like grass or hay for browsing or grazing horses or cattle"
+    },
+    {
+      "name": "pet food",
+      "synset": "oewn-07821707-n",
+      "definition": "food prepared for animal pets"
+    },
+    {
+      "name": "pet-food",
+      "synset": "oewn-07821707-n",
+      "definition": "food prepared for animal pets"
+    },
+    {
+      "name": "petfood",
+      "synset": "oewn-07821707-n",
+      "definition": "food prepared for animal pets"
+    },
+    {
+      "name": "petit dejeuner",
+      "synset": "oewn-07590345-n",
+      "definition": "a breakfast that usually includes a roll and coffee or tea"
+    },
+    {
+      "name": "picnic",
+      "synset": "oewn-07592003-n",
+      "definition": "any informal meal eaten outside or on an excursion"
+    },
+    {
+      "name": "piece",
+      "synset": "oewn-07670276-n",
+      "definition": "a serving that has been cut from a larger portion"
+    },
+    {
+      "name": "pigswill",
+      "synset": "oewn-07820982-n",
+      "definition": "wet feed (especially for pigs) consisting of mostly kitchen waste mixed with water or skimmed or sour milk"
+    },
+    {
+      "name": "pigwash",
+      "synset": "oewn-07820982-n",
+      "definition": "wet feed (especially for pigs) consisting of mostly kitchen waste mixed with water or skimmed or sour milk"
+    },
+    {
+      "name": "ploughman's lunch",
+      "synset": "oewn-07593337-n",
+      "definition": "a meal consisting of a sandwich of bread and cheese and a salad"
+    },
+    {
+      "name": "pope's nose",
+      "synset": "oewn-07665072-n",
+      "definition": "the tail of a dressed fowl"
+    },
+    {
+      "name": "portion",
+      "synset": "oewn-07593928-n",
+      "definition": "an individual quantity of food or drink taken as part of a meal"
+    },
+    {
+      "name": "potable",
+      "synset": "oewn-07897775-n",
+      "definition": "any liquid suitable for drinking"
+    },
+    {
+      "name": "potato pulp",
+      "synset": "oewn-92429848-n",
+      "definition": "a side product of washing the starch from the mash, often used in animal feeding."
+    },
+    {
+      "name": "potluck",
+      "synset": "oewn-07589741-n",
+      "definition": "whatever happens to be available especially when offered to an unexpected guest or when brought by guests and shared by all"
+    },
+    {
+      "name": "provender",
+      "synset": "oewn-07587918-n",
+      "definition": "a stock or supply of foods"
+    },
+    {
+      "name": "provender",
+      "synset": "oewn-07816067-n",
+      "definition": "food for domestic livestock"
+    },
+    {
+      "name": "provisions",
+      "synset": "oewn-07587918-n",
+      "definition": "a stock or supply of foods"
+    },
+    {
+      "name": "rechauffe",
+      "synset": "oewn-07587699-n",
+      "definition": "warmed leftovers"
+    },
+    {
+      "name": "rechewed food",
+      "synset": "oewn-07821454-n",
+      "definition": "food of a ruminant regurgitated to be chewed again"
+    },
+    {
+      "name": "refection",
+      "synset": "oewn-07589991-n",
+      "definition": "a light meal or repast"
+    },
+    {
+      "name": "refreshment",
+      "synset": "oewn-07590069-n",
+      "definition": "snacks and drinks served as a light meal"
+    },
+    {
+      "name": "repast",
+      "synset": "oewn-07589261-n",
+      "definition": "the food served and eaten at one time"
+    },
+    {
+      "name": "round",
+      "synset": "oewn-07900241-n",
+      "definition": "a serving to each of a group (usually alcoholic)"
+    },
+    {
+      "name": "round of drinks",
+      "synset": "oewn-07900241-n",
+      "definition": "a serving to each of a group (usually alcoholic)"
+    },
+    {
+      "name": "scallop",
+      "synset": "oewn-07670495-n",
+      "definition": "thin slice of meat (especially veal) usually fried or broiled"
+    },
+    {
+      "name": "scollop",
+      "synset": "oewn-07670495-n",
+      "definition": "thin slice of meat (especially veal) usually fried or broiled"
+    },
+    {
+      "name": "scratch",
+      "synset": "oewn-07821365-n",
+      "definition": "dry mash for poultry"
+    },
+    {
+      "name": "second joint",
+      "synset": "oewn-07663876-n",
+      "definition": "the upper joint of the leg of a fowl"
+    },
+    {
+      "name": "serving",
+      "synset": "oewn-07593928-n",
+      "definition": "an individual quantity of food or drink taken as part of a meal"
+    },
+    {
+      "name": "silage",
+      "synset": "oewn-07817318-n",
+      "definition": "fodder harvested while green and kept succulent by partial fermentation as in a silo"
+    },
+    {
+      "name": "slice",
+      "synset": "oewn-07670276-n",
+      "definition": "a serving that has been cut from a larger portion"
+    },
+    {
+      "name": "slop",
+      "synset": "oewn-07820982-n",
+      "definition": "wet feed (especially for pigs) consisting of mostly kitchen waste mixed with water or skimmed or sour milk"
+    },
+    {
+      "name": "slops",
+      "synset": "oewn-07820982-n",
+      "definition": "wet feed (especially for pigs) consisting of mostly kitchen waste mixed with water or skimmed or sour milk"
+    },
+    {
+      "name": "smorgasbord",
+      "synset": "oewn-07608770-n",
+      "definition": "an assortment of foods starting with herring or smoked eel or salmon etc. with bread and butter; then cheeses and eggs and pickled vegetables and aspics; finally hot foods; served as a buffet meal"
+    },
+    {
+      "name": "snack",
+      "synset": "oewn-07592939-n",
+      "definition": "a light informal meal"
+    },
+    {
+      "name": "solid food",
+      "synset": "oewn-07571428-n",
+      "definition": "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    },
+    {
+      "name": "spread",
+      "synset": "oewn-07593658-n",
+      "definition": "a meal that is well prepared and greatly enjoyed"
+    },
+    {
+      "name": "square meal",
+      "synset": "oewn-07589128-n",
+      "definition": "a substantial and nourishing meal"
+    },
+    {
+      "name": "stover",
+      "synset": "oewn-07818222-n",
+      "definition": "the dried stalks and leaves of a field crop (especially corn) used as animal fodder after the grain has been harvested"
+    },
+    {
+      "name": "supper",
+      "synset": "oewn-07591549-n",
+      "definition": "a light evening meal; served in early evening if dinner is at midday or served late in the evening at bedtime"
+    },
+    {
+      "name": "sustenance",
+      "synset": "oewn-07586285-n",
+      "definition": "a source of materials to nourish the body"
+    },
+    {
+      "name": "swill",
+      "synset": "oewn-07820982-n",
+      "definition": "wet feed (especially for pigs) consisting of mostly kitchen waste mixed with water or skimmed or sour milk"
+    },
+    {
+      "name": "tea",
+      "synset": "oewn-07591075-n",
+      "definition": "a light midafternoon meal of tea and sandwiches or cakes"
+    },
+    {
+      "name": "tea break",
+      "synset": "oewn-07593483-n",
+      "definition": "a short break from work"
+    },
+    {
+      "name": "teatime",
+      "synset": "oewn-07591075-n",
+      "definition": "a light midafternoon meal of tea and sandwiches or cakes"
+    },
+    {
+      "name": "thigh",
+      "synset": "oewn-07663876-n",
+      "definition": "the upper joint of the leg of a fowl"
+    },
+    {
+      "name": "tiffin",
+      "synset": "oewn-07590641-n",
+      "definition": "a midday meal"
+    },
+    {
+      "name": "timothy",
+      "synset": "oewn-07818128-n",
+      "definition": "a grass grown for hay"
+    },
+    {
+      "name": "tinned goods",
+      "synset": "oewn-07588522-n",
+      "definition": "food preserved by canning"
+    },
+    {
+      "name": "turkey drumstick",
+      "synset": "oewn-07663645-n",
+      "definition": "the lower joint of the leg of a turkey"
+    },
+    {
+      "name": "turkey leg",
+      "synset": "oewn-07663645-n",
+      "definition": "the lower joint of the leg of a turkey"
+    },
+    {
+      "name": "turkey wing",
+      "synset": "oewn-07664326-n",
+      "definition": "the wing of a turkey"
+    },
+    {
+      "name": "viands",
+      "synset": "oewn-07587918-n",
+      "definition": "a stock or supply of foods"
+    },
+    {
+      "name": "victual",
+      "synset": "oewn-07572202-n",
+      "definition": "any substance that can be used as food"
+    },
+    {
+      "name": "victuals",
+      "synset": "oewn-07572202-n",
+      "definition": "any substance that can be used as food"
+    },
+    {
+      "name": "victuals",
+      "synset": "oewn-07586285-n",
+      "definition": "a source of materials to nourish the body"
+    },
+    {
+      "name": "victuals",
+      "synset": "oewn-07587918-n",
+      "definition": "a stock or supply of foods"
+    },
+    {
+      "name": "weenie roast",
+      "synset": "oewn-07592809-n",
+      "definition": "a cookout where roasted frankfurters are the main course"
+    },
+    {
+      "name": "white meat",
+      "synset": "oewn-07664017-n",
+      "definition": "meat carved from the breast of a fowl"
+    },
+    {
+      "name": "wiener roast",
+      "synset": "oewn-07592809-n",
+      "definition": "a cookout where roasted frankfurters are the main course"
+    },
+    {
+      "name": "wing",
+      "synset": "oewn-07664158-n",
+      "definition": "the wing of a fowl"
+    }
+  ],
+  "changes": {
+    "added": [],
+    "removed": [],
+    "reclassified": []
+  },
+  "overrideAdditions": 261,
+  "overrideExclusions": [],
+  "matches": {
+    "100": [
+      {
+        "name": "beef patty",
+        "category": "food",
+        "synsets": [
+          "oewn-07679866-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "beef tongue",
+        "category": "food",
+        "synsets": [
+          "oewn-07668735-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "beetroot",
+        "category": "food",
+        "synsets": [
+          "oewn-07735584-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "bouillon",
+        "category": "food",
+        "synsets": [
+          "oewn-07600509-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "chicken kiev",
+        "category": "food",
+        "synsets": [
+          "oewn-07880732-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "clementine",
+        "category": "food",
+        "synsets": [
+          "oewn-07764133-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "cornpone",
+        "category": "food",
+        "synsets": [
+          "oewn-07704369-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "crab louis",
+        "category": "food",
+        "synsets": [
+          "oewn-07824142-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "deep-dish pie",
+        "category": "food",
+        "synsets": [
+          "oewn-07641440-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "dewberry",
+        "category": "food",
+        "synsets": [
+          "oewn-07761173-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "eggs benedict",
+        "category": "food",
+        "synsets": [
+          "oewn-07882844-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "flank steak",
+        "category": "food",
+        "synsets": [
+          "oewn-07674070-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "grated cheese",
+        "category": "food",
+        "synsets": [
+          "oewn-07869738-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "grouper",
+        "category": "food",
+        "synsets": [
+          "oewn-07794200-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "hollandaise",
+        "category": "food",
+        "synsets": [
+          "oewn-07851433-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "hydromel",
+        "category": "drink",
+        "synsets": [
+          "oewn-07906945-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "loaf sugar",
+        "category": "food",
+        "synsets": [
+          "oewn-07611070-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "malted milk",
+        "category": "drink",
+        "synsets": [
+          "oewn-07942780-n",
+          "oewn-07942882-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "mammee apple",
+        "category": "food",
+        "synsets": [
+          "oewn-07782506-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "matzah meal",
+        "category": "food",
+        "synsets": [
+          "oewn-07583954-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "moussaka",
+        "category": "food",
+        "synsets": [
+          "oewn-07888569-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "pistachio",
+        "category": "food",
+        "synsets": [
+          "oewn-07791026-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "plumcot",
+        "category": "food",
+        "synsets": [
+          "oewn-07784566-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "pocket bread",
+        "category": "food",
+        "synsets": [
+          "oewn-07699362-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "poutine",
+        "category": "food",
+        "synsets": [
+          "oewn-91000881-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "pumpkin",
+        "category": "food",
+        "synsets": [
+          "oewn-07751486-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "raisin bread",
+        "category": "food",
+        "synsets": [
+          "oewn-07700262-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "rhubarb pie",
+        "category": "food",
+        "synsets": [
+          "oewn-07642110-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "rijstafel",
+        "category": "food",
+        "synsets": [
+          "oewn-07891243-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "savory",
+        "category": "food",
+        "synsets": [
+          "oewn-07610411-n",
+          "oewn-07836790-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "shadberry",
+        "category": "food",
+        "synsets": [
+          "oewn-07761637-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "shirred egg",
+        "category": "food",
+        "synsets": [
+          "oewn-07858581-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "shortcake",
+        "category": "food",
+        "synsets": [
+          "oewn-07710404-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "sourball",
+        "category": "food",
+        "synsets": [
+          "oewn-07614954-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "stuffed egg",
+        "category": "food",
+        "synsets": [
+          "oewn-07858409-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "sugar loaf",
+        "category": "food",
+        "synsets": [
+          "oewn-07611070-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "sugarloaf",
+        "category": "food",
+        "synsets": [
+          "oewn-07611070-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "turkey",
+        "category": "food",
+        "synsets": [
+          "oewn-07663340-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "veloute",
+        "category": "food",
+        "synsets": [
+          "oewn-07856003-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "wheat germ",
+        "category": "food",
+        "synsets": [
+          "oewn-07819968-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "whiskey",
+        "category": "drink",
+        "synsets": [
+          "oewn-07922524-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "white rice",
+        "category": "food",
+        "synsets": [
+          "oewn-07820633-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "wine sauce",
+        "category": "food",
+        "synsets": [
+          "oewn-07847639-n"
+        ],
+        "total": 100
+      },
+      {
+        "name": "witloof",
+        "category": "food",
+        "synsets": [
+          "oewn-07747743-n"
+        ],
+        "total": 100
+      }
+    ],
+    "1000": []
+  }
+}

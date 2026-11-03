@@ -33,6 +33,9 @@ jobs:
       - name: Run tests
         run: npm test
 
+      - name: Test dictionary importer
+        run: npm run test:importer
+
   build:
     needs: test
     runs-on: ubuntu-latest

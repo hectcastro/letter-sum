@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { calculate } from '../calculate';
-import { FOOD_AND_DRINKS } from '../data/foodAndDrinks';
+import { FOOD_AND_DRINKS, FOOD_DATA_SOURCE } from '../data/foodAndDrinks';
 
 // Score the fixed list once using the same rules as the calculator.
 const SCORED_NAMES = FOOD_AND_DRINKS.map((entry) => ({
@@ -24,8 +24,9 @@ export function FoodDrinkFinder({ onSelect }: FoodDrinkFinderProps) {
     <section className="finder" aria-labelledby="finder-title">
       <h2 id="finder-title">Find food &amp; drink</h2>
       <p className="finder-description">
-        Search {FOOD_AND_DRINKS.length} food, dish, and drink names. Each result
-        is one item, never a combination of unrelated names.
+        Search {FOOD_AND_DRINKS.length.toLocaleString()} dictionary-derived
+        food, dish, and drink names, plus curated additions. Multiword names
+        stay whole.
       </p>
 
       <div className="finder-controls">
@@ -79,7 +80,7 @@ export function FoodDrinkFinder({ onSelect }: FoodDrinkFinderProps) {
         </>
       ) : (
         <p className="finder-description">
-          No matches in this list for {target}. This is a starter list, not
+          No matches in this list for {target}. The dictionary does not cover
           every food or drink name.
         </p>
       )}
@@ -90,9 +91,15 @@ export function FoodDrinkFinder({ onSelect }: FoodDrinkFinderProps) {
         </p>
       )}
       <p className="finder-description">
-        Built-in, manually curated list. Exact spelling matters; spaces and
-        punctuation are ignored. Multiword dish and drink names count as one
-        item.
+        Based on{' '}
+        <a href={FOOD_DATA_SOURCE.homepage}>
+          {FOOD_DATA_SOURCE.name} {FOOD_DATA_SOURCE.version}
+        </a>{' '}
+        by the Open English Wordnet Community, derived from Princeton WordNet.
+        Adapted under <a href={FOOD_DATA_SOURCE.license}>CC BY 4.0</a>, with
+        category filters and curated additions. Dictionary classifications may
+        need review. Exact spelling matters; only A–Z letters contribute to
+        sums.
       </p>
     </section>
   );

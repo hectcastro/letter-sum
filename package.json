@@ -13,6 +13,8 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
+    "test:importer": "python3 -m unittest discover -s scripts -p 'test_*.py'",
+    "data:update": "python3 scripts/import-food-terms.py && node --experimental-strip-types scripts/report-food-terms.mjs",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },

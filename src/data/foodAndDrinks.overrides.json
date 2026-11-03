@@ -1,0 +1,1049 @@
+{
+  "additions": [
+    {
+      "name": "almond",
+      "category": "food"
+    },
+    {
+      "name": "apple",
+      "category": "food"
+    },
+    {
+      "name": "apricot",
+      "category": "food"
+    },
+    {
+      "name": "artichoke",
+      "category": "food"
+    },
+    {
+      "name": "asparagus",
+      "category": "food"
+    },
+    {
+      "name": "avocado",
+      "category": "food"
+    },
+    {
+      "name": "bacon",
+      "category": "food"
+    },
+    {
+      "name": "bagel",
+      "category": "food"
+    },
+    {
+      "name": "banana",
+      "category": "food"
+    },
+    {
+      "name": "barley",
+      "category": "food"
+    },
+    {
+      "name": "basil",
+      "category": "food"
+    },
+    {
+      "name": "beef",
+      "category": "food"
+    },
+    {
+      "name": "beetroot",
+      "category": "food"
+    },
+    {
+      "name": "blackberry",
+      "category": "food"
+    },
+    {
+      "name": "blueberry",
+      "category": "food"
+    },
+    {
+      "name": "bread",
+      "category": "food"
+    },
+    {
+      "name": "broccoli",
+      "category": "food"
+    },
+    {
+      "name": "brownie",
+      "category": "food"
+    },
+    {
+      "name": "brussels sprouts",
+      "category": "food"
+    },
+    {
+      "name": "buckwheat",
+      "category": "food"
+    },
+    {
+      "name": "burrito",
+      "category": "food"
+    },
+    {
+      "name": "butter",
+      "category": "food"
+    },
+    {
+      "name": "cabbage",
+      "category": "food"
+    },
+    {
+      "name": "carrot",
+      "category": "food"
+    },
+    {
+      "name": "cashew",
+      "category": "food"
+    },
+    {
+      "name": "cauliflower",
+      "category": "food"
+    },
+    {
+      "name": "celery",
+      "category": "food"
+    },
+    {
+      "name": "cheddar",
+      "category": "food"
+    },
+    {
+      "name": "cheesecake",
+      "category": "food"
+    },
+    {
+      "name": "cherry",
+      "category": "food"
+    },
+    {
+      "name": "chestnut",
+      "category": "food"
+    },
+    {
+      "name": "chicken",
+      "category": "food"
+    },
+    {
+      "name": "chicken tikka masala",
+      "category": "food"
+    },
+    {
+      "name": "chickpea",
+      "category": "food"
+    },
+    {
+      "name": "chocolate",
+      "category": "food"
+    },
+    {
+      "name": "chocolate chip cookie",
+      "category": "food"
+    },
+    {
+      "name": "chow mein",
+      "category": "food"
+    },
+    {
+      "name": "cinnamon",
+      "category": "food"
+    },
+    {
+      "name": "clam chowder",
+      "category": "food"
+    },
+    {
+      "name": "coconut",
+      "category": "food"
+    },
+    {
+      "name": "cod",
+      "category": "food"
+    },
+    {
+      "name": "corn",
+      "category": "food"
+    },
+    {
+      "name": "couscous",
+      "category": "food"
+    },
+    {
+      "name": "crab",
+      "category": "food"
+    },
+    {
+      "name": "cranberry",
+      "category": "food"
+    },
+    {
+      "name": "croissant",
+      "category": "food"
+    },
+    {
+      "name": "cucumber",
+      "category": "food"
+    },
+    {
+      "name": "curry",
+      "category": "food"
+    },
+    {
+      "name": "custard",
+      "category": "food"
+    },
+    {
+      "name": "date",
+      "category": "food"
+    },
+    {
+      "name": "doughnut",
+      "category": "food"
+    },
+    {
+      "name": "dumpling",
+      "category": "food"
+    },
+    {
+      "name": "edamame",
+      "category": "food"
+    },
+    {
+      "name": "egg",
+      "category": "food"
+    },
+    {
+      "name": "eggplant",
+      "category": "food"
+    },
+    {
+      "name": "falafel",
+      "category": "food"
+    },
+    {
+      "name": "fennel",
+      "category": "food"
+    },
+    {
+      "name": "fettuccine alfredo",
+      "category": "food"
+    },
+    {
+      "name": "fig",
+      "category": "food"
+    },
+    {
+      "name": "fish and chips",
+      "category": "food"
+    },
+    {
+      "name": "french onion soup",
+      "category": "food"
+    },
+    {
+      "name": "french toast",
+      "category": "food"
+    },
+    {
+      "name": "fried rice",
+      "category": "food"
+    },
+    {
+      "name": "frozen yogurt",
+      "category": "food"
+    },
+    {
+      "name": "garlic",
+      "category": "food"
+    },
+    {
+      "name": "ginger",
+      "category": "food"
+    },
+    {
+      "name": "gnocchi",
+      "category": "food"
+    },
+    {
+      "name": "grape",
+      "category": "food"
+    },
+    {
+      "name": "grapefruit",
+      "category": "food"
+    },
+    {
+      "name": "guacamole",
+      "category": "food"
+    },
+    {
+      "name": "guava",
+      "category": "food"
+    },
+    {
+      "name": "hamburger",
+      "category": "food"
+    },
+    {
+      "name": "hazelnut",
+      "category": "food"
+    },
+    {
+      "name": "honey",
+      "category": "food"
+    },
+    {
+      "name": "hot dog",
+      "category": "food"
+    },
+    {
+      "name": "hummus",
+      "category": "food"
+    },
+    {
+      "name": "ice cream",
+      "category": "food"
+    },
+    {
+      "name": "jalapeno",
+      "category": "food"
+    },
+    {
+      "name": "kale",
+      "category": "food"
+    },
+    {
+      "name": "kimchi",
+      "category": "food"
+    },
+    {
+      "name": "kiwi",
+      "category": "food"
+    },
+    {
+      "name": "lamb",
+      "category": "food"
+    },
+    {
+      "name": "lasagna",
+      "category": "food"
+    },
+    {
+      "name": "leek",
+      "category": "food"
+    },
+    {
+      "name": "lemon",
+      "category": "food"
+    },
+    {
+      "name": "lentil",
+      "category": "food"
+    },
+    {
+      "name": "lettuce",
+      "category": "food"
+    },
+    {
+      "name": "lime",
+      "category": "food"
+    },
+    {
+      "name": "lobster",
+      "category": "food"
+    },
+    {
+      "name": "macaroni and cheese",
+      "category": "food"
+    },
+    {
+      "name": "macadamia",
+      "category": "food"
+    },
+    {
+      "name": "mango",
+      "category": "food"
+    },
+    {
+      "name": "maple syrup",
+      "category": "food"
+    },
+    {
+      "name": "marshmallow",
+      "category": "food"
+    },
+    {
+      "name": "melon",
+      "category": "food"
+    },
+    {
+      "name": "miso soup",
+      "category": "food"
+    },
+    {
+      "name": "mozzarella",
+      "category": "food"
+    },
+    {
+      "name": "muffin",
+      "category": "food"
+    },
+    {
+      "name": "mushroom",
+      "category": "food"
+    },
+    {
+      "name": "mustard",
+      "category": "food"
+    },
+    {
+      "name": "nectarine",
+      "category": "food"
+    },
+    {
+      "name": "noodle",
+      "category": "food"
+    },
+    {
+      "name": "nutmeg",
+      "category": "food"
+    },
+    {
+      "name": "oatmeal",
+      "category": "food"
+    },
+    {
+      "name": "okra",
+      "category": "food"
+    },
+    {
+      "name": "olive",
+      "category": "food"
+    },
+    {
+      "name": "omelette",
+      "category": "food"
+    },
+    {
+      "name": "onion",
+      "category": "food"
+    },
+    {
+      "name": "orange",
+      "category": "food"
+    },
+    {
+      "name": "oyster",
+      "category": "food"
+    },
+    {
+      "name": "pad thai",
+      "category": "food"
+    },
+    {
+      "name": "paella",
+      "category": "food"
+    },
+    {
+      "name": "pancake",
+      "category": "food"
+    },
+    {
+      "name": "papaya",
+      "category": "food"
+    },
+    {
+      "name": "parmesan",
+      "category": "food"
+    },
+    {
+      "name": "parsley",
+      "category": "food"
+    },
+    {
+      "name": "parsnip",
+      "category": "food"
+    },
+    {
+      "name": "pasta",
+      "category": "food"
+    },
+    {
+      "name": "peach",
+      "category": "food"
+    },
+    {
+      "name": "peanut",
+      "category": "food"
+    },
+    {
+      "name": "pear",
+      "category": "food"
+    },
+    {
+      "name": "pecan",
+      "category": "food"
+    },
+    {
+      "name": "pepper",
+      "category": "food"
+    },
+    {
+      "name": "pesto",
+      "category": "food"
+    },
+    {
+      "name": "pho",
+      "category": "food"
+    },
+    {
+      "name": "pickle",
+      "category": "food"
+    },
+    {
+      "name": "pineapple",
+      "category": "food"
+    },
+    {
+      "name": "pistachio",
+      "category": "food"
+    },
+    {
+      "name": "pizza",
+      "category": "food"
+    },
+    {
+      "name": "plum",
+      "category": "food"
+    },
+    {
+      "name": "pomegranate",
+      "category": "food"
+    },
+    {
+      "name": "popcorn",
+      "category": "food"
+    },
+    {
+      "name": "pork",
+      "category": "food"
+    },
+    {
+      "name": "potato",
+      "category": "food"
+    },
+    {
+      "name": "pretzel",
+      "category": "food"
+    },
+    {
+      "name": "pumpkin",
+      "category": "food"
+    },
+    {
+      "name": "quiche",
+      "category": "food"
+    },
+    {
+      "name": "quinoa",
+      "category": "food"
+    },
+    {
+      "name": "radish",
+      "category": "food"
+    },
+    {
+      "name": "raisin",
+      "category": "food"
+    },
+    {
+      "name": "ramen",
+      "category": "food"
+    },
+    {
+      "name": "raspberry",
+      "category": "food"
+    },
+    {
+      "name": "ratatouille",
+      "category": "food"
+    },
+    {
+      "name": "ravioli",
+      "category": "food"
+    },
+    {
+      "name": "rhubarb",
+      "category": "food"
+    },
+    {
+      "name": "rice",
+      "category": "food"
+    },
+    {
+      "name": "risotto",
+      "category": "food"
+    },
+    {
+      "name": "rosemary",
+      "category": "food"
+    },
+    {
+      "name": "salmon",
+      "category": "food"
+    },
+    {
+      "name": "samosa",
+      "category": "food"
+    },
+    {
+      "name": "sardine",
+      "category": "food"
+    },
+    {
+      "name": "sausage",
+      "category": "food"
+    },
+    {
+      "name": "scallop",
+      "category": "food"
+    },
+    {
+      "name": "sesame",
+      "category": "food"
+    },
+    {
+      "name": "shrimp",
+      "category": "food"
+    },
+    {
+      "name": "sorbet",
+      "category": "food"
+    },
+    {
+      "name": "spaghetti",
+      "category": "food"
+    },
+    {
+      "name": "spinach",
+      "category": "food"
+    },
+    {
+      "name": "strawberry",
+      "category": "food"
+    },
+    {
+      "name": "sushi",
+      "category": "food"
+    },
+    {
+      "name": "sweet potato",
+      "category": "food"
+    },
+    {
+      "name": "taco",
+      "category": "food"
+    },
+    {
+      "name": "tangerine",
+      "category": "food"
+    },
+    {
+      "name": "tempeh",
+      "category": "food"
+    },
+    {
+      "name": "thyme",
+      "category": "food"
+    },
+    {
+      "name": "tiramisu",
+      "category": "food"
+    },
+    {
+      "name": "tofu",
+      "category": "food"
+    },
+    {
+      "name": "tomato",
+      "category": "food"
+    },
+    {
+      "name": "tortilla",
+      "category": "food"
+    },
+    {
+      "name": "tuna",
+      "category": "food"
+    },
+    {
+      "name": "turkey",
+      "category": "food"
+    },
+    {
+      "name": "turnip",
+      "category": "food"
+    },
+    {
+      "name": "vanilla",
+      "category": "food"
+    },
+    {
+      "name": "waffle",
+      "category": "food"
+    },
+    {
+      "name": "walnut",
+      "category": "food"
+    },
+    {
+      "name": "watermelon",
+      "category": "food"
+    },
+    {
+      "name": "yogurt",
+      "category": "food"
+    },
+    {
+      "name": "zucchini",
+      "category": "food"
+    },
+    {
+      "name": "ale",
+      "category": "drink"
+    },
+    {
+      "name": "americano",
+      "category": "drink"
+    },
+    {
+      "name": "apple juice",
+      "category": "drink"
+    },
+    {
+      "name": "beer",
+      "category": "drink"
+    },
+    {
+      "name": "black tea",
+      "category": "drink"
+    },
+    {
+      "name": "bloody mary",
+      "category": "drink"
+    },
+    {
+      "name": "bourbon",
+      "category": "drink"
+    },
+    {
+      "name": "brandy",
+      "category": "drink"
+    },
+    {
+      "name": "bubble tea",
+      "category": "drink"
+    },
+    {
+      "name": "cappuccino",
+      "category": "drink"
+    },
+    {
+      "name": "chai",
+      "category": "drink"
+    },
+    {
+      "name": "champagne",
+      "category": "drink"
+    },
+    {
+      "name": "cider",
+      "category": "drink"
+    },
+    {
+      "name": "coconut water",
+      "category": "drink"
+    },
+    {
+      "name": "coffee",
+      "category": "drink"
+    },
+    {
+      "name": "cola",
+      "category": "drink"
+    },
+    {
+      "name": "cold brew",
+      "category": "drink"
+    },
+    {
+      "name": "cosmopolitan",
+      "category": "drink"
+    },
+    {
+      "name": "daiquiri",
+      "category": "drink"
+    },
+    {
+      "name": "earl grey",
+      "category": "drink"
+    },
+    {
+      "name": "eggnog",
+      "category": "drink"
+    },
+    {
+      "name": "espresso",
+      "category": "drink"
+    },
+    {
+      "name": "flat white",
+      "category": "drink"
+    },
+    {
+      "name": "fruit punch",
+      "category": "drink"
+    },
+    {
+      "name": "gin",
+      "category": "drink"
+    },
+    {
+      "name": "gin and tonic",
+      "category": "drink"
+    },
+    {
+      "name": "ginger ale",
+      "category": "drink"
+    },
+    {
+      "name": "ginger beer",
+      "category": "drink"
+    },
+    {
+      "name": "green tea",
+      "category": "drink"
+    },
+    {
+      "name": "hot chocolate",
+      "category": "drink"
+    },
+    {
+      "name": "iced coffee",
+      "category": "drink"
+    },
+    {
+      "name": "iced tea",
+      "category": "drink"
+    },
+    {
+      "name": "irish coffee",
+      "category": "drink"
+    },
+    {
+      "name": "kombucha",
+      "category": "drink"
+    },
+    {
+      "name": "lager",
+      "category": "drink"
+    },
+    {
+      "name": "lassi",
+      "category": "drink"
+    },
+    {
+      "name": "latte",
+      "category": "drink"
+    },
+    {
+      "name": "lemonade",
+      "category": "drink"
+    },
+    {
+      "name": "long island iced tea",
+      "category": "drink"
+    },
+    {
+      "name": "macchiato",
+      "category": "drink"
+    },
+    {
+      "name": "mai tai",
+      "category": "drink"
+    },
+    {
+      "name": "manhattan",
+      "category": "drink"
+    },
+    {
+      "name": "margarita",
+      "category": "drink"
+    },
+    {
+      "name": "martini",
+      "category": "drink"
+    },
+    {
+      "name": "matcha",
+      "category": "drink"
+    },
+    {
+      "name": "mead",
+      "category": "drink"
+    },
+    {
+      "name": "milk",
+      "category": "drink"
+    },
+    {
+      "name": "milkshake",
+      "category": "drink"
+    },
+    {
+      "name": "mimosa",
+      "category": "drink"
+    },
+    {
+      "name": "mineral water",
+      "category": "drink"
+    },
+    {
+      "name": "mocha",
+      "category": "drink"
+    },
+    {
+      "name": "mojito",
+      "category": "drink"
+    },
+    {
+      "name": "moscow mule",
+      "category": "drink"
+    },
+    {
+      "name": "negroni",
+      "category": "drink"
+    },
+    {
+      "name": "old fashioned",
+      "category": "drink"
+    },
+    {
+      "name": "oolong",
+      "category": "drink"
+    },
+    {
+      "name": "orange juice",
+      "category": "drink"
+    },
+    {
+      "name": "pina colada",
+      "category": "drink"
+    },
+    {
+      "name": "port",
+      "category": "drink"
+    },
+    {
+      "name": "prosecco",
+      "category": "drink"
+    },
+    {
+      "name": "rooibos",
+      "category": "drink"
+    },
+    {
+      "name": "root beer",
+      "category": "drink"
+    },
+    {
+      "name": "rum",
+      "category": "drink"
+    },
+    {
+      "name": "sake",
+      "category": "drink"
+    },
+    {
+      "name": "sangria",
+      "category": "drink"
+    },
+    {
+      "name": "screwdriver",
+      "category": "drink"
+    },
+    {
+      "name": "sherry",
+      "category": "drink"
+    },
+    {
+      "name": "smoothie",
+      "category": "drink"
+    },
+    {
+      "name": "soda",
+      "category": "drink"
+    },
+    {
+      "name": "soy milk",
+      "category": "drink"
+    },
+    {
+      "name": "sparkling water",
+      "category": "drink"
+    },
+    {
+      "name": "stout",
+      "category": "drink"
+    },
+    {
+      "name": "tea",
+      "category": "drink"
+    },
+    {
+      "name": "tequila",
+      "category": "drink"
+    },
+    {
+      "name": "tomato juice",
+      "category": "drink"
+    },
+    {
+      "name": "tonic water",
+      "category": "drink"
+    },
+    {
+      "name": "vermouth",
+      "category": "drink"
+    },
+    {
+      "name": "vodka",
+      "category": "drink"
+    },
+    {
+      "name": "water",
+      "category": "drink"
+    },
+    {
+      "name": "whiskey",
+      "category": "drink"
+    },
+    {
+      "name": "whisky",
+      "category": "drink"
+    },
+    {
+      "name": "white russian",
+      "category": "drink"
+    },
+    {
+      "name": "wine",
+      "category": "drink"
+    }
+  ],
+  "exclusions": []
+}

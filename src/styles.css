@@ -213,6 +213,9 @@ footer {
   font-size: 12px;
   color: var(--color-muted);
 }
+.finder-description a {
+  color: inherit;
+}
 .finder-controls {
   display: flex;
   flex-wrap: wrap;

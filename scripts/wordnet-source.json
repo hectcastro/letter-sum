@@ -1,0 +1,33 @@
+{
+  "name": "Open English Wordnet",
+  "version": "2025",
+  "url": "https://en-word.net/static/english-wordnet-2025.xml.gz",
+  "sha256": "9ca6d1dcb75f822fdd66617f7d9da48142ace38dd544d6ad5e2feca1674ad3fe",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Open English Wordnet Community, derived from Princeton WordNet",
+  "homepage": "https://en-word.net/",
+  "beverageSynsets": ["oewn-07897775-n", "oewn-07901198-n"],
+  "excludedBranches": {
+    "oewn-07576468-n": "Diets and dietary regimens",
+    "oewn-07589261-n": "Meals and eating occasions rather than individual dishes",
+    "oewn-07816067-n": "Animal feed",
+    "oewn-07587918-n": "Food supplies and stores",
+    "oewn-07586889-n": "Cuisine and styles of cooking",
+    "oewn-07593928-n": "Portions and quantities"
+  },
+  "excludedSynsets": {
+    "oewn-07571428-n": "Generic solid food",
+    "oewn-07572202-n": "Generic edible substance",
+    "oewn-07572535-n": "Generic course of a meal",
+    "oewn-07572999-n": "Generic dish",
+    "oewn-07575987-n": "Generic nourishment",
+    "oewn-07576217-n": "Generic fare",
+    "oewn-07581905-n": "Generic foodstuff",
+    "oewn-07586285-n": "Generic nutrition and sustenance",
+    "oewn-07588522-n": "Generic canned foods",
+    "oewn-07588423-n": "Generic frozen foods",
+    "oewn-07589018-n": "Generic dehydrated foods",
+    "oewn-07897775-n": "Generic beverage",
+    "oewn-07901198-n": "Generic serving of a drink"
+  }
+}
