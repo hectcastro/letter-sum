@@ -74,7 +74,7 @@ export default function App() {
         <AlphabetReference usedLetters={usedLetters} />
         <WordnetFinder onSelect={selectName} />
 
-        <footer>Calculated here in your browser.</footer>
+        <footer>Made with love in Philly.</footer>
       </main>
     </>
   );
