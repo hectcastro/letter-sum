@@ -58,6 +58,40 @@ POLICY = {
 
 
 class ImportTests(unittest.TestCase):
+    def test_extracts_each_wordnet_category_without_losing_shared_terms(self):
+        root = dictionary()
+        foods, _ = importer.extract(root, POLICY)
+        categories = importer.extract_categories(root, foods)
+        self.assertEqual(categories["noun.animal"], [
+            {"name": "turkey", "synsets": ["bird"]},
+        ])
+        food_names = [entry["name"] for entry in categories["noun.food"]]
+        self.assertIn("turkey", food_names)
+        self.assertNotIn("straw", food_names)
+        self.assertEqual(food_names.count("ice cream"), 1)
+        root[0][:] = list(reversed(list(root[0])))
+        self.assertEqual(importer.extract_categories(root, foods), categories)
+
+    def test_preserves_verb_adjective_and_adverb_categories_and_all_senses(self):
+        root = ET.fromstring('''<LexicalResource><Lexicon>
+          <Synset id="v1" lexfile="verb.motion"/>
+          <Synset id="v2" lexfile="verb.motion"/>
+          <Synset id="a1" lexfile="adj.all"/>
+          <Synset id="r1" lexfile="adv.all"/>
+          <LexicalEntry><Lemma writtenForm="Go_on" partOfSpeech="v"/>
+            <Sense synset="v1"/><Sense synset="v2"/></LexicalEntry>
+          <LexicalEntry><Lemma writtenForm="go on" partOfSpeech="v"/>
+            <Sense synset="v1"/></LexicalEntry>
+          <LexicalEntry><Lemma writtenForm="bright" partOfSpeech="a"/>
+            <Sense synset="a1"/></LexicalEntry>
+          <LexicalEntry><Lemma writtenForm="brightly" partOfSpeech="r"/>
+            <Sense synset="r1"/></LexicalEntry>
+        </Lexicon></LexicalResource>''')
+        categories = importer.extract_categories(root, [])
+        self.assertEqual(categories["verb.motion"], [{"name": "go on", "synsets": ["v1", "v2"]}])
+        self.assertEqual(categories["adj.all"], [{"name": "bright", "synsets": ["a1"]}])
+        self.assertEqual(categories["adv.all"], [{"name": "brightly", "synsets": ["r1"]}])
+
     def test_classifies_senses_and_preserves_whole_names(self):
         entries, audit = importer.extract(dictionary(), POLICY)
         by_name = {entry["name"]: entry for entry in entries}

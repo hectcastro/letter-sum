@@ -3,31 +3,48 @@ import userEvent from '@testing-library/user-event';
 import { expect, test } from 'vitest';
 import App from './App';
 
-test('finds food and drink names and loads a match into the calculator', async () => {
+test('switches WordNet categories and loads a 100-point match into the calculator', async () => {
   const user = userEvent.setup();
   render(<App />);
   const finder = within(
-    screen.getByRole('region', { name: 'Find food & drink' }),
+    screen.getByRole('region', { name: 'Explore WordNet categories' }),
   );
 
   expect(finder.getByRole('button', { name: 'pumpkin' })).toBeVisible();
   expect(finder.getByRole('button', { name: 'whiskey' })).toBeVisible();
-  await user.selectOptions(finder.getByLabelText('Category'), 'drink');
+  expect(finder.getByLabelText('Target sum')).toHaveTextContent(/^100$/);
+  expect(finder.getAllByRole('combobox')).toHaveLength(1);
+  await user.selectOptions(finder.getByLabelText('Category'), 'noun.animal');
   expect(
     finder.queryByRole('button', { name: 'pumpkin' }),
   ).not.toBeInTheDocument();
-  await user.click(finder.getByRole('button', { name: 'whiskey' }));
-
-  expect(screen.getByLabelText('Letters or words')).toHaveValue('whiskey');
-  expect(screen.getByLabelText('Letters or words')).toHaveFocus();
-  expect(screen.getByLabelText('Letter sum')).toHaveTextContent(/^100$/);
-
-  await user.selectOptions(finder.getByLabelText('Target sum'), '1000');
   expect(
     finder.queryByRole('button', { name: 'whiskey' }),
   ).not.toBeInTheDocument();
-  expect(finder.getByText(/No matches in this list/)).toBeVisible();
-  expect(finder.getByText(/at least 39 letters/)).toBeVisible();
+  await user.click(finder.getByRole('button', { name: 'turkey' }));
+
+  expect(screen.getByLabelText('Letters or words')).toHaveValue('turkey');
+  expect(screen.getByLabelText('Letters or words')).toHaveFocus();
+  expect(screen.getByLabelText('Letter sum')).toHaveTextContent(/^100$/);
+
+  await user.selectOptions(finder.getByLabelText('Category'), 'noun.food');
+  expect(finder.getByRole('button', { name: 'whiskey' })).toBeVisible();
+});
+
+test('shows an empty category and recovers when another category is selected', async () => {
+  const user = userEvent.setup();
+  render(<App />);
+  const finder = within(
+    screen.getByRole('region', { name: 'Explore WordNet categories' }),
+  );
+  await user.selectOptions(finder.getByLabelText('Category'), 'noun.motive');
+  expect(finder.getByRole('status')).toHaveTextContent(
+    '0 matches in 78 terms searched in Motives.',
+  );
+  expect(finder.getByText(/No terms in motives add up to 100/)).toBeVisible();
+  expect(finder.queryByRole('list')).not.toBeInTheDocument();
+  await user.selectOptions(finder.getByLabelText('Category'), 'adj.ppl');
+  expect(finder.getAllByRole('button')).toHaveLength(2);
 });
 
 test('updates the sum, count, and breakdown as the user types', async () => {

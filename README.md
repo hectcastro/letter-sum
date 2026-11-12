@@ -2,9 +2,11 @@
 
 A single-page letter-value calculator. A–Z count as 1–26, independent of case. Other characters contribute zero. The total updates on every edit; letter tiles explain the result. For long input, the breakdown shows the first 200 letters and the total still includes all letters.
 
-## Food and drinks
+## WordNet category finder
 
-The finder uses a generated subset of [Open English Wordnet 2025](https://en-word.net/), supplemented by the original curated list. These are dictionary-derived candidates, not an exhaustive or fully hand-reviewed catalogue. Each entry is a whole name; the importer never combines names to achieve a target.
+Choose one of the 45 lexical categories from [Open English Wordnet 2025](https://en-word.net/) to see words and phrases whose letter sum is exactly **100**. Categories are grouped into nouns, verbs, adjectives, and adverbs. Food & drink is selected initially and includes the original curated additions. Selecting a match loads it into the calculator. The free-text calculator still accepts any total.
+
+These are dictionary-derived candidates, not an exhaustive or fully hand-reviewed catalogue. Each entry is a whole term; the importer never combines terms to achieve a target. Terms may belong to multiple categories when they have different meanings, but appear only once within each category. Categories with no matches remain selectable.
 
 ### Update the dictionary data
 
@@ -21,14 +23,16 @@ The first import downloads the pinned XML.gz release into ignored `.cache/wordne
 Review these files after each update:
 
 - `src/data/foodAndDrinks.generated.json`: sorted, deduplicated names, categories, original synset identifiers, and source attribution. Do not edit by hand.
-- `reports/food-terms.json`: category counts, additions/removals/reclassifications since the previous generated file (the curated list on the first import), excluded senses, ambiguous categories, and exact matches for 100 and 1000. Sums use the same TypeScript calculation function as the app. Repeating an unchanged import produces an empty changes section.
+- `src/data/wordnet.generated.json`: all category labels, candidate counts, exact matches for 100, synset identifiers, and attribution. The browser uses this compact dataset rather than the full dictionary. Do not edit by hand.
+- `scripts/wordnet-categories.json`: readable labels for the release's lexical categories. An unrecognized category fails report generation rather than being silently omitted.
+- `reports/food-terms.json`: food category counts, additions/removals/reclassifications since the previous generated file (the curated list on the first import), excluded senses, ambiguous categories, and exact matches for 100. Sums use the same TypeScript calculation function as the app. Repeating an unchanged import produces an empty changes section.
 - `src/data/foodAndDrinks.overrides.json`: reviewed additions and category corrections, plus exclusions with a reason. The original 261 entries are retained here. Add one established food, dish, or drink name per entry. Exclusions and additions may not contain the same name.
 
-Commit the generated file, overrides, source policy, and report together. Normal builds and the browser use committed data; they never fetch WordNet. The deployment workflow runs offline importer tests, not dictionary updates.
+Commit the generated files, overrides, category labels, source policy, and report together. All-category candidates are an ignored intermediate file at `.cache/wordnet/categories.json`; the report step filters them using the same TypeScript calculation function as the app. Normal builds and the browser use committed data; they never fetch WordNet. The deployment workflow runs offline importer tests, not dictionary updates.
 
 ### Selection rules and limitations
 
-`scripts/wordnet-source.json` pins the release, checksum, beverage root, and exclusions. The importer selects noun senses in `noun.food`, prunes branches for animal feed, meal occasions, diets, food supplies, cuisine, and portion sizes, then excludes selected generic concepts. Other senses of an excluded word remain eligible: for example, grain _meal_ is still an ingredient. Ordinary food categories and ingredients may remain; the list has not been individually verified in full.
+`scripts/wordnet-source.json` pins the release, checksum, beverage root, and food exclusions. All categories use each sense's WordNet `lexfile` classification. The food category (`noun.food`) retains the existing curation: it prunes branches for animal feed, meal occasions, diets, food supplies, cuisine, and portion sizes, then excludes selected generic concepts. Other senses of an excluded word remain eligible: for example, grain _meal_ is still an ingredient. The food exclusions do not remove senses from other categories. Ordinary food categories and ingredients may remain; the list has not been individually verified in full.
 
 Names under either the beverage root or the serving-of-a-drink root are drinks; other qualifying senses are foods. Named drinks under the latter root are retained despite the portion exclusion (for example, milkshakes). When a name has both food and drink senses, drink takes priority and the ambiguity is listed in the report. A curated addition can explicitly correct that category. Names are lowercased, underscores become spaces, and repeated whitespace is collapsed. Punctuation and accents are preserved; the calculator continues to count only ASCII A–Z. Alternative spellings remain separate.
 

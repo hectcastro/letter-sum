@@ -1,0 +1,9030 @@
+{
+  "source": {
+    "name": "Open English Wordnet",
+    "version": "2025",
+    "url": "https://en-word.net/static/english-wordnet-2025.xml.gz",
+    "sha256": "9ca6d1dcb75f822fdd66617f7d9da48142ace38dd544d6ad5e2feca1674ad3fe",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Open English Wordnet Community, derived from Princeton WordNet",
+    "homepage": "https://en-word.net/",
+    "beverageSynsets": [
+      "oewn-07897775-n",
+      "oewn-07901198-n"
+    ],
+    "excludedBranches": {
+      "oewn-07576468-n": "Diets and dietary regimens",
+      "oewn-07589261-n": "Meals and eating occasions rather than individual dishes",
+      "oewn-07816067-n": "Animal feed",
+      "oewn-07587918-n": "Food supplies and stores",
+      "oewn-07586889-n": "Cuisine and styles of cooking",
+      "oewn-07593928-n": "Portions and quantities"
+    },
+    "excludedSynsets": {
+      "oewn-07571428-n": "Generic solid food",
+      "oewn-07572202-n": "Generic edible substance",
+      "oewn-07572535-n": "Generic course of a meal",
+      "oewn-07572999-n": "Generic dish",
+      "oewn-07575987-n": "Generic nourishment",
+      "oewn-07576217-n": "Generic fare",
+      "oewn-07581905-n": "Generic foodstuff",
+      "oewn-07586285-n": "Generic nutrition and sustenance",
+      "oewn-07588522-n": "Generic canned foods",
+      "oewn-07588423-n": "Generic frozen foods",
+      "oewn-07589018-n": "Generic dehydrated foods",
+      "oewn-07897775-n": "Generic beverage",
+      "oewn-07901198-n": "Generic serving of a drink"
+    }
+  },
+  "target": 100,
+  "categories": [
+    {
+      "id": "adj.all",
+      "label": "General adjectives",
+      "count": 17716,
+      "matches": [
+        {
+          "name": "acquitted",
+          "synsets": [
+            "oewn-01323426-s"
+          ]
+        },
+        {
+          "name": "agamogenetic",
+          "synsets": [
+            "oewn-02143570-s"
+          ]
+        },
+        {
+          "name": "ametropic",
+          "synsets": [
+            "oewn-00106187-a"
+          ]
+        },
+        {
+          "name": "anchoritic",
+          "synsets": [
+            "oewn-02588984-s"
+          ]
+        },
+        {
+          "name": "answerable",
+          "synsets": [
+            "oewn-02003975-s",
+            "oewn-02004321-s",
+            "oewn-02274107-s"
+          ]
+        },
+        {
+          "name": "anterior",
+          "synsets": [
+            "oewn-00122938-s",
+            "oewn-00131850-a"
+          ]
+        },
+        {
+          "name": "anti-beijing",
+          "synsets": [
+            "oewn-85589447-a"
+          ]
+        },
+        {
+          "name": "appointed",
+          "synsets": [
+            "oewn-00850001-a",
+            "oewn-00850735-s",
+            "oewn-01101008-s",
+            "oewn-02137098-s"
+          ]
+        },
+        {
+          "name": "apropos",
+          "synsets": [
+            "oewn-00139437-a"
+          ]
+        },
+        {
+          "name": "asyndetic",
+          "synsets": [
+            "oewn-02389757-a"
+          ]
+        },
+        {
+          "name": "automated",
+          "synsets": [
+            "oewn-00183386-s"
+          ]
+        },
+        {
+          "name": "bacilliform",
+          "synsets": [
+            "oewn-02152403-s"
+          ]
+        },
+        {
+          "name": "backswept",
+          "synsets": [
+            "oewn-00203314-s"
+          ]
+        },
+        {
+          "name": "baculiform",
+          "synsets": [
+            "oewn-02152403-s"
+          ]
+        },
+        {
+          "name": "ball-hawking",
+          "synsets": [
+            "oewn-02234501-s"
+          ]
+        },
+        {
+          "name": "bare-breasted",
+          "synsets": [
+            "oewn-00460521-s"
+          ]
+        },
+        {
+          "name": "bettering",
+          "synsets": [
+            "oewn-00233826-a"
+          ]
+        },
+        {
+          "name": "bewitching",
+          "synsets": [
+            "oewn-00168015-s"
+          ]
+        },
+        {
+          "name": "biloculate",
+          "synsets": [
+            "oewn-02489644-s"
+          ]
+        },
+        {
+          "name": "biovular",
+          "synsets": [
+            "oewn-00293164-a"
+          ]
+        },
+        {
+          "name": "bipartite",
+          "synsets": [
+            "oewn-00239629-s",
+            "oewn-02179495-s"
+          ]
+        },
+        {
+          "name": "blissful",
+          "synsets": [
+            "oewn-01152400-s"
+          ]
+        },
+        {
+          "name": "blue-ribbon",
+          "synsets": [
+            "oewn-02350415-s"
+          ]
+        },
+        {
+          "name": "bluish black",
+          "synsets": [
+            "oewn-00389213-s"
+          ]
+        },
+        {
+          "name": "bone-lazy",
+          "synsets": [
+            "oewn-00295329-s"
+          ]
+        },
+        {
+          "name": "bronzy",
+          "synsets": [
+            "oewn-00373007-s"
+          ]
+        },
+        {
+          "name": "burnished",
+          "synsets": [
+            "oewn-01817522-s"
+          ]
+        },
+        {
+          "name": "censurable",
+          "synsets": [
+            "oewn-01324481-s"
+          ]
+        },
+        {
+          "name": "clockwise",
+          "synsets": [
+            "oewn-00443798-a"
+          ]
+        },
+        {
+          "name": "complicit",
+          "synsets": [
+            "oewn-83396940-s"
+          ]
+        },
+        {
+          "name": "congenital",
+          "synsets": [
+            "oewn-01318798-s"
+          ]
+        },
+        {
+          "name": "conjoint",
+          "synsets": [
+            "oewn-02119735-s"
+          ]
+        },
+        {
+          "name": "conjugated",
+          "synsets": [
+            "oewn-01062757-s",
+            "oewn-01062951-s",
+            "oewn-02486686-s"
+          ]
+        },
+        {
+          "name": "conjunct",
+          "synsets": [
+            "oewn-00568064-a",
+            "oewn-02119388-s",
+            "oewn-02486810-s"
+          ]
+        },
+        {
+          "name": "contented",
+          "synsets": [
+            "oewn-00591490-a"
+          ]
+        },
+        {
+          "name": "costumed",
+          "synsets": [
+            "oewn-00457518-s"
+          ]
+        },
+        {
+          "name": "cut out",
+          "synsets": [
+            "oewn-00666655-s"
+          ]
+        },
+        {
+          "name": "declarative",
+          "synsets": [
+            "oewn-00690167-a"
+          ]
+        },
+        {
+          "name": "decorous",
+          "synsets": [
+            "oewn-00692224-a",
+            "oewn-01884969-s"
+          ]
+        },
+        {
+          "name": "denumerable",
+          "synsets": [
+            "oewn-00302449-s"
+          ]
+        },
+        {
+          "name": "dioecious",
+          "synsets": [
+            "oewn-01547800-a"
+          ]
+        },
+        {
+          "name": "disarranged",
+          "synsets": [
+            "oewn-01686267-a"
+          ]
+        },
+        {
+          "name": "discernible",
+          "synsets": [
+            "oewn-00584163-a",
+            "oewn-01290488-s",
+            "oewn-01751668-s"
+          ]
+        },
+        {
+          "name": "discredited",
+          "synsets": [
+            "oewn-00155430-s",
+            "oewn-01991317-s"
+          ]
+        },
+        {
+          "name": "disjoint",
+          "synsets": [
+            "oewn-02118273-s"
+          ]
+        },
+        {
+          "name": "disjunct",
+          "synsets": [
+            "oewn-00568227-a",
+            "oewn-00599911-s",
+            "oewn-02118375-s",
+            "oewn-02491135-s"
+          ]
+        },
+        {
+          "name": "distrait",
+          "synsets": [
+            "oewn-00166720-s"
+          ]
+        },
+        {
+          "name": "double-bass",
+          "synsets": [
+            "oewn-01218816-s"
+          ]
+        },
+        {
+          "name": "drug-addicted",
+          "synsets": [
+            "oewn-00047626-s"
+          ]
+        },
+        {
+          "name": "dyslectic",
+          "synsets": [
+            "oewn-01278305-s"
+          ]
+        },
+        {
+          "name": "ebullient",
+          "synsets": [
+            "oewn-02287457-s"
+          ]
+        },
+        {
+          "name": "egoistical",
+          "synsets": [
+            "oewn-02105605-a"
+          ]
+        },
+        {
+          "name": "emasculate",
+          "synsets": [
+            "oewn-01479632-s"
+          ]
+        },
+        {
+          "name": "empathetic",
+          "synsets": [
+            "oewn-02384207-s"
+          ]
+        },
+        {
+          "name": "eventual",
+          "synsets": [
+            "oewn-01583264-s"
+          ]
+        },
+        {
+          "name": "excellent",
+          "synsets": [
+            "oewn-02351216-s"
+          ]
+        },
+        {
+          "name": "exergonic",
+          "synsets": [
+            "oewn-00292714-a"
+          ]
+        },
+        {
+          "name": "extendible",
+          "synsets": [
+            "oewn-01437405-s"
+          ]
+        },
+        {
+          "name": "eye-catching",
+          "synsets": [
+            "oewn-00581849-s"
+          ]
+        },
+        {
+          "name": "featherlike",
+          "synsets": [
+            "oewn-01001626-s"
+          ]
+        },
+        {
+          "name": "fifty-one",
+          "synsets": [
+            "oewn-02198975-s"
+          ]
+        },
+        {
+          "name": "fresh-cut",
+          "synsets": [
+            "oewn-01071924-s"
+          ]
+        },
+        {
+          "name": "frigorific",
+          "synsets": [
+            "oewn-01256094-s"
+          ]
+        },
+        {
+          "name": "gray-green",
+          "synsets": [
+            "oewn-00376782-s"
+          ]
+        },
+        {
+          "name": "great bellied",
+          "synsets": [
+            "oewn-00224367-s"
+          ]
+        },
+        {
+          "name": "grey-haired",
+          "synsets": [
+            "oewn-01650120-s"
+          ]
+        },
+        {
+          "name": "grumpy",
+          "synsets": [
+            "oewn-01139748-s"
+          ]
+        },
+        {
+          "name": "gusseted",
+          "synsets": [
+            "oewn-00211873-a"
+          ]
+        },
+        {
+          "name": "hifalutin",
+          "synsets": [
+            "oewn-01856216-s"
+          ]
+        },
+        {
+          "name": "high-ceilinged",
+          "synsets": [
+            "oewn-01212656-s"
+          ]
+        },
+        {
+          "name": "high-ticket",
+          "synsets": [
+            "oewn-00936684-s"
+          ]
+        },
+        {
+          "name": "hirsute",
+          "synsets": [
+            "oewn-00213765-a"
+          ]
+        },
+        {
+          "name": "honoured",
+          "synsets": [
+            "oewn-01990022-s"
+          ]
+        },
+        {
+          "name": "hot-blooded",
+          "synsets": [
+            "oewn-00858752-s"
+          ]
+        },
+        {
+          "name": "immature",
+          "synsets": [
+            "oewn-01100164-a",
+            "oewn-01493085-a",
+            "oewn-01495542-a",
+            "oewn-01497045-a",
+            "oewn-01651383-a"
+          ]
+        },
+        {
+          "name": "impendent",
+          "synsets": [
+            "oewn-00450348-s"
+          ]
+        },
+        {
+          "name": "imported",
+          "synsets": [
+            "oewn-01039407-s"
+          ]
+        },
+        {
+          "name": "impugnable",
+          "synsets": [
+            "oewn-01924315-s"
+          ]
+        },
+        {
+          "name": "in store",
+          "synsets": [
+            "oewn-01737438-s"
+          ]
+        },
+        {
+          "name": "inapplicable",
+          "synsets": [
+            "oewn-01983915-s"
+          ]
+        },
+        {
+          "name": "inefficient",
+          "synsets": [
+            "oewn-00513664-s",
+            "oewn-00844441-a"
+          ]
+        },
+        {
+          "name": "ingrown",
+          "synsets": [
+            "oewn-01180979-s"
+          ]
+        },
+        {
+          "name": "king-size",
+          "synsets": [
+            "oewn-01391162-s"
+          ]
+        },
+        {
+          "name": "life-giving",
+          "synsets": [
+            "oewn-01360332-s"
+          ]
+        },
+        {
+          "name": "long-lived",
+          "synsets": [
+            "oewn-01442370-s"
+          ]
+        },
+        {
+          "name": "low-keyed",
+          "synsets": [
+            "oewn-02007502-s"
+          ]
+        },
+        {
+          "name": "lxxvii",
+          "synsets": [
+            "oewn-02201483-s"
+          ]
+        },
+        {
+          "name": "matchless",
+          "synsets": [
+            "oewn-00507322-s"
+          ]
+        },
+        {
+          "name": "mercantile",
+          "synsets": [
+            "oewn-00485639-s",
+            "oewn-00485804-s"
+          ]
+        },
+        {
+          "name": "mercurial",
+          "synsets": [
+            "oewn-00346106-s"
+          ]
+        },
+        {
+          "name": "meridional",
+          "synsets": [
+            "oewn-01610027-s"
+          ]
+        },
+        {
+          "name": "milkless",
+          "synsets": [
+            "oewn-02565433-s"
+          ]
+        },
+        {
+          "name": "mirrored",
+          "synsets": [
+            "oewn-02016013-s"
+          ]
+        },
+        {
+          "name": "molecular",
+          "synsets": [
+            "oewn-01546419-a"
+          ]
+        },
+        {
+          "name": "neoclassic",
+          "synsets": [
+            "oewn-00415599-s"
+          ]
+        },
+        {
+          "name": "noncausal",
+          "synsets": [
+            "oewn-00326095-a"
+          ]
+        },
+        {
+          "name": "nonhuman",
+          "synsets": [
+            "oewn-01263095-a"
+          ]
+        },
+        {
+          "name": "nostalgic",
+          "synsets": [
+            "oewn-00892391-s"
+          ]
+        },
+        {
+          "name": "notional",
+          "synsets": [
+            "oewn-00012090-s",
+            "oewn-00646620-s",
+            "oewn-00865005-s",
+            "oewn-01943120-s"
+          ]
+        },
+        {
+          "name": "nutty",
+          "synsets": [
+            "oewn-02082059-s",
+            "oewn-02407004-s"
+          ]
+        },
+        {
+          "name": "oleophobic",
+          "synsets": [
+            "oewn-00494640-a"
+          ]
+        },
+        {
+          "name": "olive-like",
+          "synsets": [
+            "oewn-02054248-s"
+          ]
+        },
+        {
+          "name": "olivelike",
+          "synsets": [
+            "oewn-02054248-s"
+          ]
+        },
+        {
+          "name": "one-woman",
+          "synsets": [
+            "oewn-02222187-s"
+          ]
+        },
+        {
+          "name": "outlined",
+          "synsets": [
+            "oewn-00784271-s"
+          ]
+        },
+        {
+          "name": "palatalised",
+          "synsets": [
+            "oewn-01161001-s"
+          ]
+        },
+        {
+          "name": "pandurate",
+          "synsets": [
+            "oewn-02177609-s"
+          ]
+        },
+        {
+          "name": "pathless",
+          "synsets": [
+            "oewn-00020278-s"
+          ]
+        },
+        {
+          "name": "pebble-grained",
+          "synsets": [
+            "oewn-00916094-s"
+          ]
+        },
+        {
+          "name": "pederastic",
+          "synsets": [
+            "oewn-02608526-a"
+          ]
+        },
+        {
+          "name": "pegged-down",
+          "synsets": [
+            "oewn-02103363-s"
+          ]
+        },
+        {
+          "name": "personal",
+          "synsets": [
+            "oewn-01771841-a",
+            "oewn-01783973-s"
+          ]
+        },
+        {
+          "name": "pixilated",
+          "synsets": [
+            "oewn-00801674-s",
+            "oewn-02130013-s"
+          ]
+        },
+        {
+          "name": "plastered",
+          "synsets": [
+            "oewn-00801674-s",
+            "oewn-01701582-s",
+            "oewn-02436530-s"
+          ]
+        },
+        {
+          "name": "plummy",
+          "synsets": [
+            "oewn-00074824-s",
+            "oewn-00737175-s"
+          ]
+        },
+        {
+          "name": "postpaid",
+          "synsets": [
+            "oewn-01713890-s"
+          ]
+        },
+        {
+          "name": "potbellied",
+          "synsets": [
+            "oewn-00989648-s"
+          ]
+        },
+        {
+          "name": "pouchlike",
+          "synsets": [
+            "oewn-00538524-s"
+          ]
+        },
+        {
+          "name": "pouring",
+          "synsets": [
+            "oewn-01243678-s"
+          ]
+        },
+        {
+          "name": "primary",
+          "synsets": [
+            "oewn-00702966-s",
+            "oewn-01280536-s",
+            "oewn-01858102-a",
+            "oewn-01862151-s"
+          ]
+        },
+        {
+          "name": "profuse",
+          "synsets": [
+            "oewn-00015284-s"
+          ]
+        },
+        {
+          "name": "publicised",
+          "synsets": [
+            "oewn-00471594-a"
+          ]
+        },
+        {
+          "name": "pussy",
+          "synsets": [
+            "oewn-02121893-s"
+          ]
+        },
+        {
+          "name": "reciprocal",
+          "synsets": [
+            "oewn-00773320-s",
+            "oewn-01952167-a"
+          ]
+        },
+        {
+          "name": "regimented",
+          "synsets": [
+            "oewn-00602389-s"
+          ]
+        },
+        {
+          "name": "related to",
+          "synsets": [
+            "oewn-01979885-a"
+          ]
+        },
+        {
+          "name": "reprobate",
+          "synsets": [
+            "oewn-00624143-s"
+          ]
+        },
+        {
+          "name": "reputable",
+          "synsets": [
+            "oewn-01989711-a"
+          ]
+        },
+        {
+          "name": "resolved",
+          "synsets": [
+            "oewn-01998349-s",
+            "oewn-02274768-a"
+          ]
+        },
+        {
+          "name": "retiring",
+          "synsets": [
+            "oewn-00158534-s",
+            "oewn-01299212-s",
+            "oewn-01543612-s"
+          ]
+        },
+        {
+          "name": "rimeless",
+          "synsets": [
+            "oewn-01973380-a"
+          ]
+        },
+        {
+          "name": "saintlike",
+          "synsets": [
+            "oewn-01133761-s"
+          ]
+        },
+        {
+          "name": "saintly",
+          "synsets": [
+            "oewn-01133761-s"
+          ]
+        },
+        {
+          "name": "salacious",
+          "synsets": [
+            "oewn-00427259-s",
+            "oewn-02141133-s"
+          ]
+        },
+        {
+          "name": "savory",
+          "synsets": [
+            "oewn-00134740-s",
+            "oewn-01632017-a",
+            "oewn-02407127-s"
+          ]
+        },
+        {
+          "name": "sculpted",
+          "synsets": [
+            "oewn-00318378-s"
+          ]
+        },
+        {
+          "name": "selective",
+          "synsets": [
+            "oewn-00779252-s",
+            "oewn-01869196-s"
+          ]
+        },
+        {
+          "name": "set-apart",
+          "synsets": [
+            "oewn-02117727-s"
+          ]
+        },
+        {
+          "name": "shattered",
+          "synsets": [
+            "oewn-00740215-s"
+          ]
+        },
+        {
+          "name": "sightly",
+          "synsets": [
+            "oewn-00220032-s"
+          ]
+        },
+        {
+          "name": "slicked up",
+          "synsets": [
+            "oewn-02432638-s"
+          ]
+        },
+        {
+          "name": "smitten",
+          "synsets": [
+            "oewn-00071850-s",
+            "oewn-01468558-s"
+          ]
+        },
+        {
+          "name": "sobersided",
+          "synsets": [
+            "oewn-01271746-s"
+          ]
+        },
+        {
+          "name": "soughing",
+          "synsets": [
+            "oewn-01459000-s"
+          ]
+        },
+        {
+          "name": "spirited",
+          "synsets": [
+            "oewn-00119655-s",
+            "oewn-00264860-s",
+            "oewn-00808879-s",
+            "oewn-02286688-a"
+          ]
+        },
+        {
+          "name": "splashy",
+          "synsets": [
+            "oewn-01702223-s",
+            "oewn-01854629-s"
+          ]
+        },
+        {
+          "name": "squinched",
+          "synsets": [
+            "oewn-01660077-s"
+          ]
+        },
+        {
+          "name": "squint",
+          "synsets": [
+            "oewn-00766264-s"
+          ]
+        },
+        {
+          "name": "stabilised",
+          "synsets": [
+            "oewn-02299486-s"
+          ]
+        },
+        {
+          "name": "stalemated",
+          "synsets": [
+            "oewn-01625605-s"
+          ]
+        },
+        {
+          "name": "strangled",
+          "synsets": [
+            "oewn-01319762-s"
+          ]
+        },
+        {
+          "name": "subjugable",
+          "synsets": [
+            "oewn-00571732-s"
+          ]
+        },
+        {
+          "name": "sweetened",
+          "synsets": [
+            "oewn-02346267-s"
+          ]
+        },
+        {
+          "name": "sweptback",
+          "synsets": [
+            "oewn-00203314-s",
+            "oewn-02379462-s"
+          ]
+        },
+        {
+          "name": "swollen",
+          "synsets": [
+            "oewn-01178109-s",
+            "oewn-01897840-s"
+          ]
+        },
+        {
+          "name": "temporal",
+          "synsets": [
+            "oewn-01185448-s",
+            "oewn-01762426-s",
+            "oewn-02587499-a"
+          ]
+        },
+        {
+          "name": "thickening",
+          "synsets": [
+            "oewn-01343744-s",
+            "oewn-02186787-s"
+          ]
+        },
+        {
+          "name": "thievish",
+          "synsets": [
+            "oewn-01228167-s"
+          ]
+        },
+        {
+          "name": "thirty",
+          "synsets": [
+            "oewn-02196945-s"
+          ]
+        },
+        {
+          "name": "thorny",
+          "synsets": [
+            "oewn-00146351-s",
+            "oewn-00752287-s"
+          ]
+        },
+        {
+          "name": "threatened",
+          "synsets": [
+            "oewn-02534847-s"
+          ]
+        },
+        {
+          "name": "trademarked",
+          "synsets": [
+            "oewn-01114530-s"
+          ]
+        },
+        {
+          "name": "trembling",
+          "synsets": [
+            "oewn-02312246-s"
+          ]
+        },
+        {
+          "name": "twisted",
+          "synsets": [
+            "oewn-01314022-s"
+          ]
+        },
+        {
+          "name": "unaltered",
+          "synsets": [
+            "oewn-00354307-a"
+          ]
+        },
+        {
+          "name": "unangry",
+          "synsets": [
+            "oewn-00117274-a"
+          ]
+        },
+        {
+          "name": "unavailable",
+          "synsets": [
+            "oewn-00187221-a"
+          ]
+        },
+        {
+          "name": "unbalconied",
+          "synsets": [
+            "oewn-00207719-a"
+          ]
+        },
+        {
+          "name": "unbarreled",
+          "synsets": [
+            "oewn-00207909-a"
+          ]
+        },
+        {
+          "name": "unbeholden",
+          "synsets": [
+            "oewn-01621743-s"
+          ]
+        },
+        {
+          "name": "unbeloved",
+          "synsets": [
+            "oewn-01466336-s"
+          ]
+        },
+        {
+          "name": "unbounded",
+          "synsets": [
+            "oewn-01011246-s"
+          ]
+        },
+        {
+          "name": "unbridgeable",
+          "synsets": [
+            "oewn-00279284-a"
+          ]
+        },
+        {
+          "name": "unbroken",
+          "synsets": [
+            "oewn-00290231-a",
+            "oewn-00290665-a",
+            "oewn-00291789-a",
+            "oewn-01838944-a",
+            "oewn-02398287-s"
+          ]
+        },
+        {
+          "name": "unclipped",
+          "synsets": [
+            "oewn-02464222-s"
+          ]
+        },
+        {
+          "name": "uncombined",
+          "synsets": [
+            "oewn-01333738-a"
+          ]
+        },
+        {
+          "name": "under fire",
+          "synsets": [
+            "oewn-02535059-s"
+          ]
+        },
+        {
+          "name": "underdone",
+          "synsets": [
+            "oewn-00622220-s"
+          ]
+        },
+        {
+          "name": "unequaled",
+          "synsets": [
+            "oewn-00507765-s"
+          ]
+        },
+        {
+          "name": "unironed",
+          "synsets": [
+            "oewn-01362777-a"
+          ]
+        },
+        {
+          "name": "unkempt",
+          "synsets": [
+            "oewn-02435702-s",
+            "oewn-02438273-s"
+          ]
+        },
+        {
+          "name": "unlighted",
+          "synsets": [
+            "oewn-00276851-s",
+            "oewn-00477739-a"
+          ]
+        },
+        {
+          "name": "unmanlike",
+          "synsets": [
+            "oewn-01479461-a"
+          ]
+        },
+        {
+          "name": "unmanly",
+          "synsets": [
+            "oewn-00267286-s",
+            "oewn-01479461-a"
+          ]
+        },
+        {
+          "name": "unmatchable",
+          "synsets": [
+            "oewn-00507322-s"
+          ]
+        },
+        {
+          "name": "unmodified",
+          "synsets": [
+            "oewn-01545181-a"
+          ]
+        },
+        {
+          "name": "unmown",
+          "synsets": [
+            "oewn-01570681-a"
+          ]
+        },
+        {
+          "name": "unrelated",
+          "synsets": [
+            "oewn-01979661-a",
+            "oewn-01981804-a"
+          ]
+        },
+        {
+          "name": "unshelled",
+          "synsets": [
+            "oewn-02607322-a"
+          ]
+        },
+        {
+          "name": "unuseable",
+          "synsets": [
+            "oewn-02507643-s"
+          ]
+        },
+        {
+          "name": "unvalued",
+          "synsets": [
+            "oewn-00028980-s"
+          ]
+        },
+        {
+          "name": "unwearied",
+          "synsets": [
+            "oewn-02443747-s"
+          ]
+        },
+        {
+          "name": "unwilled",
+          "synsets": [
+            "oewn-02532138-s"
+          ]
+        },
+        {
+          "name": "urbanized",
+          "synsets": [
+            "oewn-02060234-s"
+          ]
+        },
+        {
+          "name": "useless",
+          "synsets": [
+            "oewn-02506940-a"
+          ]
+        },
+        {
+          "name": "uxorial",
+          "synsets": [
+            "oewn-01739724-a"
+          ]
+        },
+        {
+          "name": "varnished",
+          "synsets": [
+            "oewn-01718166-s"
+          ]
+        },
+        {
+          "name": "vase-shaped",
+          "synsets": [
+            "oewn-02158649-s"
+          ]
+        },
+        {
+          "name": "well-fixed",
+          "synsets": [
+            "oewn-02029807-s"
+          ]
+        },
+        {
+          "name": "wholesale",
+          "synsets": [
+            "oewn-00777741-s"
+          ]
+        },
+        {
+          "name": "wire-haired",
+          "synsets": [
+            "oewn-00218012-s"
+          ]
+        },
+        {
+          "name": "witchlike",
+          "synsets": [
+            "oewn-01582081-s"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj.pert",
+      "label": "Relational adjectives",
+      "count": 4365,
+      "matches": [
+        {
+          "name": "agrological",
+          "synsets": [
+            "oewn-02619170-a"
+          ]
+        },
+        {
+          "name": "anginous",
+          "synsets": [
+            "oewn-02633454-a"
+          ]
+        },
+        {
+          "name": "anglo-indian",
+          "synsets": [
+            "oewn-02932512-a"
+          ]
+        },
+        {
+          "name": "apoplectic",
+          "synsets": [
+            "oewn-02645220-a"
+          ]
+        },
+        {
+          "name": "archdiocesan",
+          "synsets": [
+            "oewn-02649844-a"
+          ]
+        },
+        {
+          "name": "auctorial",
+          "synsets": [
+            "oewn-02661719-a"
+          ]
+        },
+        {
+          "name": "bismarckian",
+          "synsets": [
+            "oewn-03040647-a"
+          ]
+        },
+        {
+          "name": "campanular",
+          "synsets": [
+            "oewn-02687347-a"
+          ]
+        },
+        {
+          "name": "carboxyl",
+          "synsets": [
+            "oewn-02690390-a"
+          ]
+        },
+        {
+          "name": "carroty",
+          "synsets": [
+            "oewn-03144650-a"
+          ]
+        },
+        {
+          "name": "catechistic",
+          "synsets": [
+            "oewn-02993720-a"
+          ]
+        },
+        {
+          "name": "cenogenetic",
+          "synsets": [
+            "oewn-02697928-a"
+          ]
+        },
+        {
+          "name": "cometary",
+          "synsets": [
+            "oewn-02992128-a"
+          ]
+        },
+        {
+          "name": "declarative",
+          "synsets": [
+            "oewn-03105977-a"
+          ]
+        },
+        {
+          "name": "diaphyseal",
+          "synsets": [
+            "oewn-03002128-a"
+          ]
+        },
+        {
+          "name": "digestive",
+          "synsets": [
+            "oewn-03071790-a"
+          ]
+        },
+        {
+          "name": "dolomitic",
+          "synsets": [
+            "oewn-03073556-a"
+          ]
+        },
+        {
+          "name": "eponymic",
+          "synsets": [
+            "oewn-03048109-a"
+          ]
+        },
+        {
+          "name": "fatalistic",
+          "synsets": [
+            "oewn-03076921-a"
+          ]
+        },
+        {
+          "name": "fenestral",
+          "synsets": [
+            "oewn-02736887-a",
+            "oewn-02736968-a"
+          ]
+        },
+        {
+          "name": "glycogenic",
+          "synsets": [
+            "oewn-02747129-a"
+          ]
+        },
+        {
+          "name": "hematogenic",
+          "synsets": [
+            "oewn-02750332-a"
+          ]
+        },
+        {
+          "name": "jurassic",
+          "synsets": [
+            "oewn-02764250-a"
+          ]
+        },
+        {
+          "name": "mercantile",
+          "synsets": [
+            "oewn-03006990-a"
+          ]
+        },
+        {
+          "name": "mercurial",
+          "synsets": [
+            "oewn-02877560-a",
+            "oewn-02877730-a",
+            "oewn-02877956-a"
+          ]
+        },
+        {
+          "name": "meridional",
+          "synsets": [
+            "oewn-02774596-a"
+          ]
+        },
+        {
+          "name": "molecular",
+          "synsets": [
+            "oewn-02911952-a"
+          ]
+        },
+        {
+          "name": "mongolian",
+          "synsets": [
+            "oewn-03098516-a",
+            "oewn-03098852-a"
+          ]
+        },
+        {
+          "name": "morphemic",
+          "synsets": [
+            "oewn-02947747-a"
+          ]
+        },
+        {
+          "name": "neuronal",
+          "synsets": [
+            "oewn-02905371-a"
+          ]
+        },
+        {
+          "name": "pakistani",
+          "synsets": [
+            "oewn-03107421-a"
+          ]
+        },
+        {
+          "name": "personal",
+          "synsets": [
+            "oewn-02869796-a",
+            "oewn-02869905-a"
+          ]
+        },
+        {
+          "name": "pianistic",
+          "synsets": [
+            "oewn-03034730-a",
+            "oewn-03034862-a"
+          ]
+        },
+        {
+          "name": "pictural",
+          "synsets": [
+            "oewn-02872706-a"
+          ]
+        },
+        {
+          "name": "saudi-arabian",
+          "synsets": [
+            "oewn-03125807-a"
+          ]
+        },
+        {
+          "name": "sclerosed",
+          "synsets": [
+            "oewn-02804337-a"
+          ]
+        },
+        {
+          "name": "shakedown",
+          "synsets": [
+            "oewn-03156214-a"
+          ]
+        },
+        {
+          "name": "splashy",
+          "synsets": [
+            "oewn-02811860-a"
+          ]
+        },
+        {
+          "name": "sumerian",
+          "synsets": [
+            "oewn-02816154-a"
+          ]
+        },
+        {
+          "name": "tanzanian",
+          "synsets": [
+            "oewn-03134681-a"
+          ]
+        },
+        {
+          "name": "telluric",
+          "synsets": [
+            "oewn-02821041-a",
+            "oewn-02821356-a"
+          ]
+        },
+        {
+          "name": "temporal",
+          "synsets": [
+            "oewn-02821678-a",
+            "oewn-02821821-a"
+          ]
+        },
+        {
+          "name": "urceolate",
+          "synsets": [
+            "oewn-02832182-a"
+          ]
+        },
+        {
+          "name": "vacuolate",
+          "synsets": [
+            "oewn-02832814-a"
+          ]
+        },
+        {
+          "name": "vinous",
+          "synsets": [
+            "oewn-02864898-a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj.ppl",
+      "label": "Participial adjectives",
+      "count": 76,
+      "matches": [
+        {
+          "name": "sanitised",
+          "synsets": [
+            "oewn-03165565-a"
+          ]
+        },
+        {
+          "name": "thoriated",
+          "synsets": [
+            "oewn-03166660-a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adv.all",
+      "label": "Adverbs",
+      "count": 4485,
+      "matches": [
+        {
+          "name": "annually",
+          "synsets": [
+            "oewn-00082087-r",
+            "oewn-00252039-r"
+          ]
+        },
+        {
+          "name": "apropos",
+          "synsets": [
+            "oewn-00157363-r",
+            "oewn-00275183-r"
+          ]
+        },
+        {
+          "name": "as it were",
+          "synsets": [
+            "oewn-00153834-r"
+          ]
+        },
+        {
+          "name": "at the best",
+          "synsets": [
+            "oewn-00106462-r"
+          ]
+        },
+        {
+          "name": "atonally",
+          "synsets": [
+            "oewn-00238395-r"
+          ]
+        },
+        {
+          "name": "awfully",
+          "synsets": [
+            "oewn-00055488-r",
+            "oewn-00055639-r",
+            "oewn-00056878-r"
+          ]
+        },
+        {
+          "name": "chirpily",
+          "synsets": [
+            "oewn-00282160-r"
+          ]
+        },
+        {
+          "name": "clinically",
+          "synsets": [
+            "oewn-00065121-r"
+          ]
+        },
+        {
+          "name": "clockwise",
+          "synsets": [
+            "oewn-00255849-r"
+          ]
+        },
+        {
+          "name": "concavely",
+          "synsets": [
+            "oewn-00502021-r"
+          ]
+        },
+        {
+          "name": "diagonally",
+          "synsets": [
+            "oewn-00312113-r"
+          ]
+        },
+        {
+          "name": "divinely",
+          "synsets": [
+            "oewn-00191587-r"
+          ]
+        },
+        {
+          "name": "elsewhere",
+          "synsets": [
+            "oewn-00085352-r"
+          ]
+        },
+        {
+          "name": "finitely",
+          "synsets": [
+            "oewn-00226736-r"
+          ]
+        },
+        {
+          "name": "glissando",
+          "synsets": [
+            "oewn-00350388-r"
+          ]
+        },
+        {
+          "name": "healthily",
+          "synsets": [
+            "oewn-00184008-r"
+          ]
+        },
+        {
+          "name": "in due time",
+          "synsets": [
+            "oewn-00166484-r"
+          ]
+        },
+        {
+          "name": "innately",
+          "synsets": [
+            "oewn-00377503-r"
+          ]
+        },
+        {
+          "name": "like a shot",
+          "synsets": [
+            "oewn-00049277-r"
+          ]
+        },
+        {
+          "name": "limpidly",
+          "synsets": [
+            "oewn-00391499-r"
+          ]
+        },
+        {
+          "name": "merrily",
+          "synsets": [
+            "oewn-00050835-r"
+          ]
+        },
+        {
+          "name": "nastily",
+          "synsets": [
+            "oewn-00408963-r"
+          ]
+        },
+        {
+          "name": "no longer",
+          "synsets": [
+            "oewn-00031911-r"
+          ]
+        },
+        {
+          "name": "obscenely",
+          "synsets": [
+            "oewn-00390651-r",
+            "oewn-00414231-r"
+          ]
+        },
+        {
+          "name": "offhandedly",
+          "synsets": [
+            "oewn-00264858-r",
+            "oewn-00265088-r"
+          ]
+        },
+        {
+          "name": "overboard",
+          "synsets": [
+            "oewn-00174563-r",
+            "oewn-00509248-r"
+          ]
+        },
+        {
+          "name": "post-paid",
+          "synsets": [
+            "oewn-00429740-r"
+          ]
+        },
+        {
+          "name": "publicly",
+          "synsets": [
+            "oewn-00163131-r",
+            "oewn-00163964-r"
+          ]
+        },
+        {
+          "name": "sou'-east",
+          "synsets": [
+            "oewn-00464314-r"
+          ]
+        },
+        {
+          "name": "surely",
+          "synsets": [
+            "oewn-00145758-r"
+          ]
+        },
+        {
+          "name": "tensely",
+          "synsets": [
+            "oewn-00175276-r"
+          ]
+        },
+        {
+          "name": "therefore",
+          "synsets": [
+            "oewn-00043413-r",
+            "oewn-00295773-r"
+          ]
+        },
+        {
+          "name": "unmanly",
+          "synsets": [
+            "oewn-00392720-r"
+          ]
+        },
+        {
+          "name": "wholesale",
+          "synsets": [
+            "oewn-00262135-r",
+            "oewn-00444667-r"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.Tops",
+      "label": "General concepts",
+      "count": 83,
+      "matches": [
+        {
+          "name": "animate being",
+          "synsets": [
+            "oewn-00015568-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.act",
+      "label": "Acts & activities",
+      "count": 9244,
+      "matches": [
+        {
+          "name": "able-bodiedism",
+          "synsets": [
+            "oewn-01156732-n"
+          ]
+        },
+        {
+          "name": "actual sin",
+          "synsets": [
+            "oewn-00758690-n"
+          ]
+        },
+        {
+          "name": "affectation",
+          "synsets": [
+            "oewn-00757016-n"
+          ]
+        },
+        {
+          "name": "alienation",
+          "synsets": [
+            "oewn-00036612-n",
+            "oewn-01110055-n"
+          ]
+        },
+        {
+          "name": "analysis",
+          "synsets": [
+            "oewn-00635519-n",
+            "oewn-00705558-n"
+          ]
+        },
+        {
+          "name": "apheresis",
+          "synsets": [
+            "oewn-00651235-n"
+          ]
+        },
+        {
+          "name": "attitude",
+          "synsets": [
+            "oewn-00757206-n"
+          ]
+        },
+        {
+          "name": "avocation",
+          "synsets": [
+            "oewn-00433629-n"
+          ]
+        },
+        {
+          "name": "ball hawking",
+          "synsets": [
+            "oewn-00558902-n"
+          ]
+        },
+        {
+          "name": "benediction",
+          "synsets": [
+            "oewn-01045725-n"
+          ]
+        },
+        {
+          "name": "booze-up",
+          "synsets": [
+            "oewn-00512052-n"
+          ]
+        },
+        {
+          "name": "boycott",
+          "synsets": [
+            "oewn-00206979-n"
+          ]
+        },
+        {
+          "name": "brachiation",
+          "synsets": [
+            "oewn-00284294-n"
+          ]
+        },
+        {
+          "name": "broad jump",
+          "synsets": [
+            "oewn-00441322-n"
+          ]
+        },
+        {
+          "name": "candidature",
+          "synsets": [
+            "oewn-00801198-n"
+          ]
+        },
+        {
+          "name": "collecting",
+          "synsets": [
+            "oewn-01016008-n"
+          ]
+        },
+        {
+          "name": "congress",
+          "synsets": [
+            "oewn-01233454-n"
+          ]
+        },
+        {
+          "name": "coup d'oeil",
+          "synsets": [
+            "oewn-00879303-n"
+          ]
+        },
+        {
+          "name": "cover-up",
+          "synsets": [
+            "oewn-01052111-n"
+          ]
+        },
+        {
+          "name": "culture",
+          "synsets": [
+            "oewn-00919573-n",
+            "oewn-00922324-n"
+          ]
+        },
+        {
+          "name": "curettage",
+          "synsets": [
+            "oewn-00670724-n"
+          ]
+        },
+        {
+          "name": "debarkation",
+          "synsets": [
+            "oewn-00058822-n"
+          ]
+        },
+        {
+          "name": "delivery",
+          "synsets": [
+            "oewn-00043279-n",
+            "oewn-00094303-n",
+            "oewn-00107092-n",
+            "oewn-00318033-n",
+            "oewn-01110658-n"
+          ]
+        },
+        {
+          "name": "depletion",
+          "synsets": [
+            "oewn-00357025-n"
+          ]
+        },
+        {
+          "name": "discipline",
+          "synsets": [
+            "oewn-00895516-n",
+            "oewn-01164308-n"
+          ]
+        },
+        {
+          "name": "dispraise",
+          "synsets": [
+            "oewn-01222382-n"
+          ]
+        },
+        {
+          "name": "double blind",
+          "synsets": [
+            "oewn-00795505-n"
+          ]
+        },
+        {
+          "name": "doubleheader",
+          "synsets": [
+            "oewn-00462012-n"
+          ]
+        },
+        {
+          "name": "draw play",
+          "synsets": [
+            "oewn-00560366-n"
+          ]
+        },
+        {
+          "name": "dry run",
+          "synsets": [
+            "oewn-00898724-n"
+          ]
+        },
+        {
+          "name": "earned run",
+          "synsets": [
+            "oewn-00190745-n"
+          ]
+        },
+        {
+          "name": "embodiment",
+          "synsets": [
+            "oewn-00934815-n"
+          ]
+        },
+        {
+          "name": "emendation",
+          "synsets": [
+            "oewn-01252795-n"
+          ]
+        },
+        {
+          "name": "everting",
+          "synsets": [
+            "oewn-00336479-n"
+          ]
+        },
+        {
+          "name": "faith healing",
+          "synsets": [
+            "oewn-00700989-n"
+          ]
+        },
+        {
+          "name": "fatherhood",
+          "synsets": [
+            "oewn-00593482-n",
+            "oewn-00593561-n"
+          ]
+        },
+        {
+          "name": "flurry",
+          "synsets": [
+            "oewn-00556175-n"
+          ]
+        },
+        {
+          "name": "forsaking",
+          "synsets": [
+            "oewn-00205288-n",
+            "oewn-00206392-n"
+          ]
+        },
+        {
+          "name": "gauntlet",
+          "synsets": [
+            "oewn-01166553-n"
+          ]
+        },
+        {
+          "name": "goofing off",
+          "synsets": [
+            "oewn-00742776-n"
+          ]
+        },
+        {
+          "name": "grappling",
+          "synsets": [
+            "oewn-00448525-n",
+            "oewn-00623506-n"
+          ]
+        },
+        {
+          "name": "honoring",
+          "synsets": [
+            "oewn-01206909-n"
+          ]
+        },
+        {
+          "name": "hypopnea",
+          "synsets": [
+            "oewn-00835433-n"
+          ]
+        },
+        {
+          "name": "impaction",
+          "synsets": [
+            "oewn-00127267-n"
+          ]
+        },
+        {
+          "name": "inflation",
+          "synsets": [
+            "oewn-00368106-n"
+          ]
+        },
+        {
+          "name": "jumble sale",
+          "synsets": [
+            "oewn-01122171-n"
+          ]
+        },
+        {
+          "name": "landscaping",
+          "synsets": [
+            "oewn-00922974-n"
+          ]
+        },
+        {
+          "name": "leveraging",
+          "synsets": [
+            "oewn-01101851-n"
+          ]
+        },
+        {
+          "name": "matchmaking",
+          "synsets": [
+            "oewn-01243193-n"
+          ]
+        },
+        {
+          "name": "meat packing",
+          "synsets": [
+            "oewn-01105869-n"
+          ]
+        },
+        {
+          "name": "meatpacking",
+          "synsets": [
+            "oewn-01105869-n"
+          ]
+        },
+        {
+          "name": "moralism",
+          "synsets": [
+            "oewn-00877740-n"
+          ]
+        },
+        {
+          "name": "myosis",
+          "synsets": [
+            "oewn-00867486-n"
+          ]
+        },
+        {
+          "name": "ninepins",
+          "synsets": [
+            "oewn-00463444-n"
+          ]
+        },
+        {
+          "name": "on the road",
+          "synsets": [
+            "oewn-00312354-n"
+          ]
+        },
+        {
+          "name": "parkour",
+          "synsets": [
+            "oewn-91001581-n"
+          ]
+        },
+        {
+          "name": "piss-up",
+          "synsets": [
+            "oewn-00511933-n"
+          ]
+        },
+        {
+          "name": "plebiscite",
+          "synsets": [
+            "oewn-00182344-n"
+          ]
+        },
+        {
+          "name": "posting",
+          "synsets": [
+            "oewn-00123158-n"
+          ]
+        },
+        {
+          "name": "pounding",
+          "synsets": [
+            "oewn-01177806-n"
+          ]
+        },
+        {
+          "name": "primary",
+          "synsets": [
+            "oewn-00183420-n"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-01261259-n"
+          ]
+        },
+        {
+          "name": "quick fix",
+          "synsets": [
+            "oewn-00269301-n"
+          ]
+        },
+        {
+          "name": "reciprocal",
+          "synsets": [
+            "oewn-00852776-n"
+          ]
+        },
+        {
+          "name": "reshuffle",
+          "synsets": [
+            "oewn-00341488-n",
+            "oewn-01086413-n"
+          ]
+        },
+        {
+          "name": "reversal",
+          "synsets": [
+            "oewn-00164227-n",
+            "oewn-00235759-n",
+            "oewn-00340602-n",
+            "oewn-00347519-n",
+            "oewn-01188471-n"
+          ]
+        },
+        {
+          "name": "ruction",
+          "synsets": [
+            "oewn-00554860-n"
+          ]
+        },
+        {
+          "name": "scrummage",
+          "synsets": [
+            "oewn-00243013-n"
+          ]
+        },
+        {
+          "name": "second fiddle",
+          "synsets": [
+            "oewn-00723180-n"
+          ]
+        },
+        {
+          "name": "self-defense",
+          "synsets": [
+            "oewn-00826853-n"
+          ]
+        },
+        {
+          "name": "services",
+          "synsets": [
+            "oewn-00586211-n"
+          ]
+        },
+        {
+          "name": "session",
+          "synsets": [
+            "oewn-01234656-n"
+          ]
+        },
+        {
+          "name": "shadowing",
+          "synsets": [
+            "oewn-00321312-n"
+          ]
+        },
+        {
+          "name": "shakedown",
+          "synsets": [
+            "oewn-00786588-n",
+            "oewn-00995873-n"
+          ]
+        },
+        {
+          "name": "spot check",
+          "synsets": [
+            "oewn-00142960-n"
+          ]
+        },
+        {
+          "name": "squint",
+          "synsets": [
+            "oewn-00880006-n"
+          ]
+        },
+        {
+          "name": "succour",
+          "synsets": [
+            "oewn-01211710-n"
+          ]
+        },
+        {
+          "name": "tailspin",
+          "synsets": [
+            "oewn-00307036-n"
+          ]
+        },
+        {
+          "name": "temperance",
+          "synsets": [
+            "oewn-00382375-n",
+            "oewn-01071701-n"
+          ]
+        },
+        {
+          "name": "tetanus",
+          "synsets": [
+            "oewn-00370935-n"
+          ]
+        },
+        {
+          "name": "thaneship",
+          "synsets": [
+            "oewn-00606025-n"
+          ]
+        },
+        {
+          "name": "thickening",
+          "synsets": [
+            "oewn-00358732-n"
+          ]
+        },
+        {
+          "name": "traction",
+          "synsets": [
+            "oewn-00116942-n"
+          ]
+        },
+        {
+          "name": "trip-up",
+          "synsets": [
+            "oewn-00077383-n"
+          ]
+        },
+        {
+          "name": "walk of life",
+          "synsets": [
+            "oewn-00585285-n"
+          ]
+        },
+        {
+          "name": "whirling",
+          "synsets": [
+            "oewn-00343581-n"
+          ]
+        },
+        {
+          "name": "wholesale",
+          "synsets": [
+            "oewn-01116756-n"
+          ]
+        },
+        {
+          "name": "writing",
+          "synsets": [
+            "oewn-00615511-n",
+            "oewn-00931533-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.animal",
+      "label": "Animals",
+      "count": 8615,
+      "matches": [
+        {
+          "name": "anas americana",
+          "synsets": [
+            "oewn-01851481-n"
+          ]
+        },
+        {
+          "name": "banana quit",
+          "synsets": [
+            "oewn-01541913-n"
+          ]
+        },
+        {
+          "name": "barracouta",
+          "synsets": [
+            "oewn-02516672-n"
+          ]
+        },
+        {
+          "name": "basket fish",
+          "synsets": [
+            "oewn-02320819-n"
+          ]
+        },
+        {
+          "name": "bengal tiger",
+          "synsets": [
+            "oewn-02132489-n"
+          ]
+        },
+        {
+          "name": "bessy cerca",
+          "synsets": [
+            "oewn-02656127-n"
+          ]
+        },
+        {
+          "name": "bubble shell",
+          "synsets": [
+            "oewn-01954670-n"
+          ]
+        },
+        {
+          "name": "c. psittaci",
+          "synsets": [
+            "oewn-01375585-n"
+          ]
+        },
+        {
+          "name": "cabassous",
+          "synsets": [
+            "oewn-02458059-n"
+          ]
+        },
+        {
+          "name": "cacomistle",
+          "synsets": [
+            "oewn-02511373-n"
+          ]
+        },
+        {
+          "name": "calypter",
+          "synsets": [
+            "oewn-02193117-n"
+          ]
+        },
+        {
+          "name": "chimpanzee",
+          "synsets": [
+            "oewn-02484454-n"
+          ]
+        },
+        {
+          "name": "clerid beetle",
+          "synsets": [
+            "oewn-02173645-n"
+          ]
+        },
+        {
+          "name": "conodont",
+          "synsets": [
+            "oewn-01479059-n",
+            "oewn-01479337-n"
+          ]
+        },
+        {
+          "name": "corn snake",
+          "synsets": [
+            "oewn-01735255-n"
+          ]
+        },
+        {
+          "name": "creole-fish",
+          "synsets": [
+            "oewn-02572536-n"
+          ]
+        },
+        {
+          "name": "crex crex",
+          "synsets": [
+            "oewn-02018451-n"
+          ]
+        },
+        {
+          "name": "cro-magnon",
+          "synsets": [
+            "oewn-02477989-n"
+          ]
+        },
+        {
+          "name": "epizoon",
+          "synsets": [
+            "oewn-01387971-n"
+          ]
+        },
+        {
+          "name": "forefoot",
+          "synsets": [
+            "oewn-02442359-n"
+          ]
+        },
+        {
+          "name": "francisella",
+          "synsets": [
+            "oewn-01368115-n"
+          ]
+        },
+        {
+          "name": "gill slit",
+          "synsets": [
+            "oewn-02513738-n"
+          ]
+        },
+        {
+          "name": "gnatcatcher",
+          "synsets": [
+            "oewn-01566090-n"
+          ]
+        },
+        {
+          "name": "gnathopod",
+          "synsets": [
+            "oewn-92436092-n"
+          ]
+        },
+        {
+          "name": "gorgonian",
+          "synsets": [
+            "oewn-01918828-n"
+          ]
+        },
+        {
+          "name": "gray whale",
+          "synsets": [
+            "oewn-02068898-n"
+          ]
+        },
+        {
+          "name": "grey fox",
+          "synsets": [
+            "oewn-02123157-n"
+          ]
+        },
+        {
+          "name": "groenendael",
+          "synsets": [
+            "oewn-02107708-n"
+          ]
+        },
+        {
+          "name": "grouper",
+          "synsets": [
+            "oewn-02571590-n"
+          ]
+        },
+        {
+          "name": "horned asp",
+          "synsets": [
+            "oewn-01756129-n"
+          ]
+        },
+        {
+          "name": "iguanodon",
+          "synsets": [
+            "oewn-01710339-n"
+          ]
+        },
+        {
+          "name": "jaguarondi",
+          "synsets": [
+            "oewn-02128341-n"
+          ]
+        },
+        {
+          "name": "kuvasz",
+          "synsets": [
+            "oewn-02106681-n"
+          ]
+        },
+        {
+          "name": "leafnose bat",
+          "synsets": [
+            "oewn-02144365-n"
+          ]
+        },
+        {
+          "name": "lesser ape",
+          "synsets": [
+            "oewn-02485723-n"
+          ]
+        },
+        {
+          "name": "mackerel shad",
+          "synsets": [
+            "oewn-02584113-n"
+          ]
+        },
+        {
+          "name": "mantis crab",
+          "synsets": [
+            "oewn-01992648-n"
+          ]
+        },
+        {
+          "name": "mealworm",
+          "synsets": [
+            "oewn-02184129-n"
+          ]
+        },
+        {
+          "name": "merganser",
+          "synsets": [
+            "oewn-01857056-n"
+          ]
+        },
+        {
+          "name": "mound bird",
+          "synsets": [
+            "oewn-01803729-n"
+          ]
+        },
+        {
+          "name": "mound-bird",
+          "synsets": [
+            "oewn-01803729-n"
+          ]
+        },
+        {
+          "name": "nestling",
+          "synsets": [
+            "oewn-01506985-n"
+          ]
+        },
+        {
+          "name": "oligochaete",
+          "synsets": [
+            "oewn-01937817-n"
+          ]
+        },
+        {
+          "name": "ortygan",
+          "synsets": [
+            "oewn-02022999-n"
+          ]
+        },
+        {
+          "name": "paramecium",
+          "synsets": [
+            "oewn-01398689-n"
+          ]
+        },
+        {
+          "name": "plumule",
+          "synsets": [
+            "oewn-01899787-n"
+          ]
+        },
+        {
+          "name": "primary",
+          "synsets": [
+            "oewn-02471711-n"
+          ]
+        },
+        {
+          "name": "pussy",
+          "synsets": [
+            "oewn-02124950-n"
+          ]
+        },
+        {
+          "name": "quarry",
+          "synsets": [
+            "oewn-02155533-n"
+          ]
+        },
+        {
+          "name": "sand dollar",
+          "synsets": [
+            "oewn-02322207-n"
+          ]
+        },
+        {
+          "name": "sea slater",
+          "synsets": [
+            "oewn-01995077-n"
+          ]
+        },
+        {
+          "name": "sedge wren",
+          "synsets": [
+            "oewn-01568240-n",
+            "oewn-01588063-n"
+          ]
+        },
+        {
+          "name": "sloth bear",
+          "synsets": [
+            "oewn-02137070-n"
+          ]
+        },
+        {
+          "name": "soft scale",
+          "synsets": [
+            "oewn-02251539-n"
+          ]
+        },
+        {
+          "name": "soup-fin",
+          "synsets": [
+            "oewn-01494302-n"
+          ]
+        },
+        {
+          "name": "soupfin",
+          "synsets": [
+            "oewn-01494302-n"
+          ]
+        },
+        {
+          "name": "starfish",
+          "synsets": [
+            "oewn-02319987-n"
+          ]
+        },
+        {
+          "name": "starling",
+          "synsets": [
+            "oewn-01579336-n"
+          ]
+        },
+        {
+          "name": "therapsid",
+          "synsets": [
+            "oewn-01722555-n"
+          ]
+        },
+        {
+          "name": "turkey",
+          "synsets": [
+            "oewn-01796799-n"
+          ]
+        },
+        {
+          "name": "vine snake",
+          "synsets": [
+            "oewn-01742022-n"
+          ]
+        },
+        {
+          "name": "water bird",
+          "synsets": [
+            "oewn-01847773-n"
+          ]
+        },
+        {
+          "name": "waterbird",
+          "synsets": [
+            "oewn-01847773-n"
+          ]
+        },
+        {
+          "name": "white ant",
+          "synsets": [
+            "oewn-02225918-n"
+          ]
+        },
+        {
+          "name": "whooper",
+          "synsets": [
+            "oewn-01861966-n",
+            "oewn-02015831-n"
+          ]
+        },
+        {
+          "name": "wood tick",
+          "synsets": [
+            "oewn-01781789-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.artifact",
+      "label": "Objects & tools",
+      "count": 16967,
+      "matches": [
+        {
+          "name": "aeolian harp",
+          "synsets": [
+            "oewn-02685261-n"
+          ]
+        },
+        {
+          "name": "atomiser",
+          "synsets": [
+            "oewn-02757108-n"
+          ]
+        },
+        {
+          "name": "autoclave",
+          "synsets": [
+            "oewn-02761965-n"
+          ]
+        },
+        {
+          "name": "baby-walker",
+          "synsets": [
+            "oewn-04552591-n"
+          ]
+        },
+        {
+          "name": "baling wire",
+          "synsets": [
+            "oewn-02781593-n"
+          ]
+        },
+        {
+          "name": "bathyscape",
+          "synsets": [
+            "oewn-02811964-n"
+          ]
+        },
+        {
+          "name": "bi-fold door",
+          "synsets": [
+            "oewn-02839718-n"
+          ]
+        },
+        {
+          "name": "billiard hall",
+          "synsets": [
+            "oewn-02842821-n"
+          ]
+        },
+        {
+          "name": "biology lab",
+          "synsets": [
+            "oewn-02845246-n"
+          ]
+        },
+        {
+          "name": "bioweapon",
+          "synsets": [
+            "oewn-02845541-n"
+          ]
+        },
+        {
+          "name": "blow tube",
+          "synsets": [
+            "oewn-02858533-n",
+            "oewn-02858840-n"
+          ]
+        },
+        {
+          "name": "blowtube",
+          "synsets": [
+            "oewn-02858533-n",
+            "oewn-02858840-n"
+          ]
+        },
+        {
+          "name": "boat train",
+          "synsets": [
+            "oewn-02863069-n"
+          ]
+        },
+        {
+          "name": "boulevard",
+          "synsets": [
+            "oewn-02766477-n"
+          ]
+        },
+        {
+          "name": "bowknot",
+          "synsets": [
+            "oewn-02883431-n"
+          ]
+        },
+        {
+          "name": "brace wrench",
+          "synsets": [
+            "oewn-02891670-n"
+          ]
+        },
+        {
+          "name": "briefcase bomb",
+          "synsets": [
+            "oewn-02904140-n"
+          ]
+        },
+        {
+          "name": "bullnose",
+          "synsets": [
+            "oewn-02920953-n"
+          ]
+        },
+        {
+          "name": "bumper jack",
+          "synsets": [
+            "oewn-02922692-n"
+          ]
+        },
+        {
+          "name": "bush jacket",
+          "synsets": [
+            "oewn-02928769-n"
+          ]
+        },
+        {
+          "name": "cardiograph",
+          "synsets": [
+            "oewn-02784787-n",
+            "oewn-02966939-n"
+          ]
+        },
+        {
+          "name": "catching pen",
+          "synsets": [
+            "oewn-92449019-n"
+          ]
+        },
+        {
+          "name": "catholicon",
+          "synsets": [
+            "oewn-03886467-n"
+          ]
+        },
+        {
+          "name": "cavalier hat",
+          "synsets": [
+            "oewn-02990834-n"
+          ]
+        },
+        {
+          "name": "chain armor",
+          "synsets": [
+            "oewn-03003851-n"
+          ]
+        },
+        {
+          "name": "chop shop",
+          "synsets": [
+            "oewn-03029324-n"
+          ]
+        },
+        {
+          "name": "clomiphene",
+          "synsets": [
+            "oewn-03052079-n"
+          ]
+        },
+        {
+          "name": "coatroom",
+          "synsets": [
+            "oewn-03049785-n"
+          ]
+        },
+        {
+          "name": "coonskin",
+          "synsets": [
+            "oewn-03108214-n"
+          ]
+        },
+        {
+          "name": "corridor",
+          "synsets": [
+            "oewn-03116750-n"
+          ]
+        },
+        {
+          "name": "couchette",
+          "synsets": [
+            "oewn-03120659-n",
+            "oewn-92445052-n"
+          ]
+        },
+        {
+          "name": "coverlet",
+          "synsets": [
+            "oewn-03128204-n"
+          ]
+        },
+        {
+          "name": "crackleware",
+          "synsets": [
+            "oewn-03130239-n"
+          ]
+        },
+        {
+          "name": "crixivan",
+          "synsets": [
+            "oewn-03573610-n"
+          ]
+        },
+        {
+          "name": "cutout",
+          "synsets": [
+            "oewn-03158347-n",
+            "oewn-03158487-n",
+            "oewn-03158614-n"
+          ]
+        },
+        {
+          "name": "damper block",
+          "synsets": [
+            "oewn-03166559-n"
+          ]
+        },
+        {
+          "name": "depilator",
+          "synsets": [
+            "oewn-03181831-n"
+          ]
+        },
+        {
+          "name": "dewar flask",
+          "synsets": [
+            "oewn-03190552-n"
+          ]
+        },
+        {
+          "name": "dialyzer",
+          "synsets": [
+            "oewn-03192435-n"
+          ]
+        },
+        {
+          "name": "digitiser",
+          "synsets": [
+            "oewn-03202130-n"
+          ]
+        },
+        {
+          "name": "dooryard",
+          "synsets": [
+            "oewn-03229090-n"
+          ]
+        },
+        {
+          "name": "double bass",
+          "synsets": [
+            "oewn-02807100-n"
+          ]
+        },
+        {
+          "name": "droshky",
+          "synsets": [
+            "oewn-03252054-n"
+          ]
+        },
+        {
+          "name": "energiser",
+          "synsets": [
+            "oewn-03292262-n"
+          ]
+        },
+        {
+          "name": "exercycle",
+          "synsets": [
+            "oewn-03307616-n"
+          ]
+        },
+        {
+          "name": "fly sheet",
+          "synsets": [
+            "oewn-04419232-n"
+          ]
+        },
+        {
+          "name": "fountain",
+          "synsets": [
+            "oewn-03392661-n",
+            "oewn-03392772-n",
+            "oewn-03392889-n"
+          ]
+        },
+        {
+          "name": "gauntlet",
+          "synsets": [
+            "oewn-03434592-n",
+            "oewn-03434681-n"
+          ]
+        },
+        {
+          "name": "gift shop",
+          "synsets": [
+            "oewn-03441327-n"
+          ]
+        },
+        {
+          "name": "golliwog",
+          "synsets": [
+            "oewn-03452302-n"
+          ]
+        },
+        {
+          "name": "green soap",
+          "synsets": [
+            "oewn-04264495-n"
+          ]
+        },
+        {
+          "name": "groover",
+          "synsets": [
+            "oewn-03466920-n"
+          ]
+        },
+        {
+          "name": "guide rope",
+          "synsets": [
+            "oewn-03471658-n"
+          ]
+        },
+        {
+          "name": "hairpin bend",
+          "synsets": [
+            "oewn-03481581-n"
+          ]
+        },
+        {
+          "name": "hand truck",
+          "synsets": [
+            "oewn-03495220-n"
+          ]
+        },
+        {
+          "name": "heat pump",
+          "synsets": [
+            "oewn-03514752-n"
+          ]
+        },
+        {
+          "name": "hodoscope",
+          "synsets": [
+            "oewn-03529605-n"
+          ]
+        },
+        {
+          "name": "holograph",
+          "synsets": [
+            "oewn-03532423-n"
+          ]
+        },
+        {
+          "name": "honeycomb",
+          "synsets": [
+            "oewn-03535822-n"
+          ]
+        },
+        {
+          "name": "horse barn",
+          "synsets": [
+            "oewn-04302017-n"
+          ]
+        },
+        {
+          "name": "hospital",
+          "synsets": [
+            "oewn-03545775-n"
+          ]
+        },
+        {
+          "name": "indinavir",
+          "synsets": [
+            "oewn-03573610-n"
+          ]
+        },
+        {
+          "name": "ink eraser",
+          "synsets": [
+            "oewn-03577004-n"
+          ]
+        },
+        {
+          "name": "instalike",
+          "synsets": [
+            "oewn-90009142-n"
+          ]
+        },
+        {
+          "name": "isuprel",
+          "synsets": [
+            "oewn-03593043-n"
+          ]
+        },
+        {
+          "name": "jailhouse",
+          "synsets": [
+            "oewn-03597432-n"
+          ]
+        },
+        {
+          "name": "jew's harp",
+          "synsets": [
+            "oewn-03603109-n"
+          ]
+        },
+        {
+          "name": "jews' harp",
+          "synsets": [
+            "oewn-03603109-n"
+          ]
+        },
+        {
+          "name": "ketorolac",
+          "synsets": [
+            "oewn-03617768-n"
+          ]
+        },
+        {
+          "name": "klieg light",
+          "synsets": [
+            "oewn-03627610-n"
+          ]
+        },
+        {
+          "name": "knee breeches",
+          "synsets": [
+            "oewn-02899704-n"
+          ]
+        },
+        {
+          "name": "ladder-back chair",
+          "synsets": [
+            "oewn-03638020-n"
+          ]
+        },
+        {
+          "name": "landing net",
+          "synsets": [
+            "oewn-03644391-n"
+          ]
+        },
+        {
+          "name": "landscaping",
+          "synsets": [
+            "oewn-03645602-n"
+          ]
+        },
+        {
+          "name": "longship",
+          "synsets": [
+            "oewn-92443187-n"
+          ]
+        },
+        {
+          "name": "loxitane",
+          "synsets": [
+            "oewn-03699816-n"
+          ]
+        },
+        {
+          "name": "martingale",
+          "synsets": [
+            "oewn-03225104-n",
+            "oewn-03729376-n"
+          ]
+        },
+        {
+          "name": "naloxone",
+          "synsets": [
+            "oewn-03811921-n"
+          ]
+        },
+        {
+          "name": "naval chart",
+          "synsets": [
+            "oewn-03817188-n"
+          ]
+        },
+        {
+          "name": "nose candy",
+          "synsets": [
+            "oewn-03070747-n"
+          ]
+        },
+        {
+          "name": "oedometer",
+          "synsets": [
+            "oewn-92445728-n"
+          ]
+        },
+        {
+          "name": "ornament",
+          "synsets": [
+            "oewn-03174056-n"
+          ]
+        },
+        {
+          "name": "outer jib",
+          "synsets": [
+            "oewn-92459518-n"
+          ]
+        },
+        {
+          "name": "pay-phone",
+          "synsets": [
+            "oewn-03908203-n"
+          ]
+        },
+        {
+          "name": "peach orchard",
+          "synsets": [
+            "oewn-03908560-n"
+          ]
+        },
+        {
+          "name": "pencil box",
+          "synsets": [
+            "oewn-03914737-n"
+          ]
+        },
+        {
+          "name": "pilaster",
+          "synsets": [
+            "oewn-03942159-n"
+          ]
+        },
+        {
+          "name": "plummet",
+          "synsets": [
+            "oewn-03975060-n"
+          ]
+        },
+        {
+          "name": "pothook",
+          "synsets": [
+            "oewn-03998566-n"
+          ]
+        },
+        {
+          "name": "power cable",
+          "synsets": [
+            "oewn-04001893-n"
+          ]
+        },
+        {
+          "name": "primary",
+          "synsets": [
+            "oewn-04008987-n"
+          ]
+        },
+        {
+          "name": "printer",
+          "synsets": [
+            "oewn-04010851-n",
+            "oewn-04011143-n"
+          ]
+        },
+        {
+          "name": "propjet",
+          "synsets": [
+            "oewn-04018858-n"
+          ]
+        },
+        {
+          "name": "putter",
+          "synsets": [
+            "oewn-04034550-n"
+          ]
+        },
+        {
+          "name": "quadrangle",
+          "synsets": [
+            "oewn-04036994-n"
+          ]
+        },
+        {
+          "name": "quarry",
+          "synsets": [
+            "oewn-03955718-n"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-04038076-n",
+            "oewn-04323784-n"
+          ]
+        },
+        {
+          "name": "railroad car",
+          "synsets": [
+            "oewn-02963378-n"
+          ]
+        },
+        {
+          "name": "raudixin",
+          "synsets": [
+            "oewn-04085348-n"
+          ]
+        },
+        {
+          "name": "reading lamp",
+          "synsets": [
+            "oewn-04065093-n"
+          ]
+        },
+        {
+          "name": "refinery",
+          "synsets": [
+            "oewn-04075553-n"
+          ]
+        },
+        {
+          "name": "refugee camp",
+          "synsets": [
+            "oewn-02949268-n"
+          ]
+        },
+        {
+          "name": "ring-binder",
+          "synsets": [
+            "oewn-02843474-n"
+          ]
+        },
+        {
+          "name": "roadster",
+          "synsets": [
+            "oewn-02915903-n",
+            "oewn-04104467-n"
+          ]
+        },
+        {
+          "name": "roman candle",
+          "synsets": [
+            "oewn-04111735-n"
+          ]
+        },
+        {
+          "name": "rood-tree",
+          "synsets": [
+            "oewn-03144943-n"
+          ]
+        },
+        {
+          "name": "royal brace",
+          "synsets": [
+            "oewn-04123000-n"
+          ]
+        },
+        {
+          "name": "rugby ball",
+          "synsets": [
+            "oewn-04125632-n"
+          ]
+        },
+        {
+          "name": "saddle horn",
+          "synsets": [
+            "oewn-03542111-n"
+          ]
+        },
+        {
+          "name": "salk vaccine",
+          "synsets": [
+            "oewn-04137798-n"
+          ]
+        },
+        {
+          "name": "saucepot",
+          "synsets": [
+            "oewn-04146223-n"
+          ]
+        },
+        {
+          "name": "scoreboard",
+          "synsets": [
+            "oewn-04156878-n"
+          ]
+        },
+        {
+          "name": "scout car",
+          "synsets": [
+            "oewn-04069919-n"
+          ]
+        },
+        {
+          "name": "scrapbook",
+          "synsets": [
+            "oewn-04157925-n"
+          ]
+        },
+        {
+          "name": "scuffle hoe",
+          "synsets": [
+            "oewn-04163652-n"
+          ]
+        },
+        {
+          "name": "scuttle",
+          "synsets": [
+            "oewn-03504286-n",
+            "oewn-04165063-n"
+          ]
+        },
+        {
+          "name": "seating area",
+          "synsets": [
+            "oewn-04170059-n"
+          ]
+        },
+        {
+          "name": "semaphore",
+          "synsets": [
+            "oewn-04178269-n"
+          ]
+        },
+        {
+          "name": "set chisel",
+          "synsets": [
+            "oewn-03071216-n"
+          ]
+        },
+        {
+          "name": "sheepwalk",
+          "synsets": [
+            "oewn-04195107-n"
+          ]
+        },
+        {
+          "name": "sheraton",
+          "synsets": [
+            "oewn-04199564-n"
+          ]
+        },
+        {
+          "name": "shipyard",
+          "synsets": [
+            "oewn-04204278-n"
+          ]
+        },
+        {
+          "name": "shoofly",
+          "synsets": [
+            "oewn-04208478-n"
+          ]
+        },
+        {
+          "name": "shooter",
+          "synsets": [
+            "oewn-04403228-n"
+          ]
+        },
+        {
+          "name": "sinapism",
+          "synsets": [
+            "oewn-03808340-n"
+          ]
+        },
+        {
+          "name": "sinequan",
+          "synsets": [
+            "oewn-03234608-n"
+          ]
+        },
+        {
+          "name": "slop pail",
+          "synsets": [
+            "oewn-04250131-n"
+          ]
+        },
+        {
+          "name": "space probe",
+          "synsets": [
+            "oewn-04272778-n"
+          ]
+        },
+        {
+          "name": "sparkler",
+          "synsets": [
+            "oewn-04276079-n"
+          ]
+        },
+        {
+          "name": "spyhole",
+          "synsets": [
+            "oewn-03911327-n"
+          ]
+        },
+        {
+          "name": "sten gun",
+          "synsets": [
+            "oewn-04321660-n"
+          ]
+        },
+        {
+          "name": "striker",
+          "synsets": [
+            "oewn-04344878-n"
+          ]
+        },
+        {
+          "name": "tank engine",
+          "synsets": [
+            "oewn-04396941-n"
+          ]
+        },
+        {
+          "name": "tape drive",
+          "synsets": [
+            "oewn-04399851-n"
+          ]
+        },
+        {
+          "name": "tarot card",
+          "synsets": [
+            "oewn-04401914-n"
+          ]
+        },
+        {
+          "name": "telephone",
+          "synsets": [
+            "oewn-04408223-n"
+          ]
+        },
+        {
+          "name": "telescope",
+          "synsets": [
+            "oewn-04410773-n"
+          ]
+        },
+        {
+          "name": "temazepam",
+          "synsets": [
+            "oewn-04414142-n"
+          ]
+        },
+        {
+          "name": "thalidomide",
+          "synsets": [
+            "oewn-04424602-n"
+          ]
+        },
+        {
+          "name": "tile roof",
+          "synsets": [
+            "oewn-04442787-n"
+          ]
+        },
+        {
+          "name": "time machine",
+          "synsets": [
+            "oewn-04444927-n"
+          ]
+        },
+        {
+          "name": "toby jug",
+          "synsets": [
+            "oewn-04450900-n"
+          ]
+        },
+        {
+          "name": "transom",
+          "synsets": [
+            "oewn-04480196-n",
+            "oewn-04480343-n"
+          ]
+        },
+        {
+          "name": "tube well",
+          "synsets": [
+            "oewn-03248606-n"
+          ]
+        },
+        {
+          "name": "turnoff",
+          "synsets": [
+            "oewn-04507999-n"
+          ]
+        },
+        {
+          "name": "underbodice",
+          "synsets": [
+            "oewn-02947601-n"
+          ]
+        },
+        {
+          "name": "underlay",
+          "synsets": [
+            "oewn-02971078-n"
+          ]
+        },
+        {
+          "name": "utensil",
+          "synsets": [
+            "oewn-04523967-n"
+          ]
+        },
+        {
+          "name": "victrola",
+          "synsets": [
+            "oewn-04540794-n"
+          ]
+        },
+        {
+          "name": "water gate",
+          "synsets": [
+            "oewn-04251743-n"
+          ]
+        },
+        {
+          "name": "wood block",
+          "synsets": [
+            "oewn-04604863-n"
+          ]
+        },
+        {
+          "name": "wooden leg",
+          "synsets": [
+            "oewn-03912225-n"
+          ]
+        },
+        {
+          "name": "work camp",
+          "synsets": [
+            "oewn-04608091-n"
+          ]
+        },
+        {
+          "name": "worm gear",
+          "synsets": [
+            "oewn-04612164-n"
+          ]
+        },
+        {
+          "name": "zithern",
+          "synsets": [
+            "oewn-04622583-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.attribute",
+      "label": "Attributes",
+      "count": 5089,
+      "matches": [
+        {
+          "name": "amiableness",
+          "synsets": [
+            "oewn-04662009-n"
+          ]
+        },
+        {
+          "name": "aquamarine",
+          "synsets": [
+            "oewn-04976975-n"
+          ]
+        },
+        {
+          "name": "attitude",
+          "synsets": [
+            "oewn-05087073-n"
+          ]
+        },
+        {
+          "name": "birthmark",
+          "synsets": [
+            "oewn-04699986-n"
+          ]
+        },
+        {
+          "name": "boundary",
+          "synsets": [
+            "oewn-05131322-n"
+          ]
+        },
+        {
+          "name": "cacophony",
+          "synsets": [
+            "oewn-04992187-n"
+          ]
+        },
+        {
+          "name": "choiceness",
+          "synsets": [
+            "oewn-04735862-n"
+          ]
+        },
+        {
+          "name": "covalency",
+          "synsets": [
+            "oewn-05041916-n"
+          ]
+        },
+        {
+          "name": "coyness",
+          "synsets": [
+            "oewn-04795387-n"
+          ]
+        },
+        {
+          "name": "crudity",
+          "synsets": [
+            "oewn-04922298-n"
+          ]
+        },
+        {
+          "name": "discipline",
+          "synsets": [
+            "oewn-04888818-n"
+          ]
+        },
+        {
+          "name": "falseness",
+          "synsets": [
+            "oewn-04875102-n",
+            "oewn-04886287-n"
+          ]
+        },
+        {
+          "name": "hotness",
+          "synsets": [
+            "oewn-05000490-n",
+            "oewn-05023355-n"
+          ]
+        },
+        {
+          "name": "hutzpah",
+          "synsets": [
+            "oewn-04923377-n"
+          ]
+        },
+        {
+          "name": "impotence",
+          "synsets": [
+            "oewn-05211905-n"
+          ]
+        },
+        {
+          "name": "inadequacy",
+          "synsets": [
+            "oewn-04800786-n",
+            "oewn-05120433-n"
+          ]
+        },
+        {
+          "name": "inflation",
+          "synsets": [
+            "oewn-04825154-n"
+          ]
+        },
+        {
+          "name": "inkiness",
+          "synsets": [
+            "oewn-04967454-n"
+          ]
+        },
+        {
+          "name": "iron mold",
+          "synsets": [
+            "oewn-04703041-n"
+          ]
+        },
+        {
+          "name": "largeness",
+          "synsets": [
+            "oewn-04796210-n",
+            "oewn-05111246-n",
+            "oewn-05113617-n"
+          ]
+        },
+        {
+          "name": "lazuline",
+          "synsets": [
+            "oewn-04976419-n"
+          ]
+        },
+        {
+          "name": "likelihood",
+          "synsets": [
+            "oewn-04763890-n"
+          ]
+        },
+        {
+          "name": "localness",
+          "synsets": [
+            "oewn-92419378-n"
+          ]
+        },
+        {
+          "name": "snobbery",
+          "synsets": [
+            "oewn-04896357-n"
+          ]
+        },
+        {
+          "name": "temperance",
+          "synsets": [
+            "oewn-04890809-n"
+          ]
+        },
+        {
+          "name": "variety",
+          "synsets": [
+            "oewn-04758560-n",
+            "oewn-04759289-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.body",
+      "label": "Body parts",
+      "count": 3593,
+      "matches": [
+        {
+          "name": "ameloblast",
+          "synsets": [
+            "oewn-05455629-n"
+          ]
+        },
+        {
+          "name": "anterior",
+          "synsets": [
+            "oewn-05313689-n"
+          ]
+        },
+        {
+          "name": "bronchus",
+          "synsets": [
+            "oewn-05539144-n"
+          ]
+        },
+        {
+          "name": "calcitonin",
+          "synsets": [
+            "oewn-05420808-n"
+          ]
+        },
+        {
+          "name": "cingulum",
+          "synsets": [
+            "oewn-05236062-n"
+          ]
+        },
+        {
+          "name": "gladiolus",
+          "synsets": [
+            "oewn-05288951-n"
+          ]
+        },
+        {
+          "name": "masseter",
+          "synsets": [
+            "oewn-05301755-n"
+          ]
+        },
+        {
+          "name": "phagocyte",
+          "synsets": [
+            "oewn-05458464-n"
+          ]
+        },
+        {
+          "name": "pussy",
+          "synsets": [
+            "oewn-05529165-n"
+          ]
+        },
+        {
+          "name": "receptor",
+          "synsets": [
+            "oewn-05306677-n",
+            "oewn-05616623-n"
+          ]
+        },
+        {
+          "name": "renal vein",
+          "synsets": [
+            "oewn-05386590-n"
+          ]
+        },
+        {
+          "name": "sarcolemma",
+          "synsets": [
+            "oewn-05435147-n"
+          ]
+        },
+        {
+          "name": "sphenion",
+          "synsets": [
+            "oewn-05242680-n"
+          ]
+        },
+        {
+          "name": "sutura",
+          "synsets": [
+            "oewn-05550526-n"
+          ]
+        },
+        {
+          "name": "thumbnail",
+          "synsets": [
+            "oewn-05592040-n"
+          ]
+        },
+        {
+          "name": "trochlear",
+          "synsets": [
+            "oewn-05486336-n"
+          ]
+        },
+        {
+          "name": "vena cephalica",
+          "synsets": [
+            "oewn-05368671-n"
+          ]
+        },
+        {
+          "name": "venation",
+          "synsets": [
+            "oewn-05428758-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.cognition",
+      "label": "Knowledge & thought",
+      "count": 4646,
+      "matches": [
+        {
+          "name": "agrology",
+          "synsets": [
+            "oewn-06075817-n"
+          ]
+        },
+        {
+          "name": "analysis",
+          "synsets": [
+            "oewn-05780664-n",
+            "oewn-06023392-n"
+          ]
+        },
+        {
+          "name": "attitude",
+          "synsets": [
+            "oewn-06202938-n"
+          ]
+        },
+        {
+          "name": "bibliotics",
+          "synsets": [
+            "oewn-06007704-n"
+          ]
+        },
+        {
+          "name": "cargo cult",
+          "synsets": [
+            "oewn-06235488-n"
+          ]
+        },
+        {
+          "name": "culture",
+          "synsets": [
+            "oewn-05759791-n",
+            "oewn-05993821-n",
+            "oewn-06204144-n"
+          ]
+        },
+        {
+          "name": "data point",
+          "synsets": [
+            "oewn-05824748-n"
+          ]
+        },
+        {
+          "name": "discipline",
+          "synsets": [
+            "oewn-05670721-n",
+            "oewn-06005806-n"
+          ]
+        },
+        {
+          "name": "embodiment",
+          "synsets": [
+            "oewn-05949928-n"
+          ]
+        },
+        {
+          "name": "field test",
+          "synsets": [
+            "oewn-05807589-n"
+          ]
+        },
+        {
+          "name": "harmonics",
+          "synsets": [
+            "oewn-06120860-n"
+          ]
+        },
+        {
+          "name": "intellect",
+          "synsets": [
+            "oewn-05626632-n",
+            "oewn-05659525-n"
+          ]
+        },
+        {
+          "name": "lamarckism",
+          "synsets": [
+            "oewn-06120033-n"
+          ]
+        },
+        {
+          "name": "largeness",
+          "synsets": [
+            "oewn-05626076-n"
+          ]
+        },
+        {
+          "name": "liberalism",
+          "synsets": [
+            "oewn-06004479-n",
+            "oewn-06228560-n"
+          ]
+        },
+        {
+          "name": "mammalogy",
+          "synsets": [
+            "oewn-06082765-n"
+          ]
+        },
+        {
+          "name": "mental image",
+          "synsets": [
+            "oewn-05936904-n"
+          ]
+        },
+        {
+          "name": "nervism",
+          "synsets": [
+            "oewn-92445781-n"
+          ]
+        },
+        {
+          "name": "numeracy",
+          "synsets": [
+            "oewn-05647276-n"
+          ]
+        },
+        {
+          "name": "onomancy",
+          "synsets": [
+            "oewn-05785719-n"
+          ]
+        },
+        {
+          "name": "outlier",
+          "synsets": [
+            "oewn-06032718-n"
+          ]
+        },
+        {
+          "name": "palm reading",
+          "synsets": [
+            "oewn-05785827-n"
+          ]
+        },
+        {
+          "name": "reversal",
+          "synsets": [
+            "oewn-05797813-n"
+          ]
+        },
+        {
+          "name": "road sense",
+          "synsets": [
+            "oewn-05623041-n"
+          ]
+        },
+        {
+          "name": "shaktism",
+          "synsets": [
+            "oewn-06249212-n"
+          ]
+        },
+        {
+          "name": "shivaism",
+          "synsets": [
+            "oewn-06249067-n"
+          ]
+        },
+        {
+          "name": "socialism",
+          "synsets": [
+            "oewn-06230561-n"
+          ]
+        },
+        {
+          "name": "stagecraft",
+          "synsets": [
+            "oewn-05651753-n"
+          ]
+        },
+        {
+          "name": "turnoff",
+          "synsets": [
+            "oewn-05836587-n"
+          ]
+        },
+        {
+          "name": "variety",
+          "synsets": [
+            "oewn-05847533-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.communication",
+      "label": "Communication",
+      "count": 8902,
+      "matches": [
+        {
+          "name": "ablative case",
+          "synsets": [
+            "oewn-06323408-n"
+          ]
+        },
+        {
+          "name": "affected role",
+          "synsets": [
+            "oewn-06343129-n"
+          ]
+        },
+        {
+          "name": "affricative",
+          "synsets": [
+            "oewn-07133698-n"
+          ]
+        },
+        {
+          "name": "analysis",
+          "synsets": [
+            "oewn-06387637-n",
+            "oewn-07081916-n"
+          ]
+        },
+        {
+          "name": "benediction",
+          "synsets": [
+            "oewn-07204071-n"
+          ]
+        },
+        {
+          "name": "blue ribbon",
+          "synsets": [
+            "oewn-07283007-n"
+          ]
+        },
+        {
+          "name": "breviary",
+          "synsets": [
+            "oewn-06428739-n"
+          ]
+        },
+        {
+          "name": "browser",
+          "synsets": [
+            "oewn-06583477-n"
+          ]
+        },
+        {
+          "name": "c major scale",
+          "synsets": [
+            "oewn-06879492-n"
+          ]
+        },
+        {
+          "name": "chastening",
+          "synsets": [
+            "oewn-06727227-n"
+          ]
+        },
+        {
+          "name": "connivance",
+          "synsets": [
+            "oewn-06701870-n",
+            "oewn-07191622-n"
+          ]
+        },
+        {
+          "name": "daffo language",
+          "synsets": [
+            "oewn-06995774-n"
+          ]
+        },
+        {
+          "name": "dari language",
+          "synsets": [
+            "oewn-06986943-n"
+          ]
+        },
+        {
+          "name": "delivery",
+          "synsets": [
+            "oewn-07085523-n"
+          ]
+        },
+        {
+          "name": "dithyramb",
+          "synsets": [
+            "oewn-06390717-n",
+            "oewn-07254088-n"
+          ]
+        },
+        {
+          "name": "duologue",
+          "synsets": [
+            "oewn-07023808-n",
+            "oewn-07150914-n"
+          ]
+        },
+        {
+          "name": "end matter",
+          "synsets": [
+            "oewn-06402448-n"
+          ]
+        },
+        {
+          "name": "ethnic joke",
+          "synsets": [
+            "oewn-06792049-n"
+          ]
+        },
+        {
+          "name": "gauntlet",
+          "synsets": [
+            "oewn-07246935-n"
+          ]
+        },
+        {
+          "name": "glissando",
+          "synsets": [
+            "oewn-06870172-n"
+          ]
+        },
+        {
+          "name": "hani language",
+          "synsets": [
+            "oewn-06945580-n"
+          ]
+        },
+        {
+          "name": "hollering",
+          "synsets": [
+            "oewn-07136069-n"
+          ]
+        },
+        {
+          "name": "holograph",
+          "synsets": [
+            "oewn-06418864-n"
+          ]
+        },
+        {
+          "name": "illyrian",
+          "synsets": [
+            "oewn-06955636-n"
+          ]
+        },
+        {
+          "name": "imbroglio",
+          "synsets": [
+            "oewn-07189436-n"
+          ]
+        },
+        {
+          "name": "irish gaelic",
+          "synsets": [
+            "oewn-06973518-n"
+          ]
+        },
+        {
+          "name": "khoikhoin",
+          "synsets": [
+            "oewn-06954241-n"
+          ]
+        },
+        {
+          "name": "langue d'oil",
+          "synsets": [
+            "oewn-06978360-n"
+          ]
+        },
+        {
+          "name": "line score",
+          "synsets": [
+            "oewn-06480194-n"
+          ]
+        },
+        {
+          "name": "litotes",
+          "synsets": [
+            "oewn-07118958-n"
+          ]
+        },
+        {
+          "name": "lubber line",
+          "synsets": [
+            "oewn-07274278-n"
+          ]
+        },
+        {
+          "name": "mezuzah",
+          "synsets": [
+            "oewn-06445342-n"
+          ]
+        },
+        {
+          "name": "mock-heroic",
+          "synsets": [
+            "oewn-06397988-n"
+          ]
+        },
+        {
+          "name": "mongolian",
+          "synsets": [
+            "oewn-06941616-n"
+          ]
+        },
+        {
+          "name": "moralism",
+          "synsets": [
+            "oewn-07168349-n"
+          ]
+        },
+        {
+          "name": "octameter",
+          "synsets": [
+            "oewn-07110996-n"
+          ]
+        },
+        {
+          "name": "operetta",
+          "synsets": [
+            "oewn-07040577-n"
+          ]
+        },
+        {
+          "name": "penutian",
+          "synsets": [
+            "oewn-06936657-n"
+          ]
+        },
+        {
+          "name": "personal",
+          "synsets": [
+            "oewn-06281941-n"
+          ]
+        },
+        {
+          "name": "pim tool",
+          "synsets": [
+            "oewn-92447870-n"
+          ]
+        },
+        {
+          "name": "plosion",
+          "synsets": [
+            "oewn-07131151-n"
+          ]
+        },
+        {
+          "name": "poor law",
+          "synsets": [
+            "oewn-06550776-n"
+          ]
+        },
+        {
+          "name": "posting",
+          "synsets": [
+            "oewn-06506364-n",
+            "oewn-06806283-n"
+          ]
+        },
+        {
+          "name": "public debate",
+          "synsets": [
+            "oewn-07256764-n"
+          ]
+        },
+        {
+          "name": "raillery",
+          "synsets": [
+            "oewn-06790633-n"
+          ]
+        },
+        {
+          "name": "rap music",
+          "synsets": [
+            "oewn-07078095-n"
+          ]
+        },
+        {
+          "name": "reprint",
+          "synsets": [
+            "oewn-06280438-n",
+            "oewn-06280961-n"
+          ]
+        },
+        {
+          "name": "sales talk",
+          "synsets": [
+            "oewn-07263321-n"
+          ]
+        },
+        {
+          "name": "scholium",
+          "synsets": [
+            "oewn-06518028-n"
+          ]
+        },
+        {
+          "name": "semitone",
+          "synsets": [
+            "oewn-06872225-n"
+          ]
+        },
+        {
+          "name": "session",
+          "synsets": [
+            "oewn-07160216-n"
+          ]
+        },
+        {
+          "name": "shibboleth",
+          "synsets": [
+            "oewn-07096636-n",
+            "oewn-07166967-n"
+          ]
+        },
+        {
+          "name": "show bill",
+          "synsets": [
+            "oewn-06806674-n"
+          ]
+        },
+        {
+          "name": "shrieking",
+          "synsets": [
+            "oewn-07137720-n"
+          ]
+        },
+        {
+          "name": "signal fire",
+          "synsets": [
+            "oewn-07279393-n"
+          ]
+        },
+        {
+          "name": "speech bubble",
+          "synsets": [
+            "oewn-92461541-n"
+          ]
+        },
+        {
+          "name": "stress",
+          "synsets": [
+            "oewn-07099567-n"
+          ]
+        },
+        {
+          "name": "syntagma",
+          "synsets": [
+            "oewn-06324447-n"
+          ]
+        },
+        {
+          "name": "tablature",
+          "synsets": [
+            "oewn-06829193-n"
+          ]
+        },
+        {
+          "name": "telephone",
+          "synsets": [
+            "oewn-06282943-n"
+          ]
+        },
+        {
+          "name": "temporal",
+          "synsets": [
+            "oewn-06344471-n"
+          ]
+        },
+        {
+          "name": "think piece",
+          "synsets": [
+            "oewn-06280782-n"
+          ]
+        },
+        {
+          "name": "trade-last",
+          "synsets": [
+            "oewn-06708169-n"
+          ]
+        },
+        {
+          "name": "travelog",
+          "synsets": [
+            "oewn-06627701-n"
+          ]
+        },
+        {
+          "name": "truism",
+          "synsets": [
+            "oewn-07168951-n"
+          ]
+        },
+        {
+          "name": "variety",
+          "synsets": [
+            "oewn-07033353-n"
+          ]
+        },
+        {
+          "name": "writing",
+          "synsets": [
+            "oewn-06371284-n",
+            "oewn-06374360-n",
+            "oewn-06375185-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.event",
+      "label": "Events",
+      "count": 1660,
+      "matches": [
+        {
+          "name": "broad jump",
+          "synsets": [
+            "oewn-07484749-n"
+          ]
+        },
+        {
+          "name": "cacophony",
+          "synsets": [
+            "oewn-07392073-n"
+          ]
+        },
+        {
+          "name": "chance event",
+          "synsets": [
+            "oewn-07315578-n"
+          ]
+        },
+        {
+          "name": "clangoring",
+          "synsets": [
+            "oewn-07394744-n"
+          ]
+        },
+        {
+          "name": "delivery",
+          "synsets": [
+            "oewn-07335222-n"
+          ]
+        },
+        {
+          "name": "fender-bender",
+          "synsets": [
+            "oewn-07326158-n"
+          ]
+        },
+        {
+          "name": "foreshock",
+          "synsets": [
+            "oewn-07444382-n"
+          ]
+        },
+        {
+          "name": "happy chance",
+          "synsets": [
+            "oewn-07331456-n"
+          ]
+        },
+        {
+          "name": "inflation",
+          "synsets": [
+            "oewn-07423855-n"
+          ]
+        },
+        {
+          "name": "lightning",
+          "synsets": [
+            "oewn-07427593-n"
+          ]
+        },
+        {
+          "name": "pounding",
+          "synsets": [
+            "oewn-07416326-n",
+            "oewn-07425126-n"
+          ]
+        },
+        {
+          "name": "producer",
+          "synsets": [
+            "oewn-07343356-n"
+          ]
+        },
+        {
+          "name": "race meeting",
+          "synsets": [
+            "oewn-07483384-n"
+          ]
+        },
+        {
+          "name": "reversal",
+          "synsets": [
+            "oewn-07425760-n",
+            "oewn-07491010-n"
+          ]
+        },
+        {
+          "name": "sea puss",
+          "synsets": [
+            "oewn-07418861-n"
+          ]
+        },
+        {
+          "name": "sea-puss",
+          "synsets": [
+            "oewn-07418861-n"
+          ]
+        },
+        {
+          "name": "shakedown",
+          "synsets": [
+            "oewn-07384522-n"
+          ]
+        },
+        {
+          "name": "shrieking",
+          "synsets": [
+            "oewn-07407761-n"
+          ]
+        },
+        {
+          "name": "social affair",
+          "synsets": [
+            "oewn-07461861-n"
+          ]
+        },
+        {
+          "name": "turkey",
+          "synsets": [
+            "oewn-07379793-n"
+          ]
+        },
+        {
+          "name": "undertide",
+          "synsets": [
+            "oewn-07419398-n"
+          ]
+        },
+        {
+          "name": "wave shape",
+          "synsets": [
+            "oewn-07362264-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.feeling",
+      "label": "Feelings",
+      "count": 776,
+      "matches": [
+        {
+          "name": "alienation",
+          "synsets": [
+            "oewn-07517626-n"
+          ]
+        },
+        {
+          "name": "anglophobia",
+          "synsets": [
+            "oewn-07517338-n"
+          ]
+        },
+        {
+          "name": "aphrodisia",
+          "synsets": [
+            "oewn-07503707-n"
+          ]
+        },
+        {
+          "name": "frisson",
+          "synsets": [
+            "oewn-07535351-n"
+          ]
+        },
+        {
+          "name": "masochism",
+          "synsets": [
+            "oewn-07509315-n"
+          ]
+        },
+        {
+          "name": "tsoris",
+          "synsets": [
+            "oewn-07512159-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.food",
+      "label": "Food & drink",
+      "count": 3584,
+      "matches": [
+        {
+          "name": "beef patty",
+          "synsets": [
+            "oewn-07679866-n"
+          ]
+        },
+        {
+          "name": "beef tongue",
+          "synsets": [
+            "oewn-07668735-n"
+          ]
+        },
+        {
+          "name": "beetroot",
+          "synsets": [
+            "oewn-07735584-n"
+          ]
+        },
+        {
+          "name": "bouillon",
+          "synsets": [
+            "oewn-07600509-n"
+          ]
+        },
+        {
+          "name": "chicken kiev",
+          "synsets": [
+            "oewn-07880732-n"
+          ]
+        },
+        {
+          "name": "clementine",
+          "synsets": [
+            "oewn-07764133-n"
+          ]
+        },
+        {
+          "name": "cornpone",
+          "synsets": [
+            "oewn-07704369-n"
+          ]
+        },
+        {
+          "name": "crab louis",
+          "synsets": [
+            "oewn-07824142-n"
+          ]
+        },
+        {
+          "name": "deep-dish pie",
+          "synsets": [
+            "oewn-07641440-n"
+          ]
+        },
+        {
+          "name": "dewberry",
+          "synsets": [
+            "oewn-07761173-n"
+          ]
+        },
+        {
+          "name": "eggs benedict",
+          "synsets": [
+            "oewn-07882844-n"
+          ]
+        },
+        {
+          "name": "flank steak",
+          "synsets": [
+            "oewn-07674070-n"
+          ]
+        },
+        {
+          "name": "grated cheese",
+          "synsets": [
+            "oewn-07869738-n"
+          ]
+        },
+        {
+          "name": "grouper",
+          "synsets": [
+            "oewn-07794200-n"
+          ]
+        },
+        {
+          "name": "hollandaise",
+          "synsets": [
+            "oewn-07851433-n"
+          ]
+        },
+        {
+          "name": "hydromel",
+          "synsets": [
+            "oewn-07906945-n"
+          ]
+        },
+        {
+          "name": "loaf sugar",
+          "synsets": [
+            "oewn-07611070-n"
+          ]
+        },
+        {
+          "name": "malted milk",
+          "synsets": [
+            "oewn-07942780-n",
+            "oewn-07942882-n"
+          ]
+        },
+        {
+          "name": "mammee apple",
+          "synsets": [
+            "oewn-07782506-n"
+          ]
+        },
+        {
+          "name": "matzah meal",
+          "synsets": [
+            "oewn-07583954-n"
+          ]
+        },
+        {
+          "name": "moussaka",
+          "synsets": [
+            "oewn-07888569-n"
+          ]
+        },
+        {
+          "name": "pistachio",
+          "synsets": [
+            "oewn-07791026-n"
+          ]
+        },
+        {
+          "name": "plumcot",
+          "synsets": [
+            "oewn-07784566-n"
+          ]
+        },
+        {
+          "name": "pocket bread",
+          "synsets": [
+            "oewn-07699362-n"
+          ]
+        },
+        {
+          "name": "poutine",
+          "synsets": [
+            "oewn-91000881-n"
+          ]
+        },
+        {
+          "name": "pumpkin",
+          "synsets": [
+            "oewn-07751486-n"
+          ]
+        },
+        {
+          "name": "raisin bread",
+          "synsets": [
+            "oewn-07700262-n"
+          ]
+        },
+        {
+          "name": "rhubarb pie",
+          "synsets": [
+            "oewn-07642110-n"
+          ]
+        },
+        {
+          "name": "rijstafel",
+          "synsets": [
+            "oewn-07891243-n"
+          ]
+        },
+        {
+          "name": "savory",
+          "synsets": [
+            "oewn-07610411-n",
+            "oewn-07836790-n"
+          ]
+        },
+        {
+          "name": "shadberry",
+          "synsets": [
+            "oewn-07761637-n"
+          ]
+        },
+        {
+          "name": "shirred egg",
+          "synsets": [
+            "oewn-07858581-n"
+          ]
+        },
+        {
+          "name": "shortcake",
+          "synsets": [
+            "oewn-07710404-n"
+          ]
+        },
+        {
+          "name": "sourball",
+          "synsets": [
+            "oewn-07614954-n"
+          ]
+        },
+        {
+          "name": "stuffed egg",
+          "synsets": [
+            "oewn-07858409-n"
+          ]
+        },
+        {
+          "name": "sugar loaf",
+          "synsets": [
+            "oewn-07611070-n"
+          ]
+        },
+        {
+          "name": "sugarloaf",
+          "synsets": [
+            "oewn-07611070-n"
+          ]
+        },
+        {
+          "name": "turkey",
+          "synsets": [
+            "oewn-07663340-n"
+          ]
+        },
+        {
+          "name": "veloute",
+          "synsets": [
+            "oewn-07856003-n"
+          ]
+        },
+        {
+          "name": "wheat germ",
+          "synsets": [
+            "oewn-07819968-n"
+          ]
+        },
+        {
+          "name": "whiskey",
+          "synsets": [
+            "oewn-07922524-n"
+          ]
+        },
+        {
+          "name": "white rice",
+          "synsets": [
+            "oewn-07820633-n"
+          ]
+        },
+        {
+          "name": "wine sauce",
+          "synsets": [
+            "oewn-07847639-n"
+          ]
+        },
+        {
+          "name": "witloof",
+          "synsets": [
+            "oewn-07747743-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.group",
+      "label": "Groups",
+      "count": 3730,
+      "matches": [
+        {
+          "name": "cargo cult",
+          "synsets": [
+            "oewn-08168750-n"
+          ]
+        },
+        {
+          "name": "congress",
+          "synsets": [
+            "oewn-08178656-n",
+            "oewn-08325730-n",
+            "oewn-08335621-n"
+          ]
+        },
+        {
+          "name": "culture",
+          "synsets": [
+            "oewn-08304765-n"
+          ]
+        },
+        {
+          "name": "death squad",
+          "synsets": [
+            "oewn-08226108-n"
+          ]
+        },
+        {
+          "name": "declension",
+          "synsets": [
+            "oewn-08022953-n"
+          ]
+        },
+        {
+          "name": "gallicanism",
+          "synsets": [
+            "oewn-08492081-n"
+          ]
+        },
+        {
+          "name": "hospital",
+          "synsets": [
+            "oewn-08071169-n"
+          ]
+        },
+        {
+          "name": "ingroup",
+          "synsets": [
+            "oewn-08257554-n"
+          ]
+        },
+        {
+          "name": "judiciary",
+          "synsets": [
+            "oewn-08183086-n",
+            "oewn-08183217-n"
+          ]
+        },
+        {
+          "name": "luftwaffe",
+          "synsets": [
+            "oewn-08212169-n"
+          ]
+        },
+        {
+          "name": "main diagonal",
+          "synsets": [
+            "oewn-08285557-n"
+          ]
+        },
+        {
+          "name": "retail chain",
+          "synsets": [
+            "oewn-08079042-n"
+          ]
+        },
+        {
+          "name": "session",
+          "synsets": [
+            "oewn-08434877-n"
+          ]
+        },
+        {
+          "name": "shaktism",
+          "synsets": [
+            "oewn-08114188-n"
+          ]
+        },
+        {
+          "name": "shariah law",
+          "synsets": [
+            "oewn-08472840-n"
+          ]
+        },
+        {
+          "name": "shivaism",
+          "synsets": [
+            "oewn-08114038-n"
+          ]
+        },
+        {
+          "name": "socialism",
+          "synsets": [
+            "oewn-08383129-n"
+          ]
+        },
+        {
+          "name": "syndicate",
+          "synsets": [
+            "oewn-08253359-n",
+            "oewn-08263223-n",
+            "oewn-08372251-n"
+          ]
+        },
+        {
+          "name": "triplet",
+          "synsets": [
+            "oewn-08002640-n"
+          ]
+        },
+        {
+          "name": "variety",
+          "synsets": [
+            "oewn-08118051-n",
+            "oewn-08415730-n"
+          ]
+        },
+        {
+          "name": "venation",
+          "synsets": [
+            "oewn-08390171-n"
+          ]
+        },
+        {
+          "name": "world bank",
+          "synsets": [
+            "oewn-08317704-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.location",
+      "label": "Places",
+      "count": 1261,
+      "matches": [
+        {
+          "name": "battle line",
+          "synsets": [
+            "oewn-08612610-n"
+          ]
+        },
+        {
+          "name": "bilocation",
+          "synsets": [
+            "oewn-08506900-n"
+          ]
+        },
+        {
+          "name": "boundary",
+          "synsets": [
+            "oewn-08529331-n"
+          ]
+        },
+        {
+          "name": "city block",
+          "synsets": [
+            "oewn-08659720-n"
+          ]
+        },
+        {
+          "name": "fault line",
+          "synsets": [
+            "oewn-08587120-n"
+          ]
+        },
+        {
+          "name": "midpoint",
+          "synsets": [
+            "oewn-08538999-n"
+          ]
+        },
+        {
+          "name": "pasture",
+          "synsets": [
+            "oewn-08633625-n"
+          ]
+        },
+        {
+          "name": "perijove",
+          "synsets": [
+            "oewn-08636581-n"
+          ]
+        },
+        {
+          "name": "perilune",
+          "synsets": [
+            "oewn-08636687-n"
+          ]
+        },
+        {
+          "name": "pesthole",
+          "synsets": [
+            "oewn-08636825-n"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-08645494-n"
+          ]
+        },
+        {
+          "name": "safari park",
+          "synsets": [
+            "oewn-08662995-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.motive",
+      "label": "Motives",
+      "count": 78,
+      "matches": []
+    },
+    {
+      "id": "noun.object",
+      "label": "Natural objects",
+      "count": 1133,
+      "matches": [
+        {
+          "name": "chondrule",
+          "synsets": [
+            "oewn-09267237-n"
+          ]
+        },
+        {
+          "name": "declension",
+          "synsets": [
+            "oewn-09288526-n"
+          ]
+        },
+        {
+          "name": "flare star",
+          "synsets": [
+            "oewn-09304158-n"
+          ]
+        },
+        {
+          "name": "fountain",
+          "synsets": [
+            "oewn-09466357-n"
+          ]
+        },
+        {
+          "name": "guide plate",
+          "synsets": [
+            "oewn-92435392-n"
+          ]
+        },
+        {
+          "name": "honeycomb",
+          "synsets": [
+            "oewn-09241222-n"
+          ]
+        },
+        {
+          "name": "indument",
+          "synsets": [
+            "oewn-09335000-n"
+          ]
+        },
+        {
+          "name": "macrocosm",
+          "synsets": [
+            "oewn-09489410-n"
+          ]
+        },
+        {
+          "name": "monocline",
+          "synsets": [
+            "oewn-09380344-n"
+          ]
+        },
+        {
+          "name": "mu-meson",
+          "synsets": [
+            "oewn-09386111-n"
+          ]
+        },
+        {
+          "name": "mud puddle",
+          "synsets": [
+            "oewn-09385717-n"
+          ]
+        },
+        {
+          "name": "primary",
+          "synsets": [
+            "oewn-09421644-n"
+          ]
+        },
+        {
+          "name": "riverbank",
+          "synsets": [
+            "oewn-09438462-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.person",
+      "label": "People",
+      "count": 10838,
+      "matches": [
+        {
+          "name": "adult female",
+          "synsets": [
+            "oewn-10807146-n"
+          ]
+        },
+        {
+          "name": "air marshal",
+          "synsets": [
+            "oewn-09800612-n"
+          ]
+        },
+        {
+          "name": "alpinist",
+          "synsets": [
+            "oewn-09805100-n"
+          ]
+        },
+        {
+          "name": "anglo-indian",
+          "synsets": [
+            "oewn-09721937-n"
+          ]
+        },
+        {
+          "name": "balletomane",
+          "synsets": [
+            "oewn-09854541-n"
+          ]
+        },
+        {
+          "name": "barytone",
+          "synsets": [
+            "oewn-09858824-n"
+          ]
+        },
+        {
+          "name": "boot maker",
+          "synsets": [
+            "oewn-09886475-n"
+          ]
+        },
+        {
+          "name": "bootmaker",
+          "synsets": [
+            "oewn-09886475-n"
+          ]
+        },
+        {
+          "name": "botanist",
+          "synsets": [
+            "oewn-09887676-n"
+          ]
+        },
+        {
+          "name": "browser",
+          "synsets": [
+            "oewn-09897053-n"
+          ]
+        },
+        {
+          "name": "carouser",
+          "synsets": [
+            "oewn-10788989-n"
+          ]
+        },
+        {
+          "name": "carpenter",
+          "synsets": [
+            "oewn-09916137-n"
+          ]
+        },
+        {
+          "name": "ceramicist",
+          "synsets": [
+            "oewn-10480372-n"
+          ]
+        },
+        {
+          "name": "civil leader",
+          "synsets": [
+            "oewn-09943895-n"
+          ]
+        },
+        {
+          "name": "companion",
+          "synsets": [
+            "oewn-09779940-n",
+            "oewn-09965384-n",
+            "oewn-09965757-n"
+          ]
+        },
+        {
+          "name": "croesus",
+          "synsets": [
+            "oewn-09999443-n"
+          ]
+        },
+        {
+          "name": "crowned head",
+          "synsets": [
+            "oewn-10648006-n"
+          ]
+        },
+        {
+          "name": "drug baron",
+          "synsets": [
+            "oewn-10055860-n"
+          ]
+        },
+        {
+          "name": "dyslectic",
+          "synsets": [
+            "oewn-10060414-n"
+          ]
+        },
+        {
+          "name": "east-sider",
+          "synsets": [
+            "oewn-10061994-n"
+          ]
+        },
+        {
+          "name": "embodiment",
+          "synsets": [
+            "oewn-10438047-n"
+          ]
+        },
+        {
+          "name": "energiser",
+          "synsets": [
+            "oewn-10075911-n"
+          ]
+        },
+        {
+          "name": "ferryman",
+          "synsets": [
+            "oewn-87974741-n"
+          ]
+        },
+        {
+          "name": "folk poet",
+          "synsets": [
+            "oewn-10118771-n"
+          ]
+        },
+        {
+          "name": "forgiver",
+          "synsets": [
+            "oewn-10418998-n"
+          ]
+        },
+        {
+          "name": "free trader",
+          "synsets": [
+            "oewn-10131127-n"
+          ]
+        },
+        {
+          "name": "free-liver",
+          "synsets": [
+            "oewn-10130500-n"
+          ]
+        },
+        {
+          "name": "freewoman",
+          "synsets": [
+            "oewn-83017536-n"
+          ]
+        },
+        {
+          "name": "geographer",
+          "synsets": [
+            "oewn-10147092-n"
+          ]
+        },
+        {
+          "name": "godparent",
+          "synsets": [
+            "oewn-10154502-n"
+          ]
+        },
+        {
+          "name": "grandaunt",
+          "synsets": [
+            "oewn-10164759-n"
+          ]
+        },
+        {
+          "name": "haemophiliac",
+          "synsets": [
+            "oewn-10190661-n"
+          ]
+        },
+        {
+          "name": "hobbyist",
+          "synsets": [
+            "oewn-10198700-n"
+          ]
+        },
+        {
+          "name": "intellect",
+          "synsets": [
+            "oewn-09644715-n"
+          ]
+        },
+        {
+          "name": "kibitzer",
+          "synsets": [
+            "oewn-10250102-n"
+          ]
+        },
+        {
+          "name": "liberator",
+          "synsets": [
+            "oewn-10276918-n"
+          ]
+        },
+        {
+          "name": "man-at-arms",
+          "synsets": [
+            "oewn-10311130-n"
+          ]
+        },
+        {
+          "name": "martinet",
+          "synsets": [
+            "oewn-10316105-n"
+          ]
+        },
+        {
+          "name": "masorite",
+          "synsets": [
+            "oewn-10317322-n"
+          ]
+        },
+        {
+          "name": "measurer",
+          "synsets": [
+            "oewn-10324050-n"
+          ]
+        },
+        {
+          "name": "missus",
+          "synsets": [
+            "oewn-10343187-n"
+          ]
+        },
+        {
+          "name": "moneyman",
+          "synsets": [
+            "oewn-88339447-n"
+          ]
+        },
+        {
+          "name": "mongolian",
+          "synsets": [
+            "oewn-09664219-n"
+          ]
+        },
+        {
+          "name": "nestling",
+          "synsets": [
+            "oewn-09937051-n"
+          ]
+        },
+        {
+          "name": "nihilist",
+          "synsets": [
+            "oewn-09811257-n",
+            "oewn-10378119-n"
+          ]
+        },
+        {
+          "name": "oil rigger",
+          "synsets": [
+            "oewn-10550437-n"
+          ]
+        },
+        {
+          "name": "operagoer",
+          "synsets": [
+            "oewn-10397912-n"
+          ]
+        },
+        {
+          "name": "outlier",
+          "synsets": [
+            "oewn-10407535-n"
+          ]
+        },
+        {
+          "name": "pakistani",
+          "synsets": [
+            "oewn-09745186-n"
+          ]
+        },
+        {
+          "name": "paleo-indian",
+          "synsets": [
+            "oewn-10414133-n"
+          ]
+        },
+        {
+          "name": "penutian",
+          "synsets": [
+            "oewn-09685250-n"
+          ]
+        },
+        {
+          "name": "personage",
+          "synsets": [
+            "oewn-10220400-n",
+            "oewn-10437427-n"
+          ]
+        },
+        {
+          "name": "placeseeker",
+          "synsets": [
+            "oewn-10456781-n"
+          ]
+        },
+        {
+          "name": "poseuse",
+          "synsets": [
+            "oewn-10475636-n"
+          ]
+        },
+        {
+          "name": "pr woman",
+          "synsets": [
+            "oewn-80790981-n"
+          ]
+        },
+        {
+          "name": "printer",
+          "synsets": [
+            "oewn-10494882-n"
+          ]
+        },
+        {
+          "name": "producer",
+          "synsets": [
+            "oewn-10311977-n",
+            "oewn-10499603-n"
+          ]
+        },
+        {
+          "name": "progeny",
+          "synsets": [
+            "oewn-10393697-n"
+          ]
+        },
+        {
+          "name": "promisee",
+          "synsets": [
+            "oewn-10501514-n"
+          ]
+        },
+        {
+          "name": "puerpera",
+          "synsets": [
+            "oewn-10511671-n"
+          ]
+        },
+        {
+          "name": "putter",
+          "synsets": [
+            "oewn-10515666-n"
+          ]
+        },
+        {
+          "name": "quarry",
+          "synsets": [
+            "oewn-10490045-n"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-10518284-n"
+          ]
+        },
+        {
+          "name": "ravisher",
+          "synsets": [
+            "oewn-10633512-n",
+            "oewn-10773949-n"
+          ]
+        },
+        {
+          "name": "rear admiral",
+          "synsets": [
+            "oewn-10529838-n"
+          ]
+        },
+        {
+          "name": "reprobate",
+          "synsets": [
+            "oewn-10541917-n"
+          ]
+        },
+        {
+          "name": "researcher",
+          "synsets": [
+            "oewn-10542669-n"
+          ]
+        },
+        {
+          "name": "roommate",
+          "synsets": [
+            "oewn-10558075-n"
+          ]
+        },
+        {
+          "name": "saudi arabian",
+          "synsets": [
+            "oewn-09748729-n"
+          ]
+        },
+        {
+          "name": "schoolma'am",
+          "synsets": [
+            "oewn-10579268-n"
+          ]
+        },
+        {
+          "name": "schoolman",
+          "synsets": [
+            "oewn-10579111-n",
+            "oewn-86121051-n"
+          ]
+        },
+        {
+          "name": "scouser",
+          "synsets": [
+            "oewn-09723905-n"
+          ]
+        },
+        {
+          "name": "seamster",
+          "synsets": [
+            "oewn-10709060-n"
+          ]
+        },
+        {
+          "name": "second fiddle",
+          "synsets": [
+            "oewn-10588052-n"
+          ]
+        },
+        {
+          "name": "shoofly",
+          "synsets": [
+            "oewn-10610755-n"
+          ]
+        },
+        {
+          "name": "shooter",
+          "synsets": [
+            "oewn-10171603-n",
+            "oewn-10610889-n",
+            "oewn-10611086-n",
+            "oewn-10612523-n"
+          ]
+        },
+        {
+          "name": "shop boy",
+          "synsets": [
+            "oewn-10611357-n"
+          ]
+        },
+        {
+          "name": "sleepyhead",
+          "synsets": [
+            "oewn-10631057-n"
+          ]
+        },
+        {
+          "name": "sodomite",
+          "synsets": [
+            "oewn-10640876-n"
+          ]
+        },
+        {
+          "name": "speed demon",
+          "synsets": [
+            "oewn-10653994-n"
+          ]
+        },
+        {
+          "name": "staggerer",
+          "synsets": [
+            "oewn-10665293-n"
+          ]
+        },
+        {
+          "name": "striker",
+          "synsets": [
+            "oewn-10197847-n",
+            "oewn-10683184-n",
+            "oewn-10683297-n",
+            "oewn-10683435-n"
+          ]
+        },
+        {
+          "name": "sumerian",
+          "synsets": [
+            "oewn-10693910-n"
+          ]
+        },
+        {
+          "name": "swimmer",
+          "synsets": [
+            "oewn-10702573-n",
+            "oewn-10702832-n"
+          ]
+        },
+        {
+          "name": "tanzanian",
+          "synsets": [
+            "oewn-09753617-n"
+          ]
+        },
+        {
+          "name": "taurus",
+          "synsets": [
+            "oewn-09771712-n"
+          ]
+        },
+        {
+          "name": "teddy boy",
+          "synsets": [
+            "oewn-88839687-n"
+          ]
+        },
+        {
+          "name": "tinkerer",
+          "synsets": [
+            "oewn-10731704-n",
+            "oewn-10731878-n"
+          ]
+        },
+        {
+          "name": "triplet",
+          "synsets": [
+            "oewn-10749453-n"
+          ]
+        },
+        {
+          "name": "troller",
+          "synsets": [
+            "oewn-09813387-n"
+          ]
+        },
+        {
+          "name": "turkey",
+          "synsets": [
+            "oewn-10243965-n"
+          ]
+        },
+        {
+          "name": "tv star",
+          "synsets": [
+            "oewn-10718046-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.phenomenon",
+      "label": "Natural phenomena",
+      "count": 998,
+      "matches": [
+        {
+          "name": "cathode ray",
+          "synsets": [
+            "oewn-11448681-n"
+          ]
+        },
+        {
+          "name": "condensate",
+          "synsets": [
+            "oewn-11466338-n"
+          ]
+        },
+        {
+          "name": "drizzle",
+          "synsets": [
+            "oewn-11522740-n"
+          ]
+        },
+        {
+          "name": "flurry",
+          "synsets": [
+            "oewn-11528996-n"
+          ]
+        },
+        {
+          "name": "lightning",
+          "synsets": [
+            "oewn-11495679-n"
+          ]
+        },
+        {
+          "name": "stress",
+          "synsets": [
+            "oewn-11535238-n"
+          ]
+        },
+        {
+          "name": "traction",
+          "synsets": [
+            "oewn-11480680-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.plant",
+      "label": "Plants",
+      "count": 12828,
+      "matches": [
+        {
+          "name": "albizia lebbeck",
+          "synsets": [
+            "oewn-11780078-n"
+          ]
+        },
+        {
+          "name": "american agave",
+          "synsets": [
+            "oewn-12497668-n"
+          ]
+        },
+        {
+          "name": "angled loofah",
+          "synsets": [
+            "oewn-12187446-n"
+          ]
+        },
+        {
+          "name": "annona glabra",
+          "synsets": [
+            "oewn-11715754-n"
+          ]
+        },
+        {
+          "name": "aroeira blanca",
+          "synsets": [
+            "oewn-12785738-n"
+          ]
+        },
+        {
+          "name": "beetroot",
+          "synsets": [
+            "oewn-11852949-n"
+          ]
+        },
+        {
+          "name": "begonia rex",
+          "synsets": [
+            "oewn-12382463-n"
+          ]
+        },
+        {
+          "name": "bella sombra",
+          "synsets": [
+            "oewn-11876311-n"
+          ]
+        },
+        {
+          "name": "bombay hemp",
+          "synsets": [
+            "oewn-12198646-n"
+          ]
+        },
+        {
+          "name": "brier patch",
+          "synsets": [
+            "oewn-12642597-n"
+          ]
+        },
+        {
+          "name": "brierpatch",
+          "synsets": [
+            "oewn-12642597-n"
+          ]
+        },
+        {
+          "name": "brooklime",
+          "synsets": [
+            "oewn-12911445-n",
+            "oewn-12911853-n"
+          ]
+        },
+        {
+          "name": "broom-weed",
+          "synsets": [
+            "oewn-11995357-n"
+          ]
+        },
+        {
+          "name": "broomweed",
+          "synsets": [
+            "oewn-11995357-n"
+          ]
+        },
+        {
+          "name": "brown ash",
+          "synsets": [
+            "oewn-12325606-n"
+          ]
+        },
+        {
+          "name": "bryonia alba",
+          "synsets": [
+            "oewn-12183796-n"
+          ]
+        },
+        {
+          "name": "carpetweed",
+          "synsets": [
+            "oewn-11842003-n"
+          ]
+        },
+        {
+          "name": "chaparral pea",
+          "synsets": [
+            "oewn-12579549-n"
+          ]
+        },
+        {
+          "name": "clementine",
+          "synsets": [
+            "oewn-12731175-n"
+          ]
+        },
+        {
+          "name": "common oak",
+          "synsets": [
+            "oewn-12298095-n"
+          ]
+        },
+        {
+          "name": "danewort",
+          "synsets": [
+            "oewn-12699784-n"
+          ]
+        },
+        {
+          "name": "deerberry",
+          "synsets": [
+            "oewn-12269811-n"
+          ]
+        },
+        {
+          "name": "devil tree",
+          "synsets": [
+            "oewn-11790725-n"
+          ]
+        },
+        {
+          "name": "dewberry",
+          "synsets": [
+            "oewn-12675148-n"
+          ]
+        },
+        {
+          "name": "dry rot",
+          "synsets": [
+            "oewn-13102759-n"
+          ]
+        },
+        {
+          "name": "emilia flammea",
+          "synsets": [
+            "oewn-11983774-n"
+          ]
+        },
+        {
+          "name": "erica vagans",
+          "synsets": [
+            "oewn-12249206-n"
+          ]
+        },
+        {
+          "name": "fleawort",
+          "synsets": [
+            "oewn-12620635-n"
+          ]
+        },
+        {
+          "name": "fly orchid",
+          "synsets": [
+            "oewn-12095511-n",
+            "oewn-12106181-n"
+          ]
+        },
+        {
+          "name": "fraser fir",
+          "synsets": [
+            "oewn-11642635-n"
+          ]
+        },
+        {
+          "name": "gall-berry",
+          "synsets": [
+            "oewn-12778218-n"
+          ]
+        },
+        {
+          "name": "gallberry",
+          "synsets": [
+            "oewn-12778218-n"
+          ]
+        },
+        {
+          "name": "gentianella",
+          "synsets": [
+            "oewn-12314641-n"
+          ]
+        },
+        {
+          "name": "gladiolus",
+          "synsets": [
+            "oewn-12437887-n"
+          ]
+        },
+        {
+          "name": "golden fern",
+          "synsets": [
+            "oewn-13227076-n",
+            "oewn-13234295-n"
+          ]
+        },
+        {
+          "name": "hair grass",
+          "synsets": [
+            "oewn-12174431-n"
+          ]
+        },
+        {
+          "name": "hazel tree",
+          "synsets": [
+            "oewn-13164861-n"
+          ]
+        },
+        {
+          "name": "hulsea algida",
+          "synsets": [
+            "oewn-12003844-n"
+          ]
+        },
+        {
+          "name": "incense cedar",
+          "synsets": [
+            "oewn-11655187-n",
+            "oewn-11659535-n"
+          ]
+        },
+        {
+          "name": "jew's-ears",
+          "synsets": [
+            "oewn-13083181-n"
+          ]
+        },
+        {
+          "name": "keurboom",
+          "synsets": [
+            "oewn-12600570-n",
+            "oewn-12600760-n"
+          ]
+        },
+        {
+          "name": "macrozamia",
+          "synsets": [
+            "oewn-11624286-n"
+          ]
+        },
+        {
+          "name": "madia sativa",
+          "synsets": [
+            "oewn-12014996-n"
+          ]
+        },
+        {
+          "name": "mammee apple",
+          "synsets": [
+            "oewn-12390691-n"
+          ]
+        },
+        {
+          "name": "maxillaria",
+          "synsets": [
+            "oewn-12093718-n"
+          ]
+        },
+        {
+          "name": "medusa's head",
+          "synsets": [
+            "oewn-12140339-n",
+            "oewn-12939751-n"
+          ]
+        },
+        {
+          "name": "mugo pine",
+          "synsets": [
+            "oewn-11632800-n"
+          ]
+        },
+        {
+          "name": "pacific yew",
+          "synsets": [
+            "oewn-11682579-n"
+          ]
+        },
+        {
+          "name": "pistachio",
+          "synsets": [
+            "oewn-12782462-n"
+          ]
+        },
+        {
+          "name": "pitch pine",
+          "synsets": [
+            "oewn-11631807-n",
+            "oewn-11636418-n"
+          ]
+        },
+        {
+          "name": "plantlet",
+          "synsets": [
+            "oewn-11551541-n"
+          ]
+        },
+        {
+          "name": "plumcot",
+          "synsets": [
+            "oewn-12661196-n"
+          ]
+        },
+        {
+          "name": "prairie crab",
+          "synsets": [
+            "oewn-12656505-n"
+          ]
+        },
+        {
+          "name": "pumpkin",
+          "synsets": [
+            "oewn-12178960-n"
+          ]
+        },
+        {
+          "name": "ragged robin",
+          "synsets": [
+            "oewn-11832175-n"
+          ]
+        },
+        {
+          "name": "rex begonia",
+          "synsets": [
+            "oewn-12382463-n"
+          ]
+        },
+        {
+          "name": "sage brush",
+          "synsets": [
+            "oewn-11949496-n"
+          ]
+        },
+        {
+          "name": "sagebrush",
+          "synsets": [
+            "oewn-11949496-n"
+          ]
+        },
+        {
+          "name": "salt tree",
+          "synsets": [
+            "oewn-12554235-n"
+          ]
+        },
+        {
+          "name": "savory",
+          "synsets": [
+            "oewn-12878216-n",
+            "oewn-12887728-n"
+          ]
+        },
+        {
+          "name": "shaggymane",
+          "synsets": [
+            "oewn-13026931-n"
+          ]
+        },
+        {
+          "name": "shield fern",
+          "synsets": [
+            "oewn-13213523-n"
+          ]
+        },
+        {
+          "name": "shoo fly",
+          "synsets": [
+            "oewn-12927817-n"
+          ]
+        },
+        {
+          "name": "skirret",
+          "synsets": [
+            "oewn-12966309-n"
+          ]
+        },
+        {
+          "name": "spice tree",
+          "synsets": [
+            "oewn-11728296-n",
+            "oewn-13131933-n"
+          ]
+        },
+        {
+          "name": "staff tree",
+          "synsets": [
+            "oewn-12768591-n"
+          ]
+        },
+        {
+          "name": "strobile",
+          "synsets": [
+            "oewn-11703311-n"
+          ]
+        },
+        {
+          "name": "swamp ash",
+          "synsets": [
+            "oewn-12324803-n"
+          ]
+        },
+        {
+          "name": "swamp bay",
+          "synsets": [
+            "oewn-11732233-n"
+          ]
+        },
+        {
+          "name": "sweet balm",
+          "synsets": [
+            "oewn-12875360-n"
+          ]
+        },
+        {
+          "name": "sweet bay",
+          "synsets": [
+            "oewn-11732233-n"
+          ]
+        },
+        {
+          "name": "vetchling",
+          "synsets": [
+            "oewn-12559579-n"
+          ]
+        },
+        {
+          "name": "wild angelica",
+          "synsets": [
+            "oewn-12953125-n"
+          ]
+        },
+        {
+          "name": "wistaria",
+          "synsets": [
+            "oewn-12601205-n"
+          ]
+        },
+        {
+          "name": "witloof",
+          "synsets": [
+            "oewn-11973808-n"
+          ]
+        },
+        {
+          "name": "wood fern",
+          "synsets": [
+            "oewn-13214540-n"
+          ]
+        },
+        {
+          "name": "wood-fern",
+          "synsets": [
+            "oewn-13214540-n"
+          ]
+        },
+        {
+          "name": "woodfern",
+          "synsets": [
+            "oewn-13214540-n"
+          ]
+        },
+        {
+          "name": "yarrow",
+          "synsets": [
+            "oewn-11937165-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.possession",
+      "label": "Possessions",
+      "count": 1584,
+      "matches": [
+        {
+          "name": "banker's check",
+          "synsets": [
+            "oewn-13401482-n"
+          ]
+        },
+        {
+          "name": "bearer share",
+          "synsets": [
+            "oewn-92439656-n"
+          ]
+        },
+        {
+          "name": "financial gain",
+          "synsets": [
+            "oewn-13275884-n"
+          ]
+        },
+        {
+          "name": "fuel level",
+          "synsets": [
+            "oewn-13390247-n"
+          ]
+        },
+        {
+          "name": "half crown",
+          "synsets": [
+            "oewn-13411122-n"
+          ]
+        },
+        {
+          "name": "landholding",
+          "synsets": [
+            "oewn-13268257-n",
+            "oewn-13268344-n"
+          ]
+        },
+        {
+          "name": "poll tax",
+          "synsets": [
+            "oewn-13335377-n"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-13411417-n"
+          ]
+        },
+        {
+          "name": "self-drive",
+          "synsets": [
+            "oewn-13269497-n"
+          ]
+        },
+        {
+          "name": "sparkler",
+          "synsets": [
+            "oewn-13393296-n"
+          ]
+        },
+        {
+          "name": "surcharge",
+          "synsets": [
+            "oewn-13346527-n"
+          ]
+        },
+        {
+          "name": "tuppence",
+          "synsets": [
+            "oewn-13412136-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.process",
+      "label": "Processes",
+      "count": 1165,
+      "matches": [
+        {
+          "name": "acclimation",
+          "synsets": [
+            "oewn-13445816-n"
+          ]
+        },
+        {
+          "name": "acylation",
+          "synsets": [
+            "oewn-13448121-n"
+          ]
+        },
+        {
+          "name": "apheresis",
+          "synsets": [
+            "oewn-13454234-n"
+          ]
+        },
+        {
+          "name": "clotting",
+          "synsets": [
+            "oewn-13475652-n"
+          ]
+        },
+        {
+          "name": "declension",
+          "synsets": [
+            "oewn-13485407-n"
+          ]
+        },
+        {
+          "name": "diakinesis",
+          "synsets": [
+            "oewn-13486467-n"
+          ]
+        },
+        {
+          "name": "diplotene",
+          "synsets": [
+            "oewn-13487652-n"
+          ]
+        },
+        {
+          "name": "epitaxy",
+          "synsets": [
+            "oewn-13496523-n"
+          ]
+        },
+        {
+          "name": "inflation",
+          "synsets": [
+            "oewn-13520031-n"
+          ]
+        },
+        {
+          "name": "libration",
+          "synsets": [
+            "oewn-13528820-n"
+          ]
+        },
+        {
+          "name": "reflation",
+          "synsets": [
+            "oewn-13569553-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.quantity",
+      "label": "Quantities",
+      "count": 2064,
+      "matches": [
+        {
+          "name": "bazillion",
+          "synsets": [
+            "oewn-13798632-n"
+          ]
+        },
+        {
+          "name": "iraqi dinar",
+          "synsets": [
+            "oewn-13691447-n"
+          ]
+        },
+        {
+          "name": "milk yield",
+          "synsets": [
+            "oewn-92412932-n"
+          ]
+        },
+        {
+          "name": "octal digit",
+          "synsets": [
+            "oewn-13763743-n"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-13644335-n",
+            "oewn-13742957-n",
+            "oewn-13759620-n"
+          ]
+        },
+        {
+          "name": "roman mile",
+          "synsets": [
+            "oewn-13677032-n"
+          ]
+        },
+        {
+          "name": "roomful",
+          "synsets": [
+            "oewn-13791263-n"
+          ]
+        },
+        {
+          "name": "thirty",
+          "synsets": [
+            "oewn-13771547-n"
+          ]
+        },
+        {
+          "name": "triplet",
+          "synsets": [
+            "oewn-13766184-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.relation",
+      "label": "Relations",
+      "count": 707,
+      "matches": [
+        {
+          "name": "attitude",
+          "synsets": [
+            "oewn-13850556-n"
+          ]
+        },
+        {
+          "name": "declarative",
+          "synsets": [
+            "oewn-13823912-n"
+          ]
+        },
+        {
+          "name": "declension",
+          "synsets": [
+            "oewn-13826415-n"
+          ]
+        },
+        {
+          "name": "durative",
+          "synsets": [
+            "oewn-13827391-n"
+          ]
+        },
+        {
+          "name": "fatherhood",
+          "synsets": [
+            "oewn-13836110-n"
+          ]
+        },
+        {
+          "name": "focal ratio",
+          "synsets": [
+            "oewn-13843620-n"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-13852365-n"
+          ]
+        },
+        {
+          "name": "reciprocal",
+          "synsets": [
+            "oewn-13865372-n",
+            "oewn-13865800-n"
+          ]
+        },
+        {
+          "name": "sou'-east",
+          "synsets": [
+            "oewn-13855040-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.shape",
+      "label": "Shapes",
+      "count": 569,
+      "matches": [
+        {
+          "name": "boundary",
+          "synsets": [
+            "oewn-13926085-n"
+          ]
+        },
+        {
+          "name": "dihedral angle",
+          "synsets": [
+            "oewn-92439239-n"
+          ]
+        },
+        {
+          "name": "intrados",
+          "synsets": [
+            "oewn-13891882-n"
+          ]
+        },
+        {
+          "name": "quadrangle",
+          "synsets": [
+            "oewn-13901783-n"
+          ]
+        },
+        {
+          "name": "tetragon",
+          "synsets": [
+            "oewn-13901783-n"
+          ]
+        },
+        {
+          "name": "thickening",
+          "synsets": [
+            "oewn-13918679-n"
+          ]
+        },
+        {
+          "name": "tilt angle",
+          "synsets": [
+            "oewn-13941617-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.state",
+      "label": "States & conditions",
+      "count": 5676,
+      "matches": [
+        {
+          "name": "acromegaly",
+          "synsets": [
+            "oewn-14391888-n"
+          ]
+        },
+        {
+          "name": "adulthood",
+          "synsets": [
+            "oewn-14448507-n"
+          ]
+        },
+        {
+          "name": "alienation",
+          "synsets": [
+            "oewn-14439177-n"
+          ]
+        },
+        {
+          "name": "aneurism",
+          "synsets": [
+            "oewn-14129507-n"
+          ]
+        },
+        {
+          "name": "anorchism",
+          "synsets": [
+            "oewn-14046320-n"
+          ]
+        },
+        {
+          "name": "bank failure",
+          "synsets": [
+            "oewn-14502446-n"
+          ]
+        },
+        {
+          "name": "birth defect",
+          "synsets": [
+            "oewn-14488632-n"
+          ]
+        },
+        {
+          "name": "brain fever",
+          "synsets": [
+            "oewn-14161846-n"
+          ]
+        },
+        {
+          "name": "bull nose",
+          "synsets": [
+            "oewn-14285547-n"
+          ]
+        },
+        {
+          "name": "cacogenesis",
+          "synsets": [
+            "oewn-14069317-n"
+          ]
+        },
+        {
+          "name": "crudity",
+          "synsets": [
+            "oewn-14496208-n"
+          ]
+        },
+        {
+          "name": "culture",
+          "synsets": [
+            "oewn-14483408-n"
+          ]
+        },
+        {
+          "name": "depletion",
+          "synsets": [
+            "oewn-14040803-n"
+          ]
+        },
+        {
+          "name": "dinginess",
+          "synsets": [
+            "oewn-14522151-n"
+          ]
+        },
+        {
+          "name": "dry rot",
+          "synsets": [
+            "oewn-14304006-n"
+          ]
+        },
+        {
+          "name": "dyschezia",
+          "synsets": [
+            "oewn-14394854-n"
+          ]
+        },
+        {
+          "name": "falseness",
+          "synsets": [
+            "oewn-13983750-n"
+          ]
+        },
+        {
+          "name": "furuncle",
+          "synsets": [
+            "oewn-14206692-n"
+          ]
+        },
+        {
+          "name": "gland disease",
+          "synsets": [
+            "oewn-14083410-n"
+          ]
+        },
+        {
+          "name": "hotness",
+          "synsets": [
+            "oewn-14061509-n"
+          ]
+        },
+        {
+          "name": "hyperemia",
+          "synsets": [
+            "oewn-14344411-n"
+          ]
+        },
+        {
+          "name": "imbroglio",
+          "synsets": [
+            "oewn-13959186-n"
+          ]
+        },
+        {
+          "name": "impaction",
+          "synsets": [
+            "oewn-14083899-n",
+            "oewn-14084057-n",
+            "oewn-14600876-n"
+          ]
+        },
+        {
+          "name": "impotence",
+          "synsets": [
+            "oewn-14068412-n"
+          ]
+        },
+        {
+          "name": "inadequacy",
+          "synsets": [
+            "oewn-14487055-n"
+          ]
+        },
+        {
+          "name": "loginess",
+          "synsets": [
+            "oewn-14041903-n"
+          ]
+        },
+        {
+          "name": "meningioma",
+          "synsets": [
+            "oewn-14263225-n"
+          ]
+        },
+        {
+          "name": "microbrachia",
+          "synsets": [
+            "oewn-14532821-n"
+          ]
+        },
+        {
+          "name": "milk pox",
+          "synsets": [
+            "oewn-14148170-n"
+          ]
+        },
+        {
+          "name": "myosis",
+          "synsets": [
+            "oewn-14353745-n"
+          ]
+        },
+        {
+          "name": "otorrhea",
+          "synsets": [
+            "oewn-14375482-n"
+          ]
+        },
+        {
+          "name": "pachycheilia",
+          "synsets": [
+            "oewn-14533093-n"
+          ]
+        },
+        {
+          "name": "phlebitis",
+          "synsets": [
+            "oewn-14376295-n"
+          ]
+        },
+        {
+          "name": "prodroma",
+          "synsets": [
+            "oewn-14327304-n"
+          ]
+        },
+        {
+          "name": "septicemia",
+          "synsets": [
+            "oewn-14213319-n"
+          ]
+        },
+        {
+          "name": "shakeout",
+          "synsets": [
+            "oewn-14517942-n"
+          ]
+        },
+        {
+          "name": "squint",
+          "synsets": [
+            "oewn-14581007-n"
+          ]
+        },
+        {
+          "name": "status",
+          "synsets": [
+            "oewn-13943868-n",
+            "oewn-13968971-n"
+          ]
+        },
+        {
+          "name": "stress",
+          "synsets": [
+            "oewn-14399593-n",
+            "oewn-14433493-n",
+            "oewn-14458653-n"
+          ]
+        },
+        {
+          "name": "tailspin",
+          "synsets": [
+            "oewn-14427446-n"
+          ]
+        },
+        {
+          "name": "tetanus",
+          "synsets": [
+            "oewn-14209285-n"
+          ]
+        },
+        {
+          "name": "tragic flaw",
+          "synsets": [
+            "oewn-14486915-n"
+          ]
+        },
+        {
+          "name": "trembling",
+          "synsets": [
+            "oewn-14028057-n"
+          ]
+        },
+        {
+          "name": "tularemia",
+          "synsets": [
+            "oewn-14299862-n"
+          ]
+        },
+        {
+          "name": "undress",
+          "synsets": [
+            "oewn-14480200-n"
+          ]
+        },
+        {
+          "name": "urticaria",
+          "synsets": [
+            "oewn-14345675-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.substance",
+      "label": "Substances",
+      "count": 4868,
+      "matches": [
+        {
+          "name": "albuminoid",
+          "synsets": [
+            "oewn-15051283-n"
+          ]
+        },
+        {
+          "name": "alkyl halide",
+          "synsets": [
+            "oewn-14625824-n"
+          ]
+        },
+        {
+          "name": "aniline oil",
+          "synsets": [
+            "oewn-14778684-n"
+          ]
+        },
+        {
+          "name": "aquamarine",
+          "synsets": [
+            "oewn-14791842-n"
+          ]
+        },
+        {
+          "name": "asbestos",
+          "synsets": [
+            "oewn-14749770-n"
+          ]
+        },
+        {
+          "name": "azurite",
+          "synsets": [
+            "oewn-14692016-n"
+          ]
+        },
+        {
+          "name": "calcium ion",
+          "synsets": [
+            "oewn-15095796-n"
+          ]
+        },
+        {
+          "name": "carboxyl",
+          "synsets": [
+            "oewn-14814966-n"
+          ]
+        },
+        {
+          "name": "chromium",
+          "synsets": [
+            "oewn-14659270-n"
+          ]
+        },
+        {
+          "name": "cold rubber",
+          "synsets": [
+            "oewn-15031757-n"
+          ]
+        },
+        {
+          "name": "columbite",
+          "synsets": [
+            "oewn-14708020-n"
+          ]
+        },
+        {
+          "name": "condensate",
+          "synsets": [
+            "oewn-15033332-n"
+          ]
+        },
+        {
+          "name": "creosote",
+          "synsets": [
+            "oewn-14849801-n",
+            "oewn-14849982-n"
+          ]
+        },
+        {
+          "name": "cysteine",
+          "synsets": [
+            "oewn-14628632-n"
+          ]
+        },
+        {
+          "name": "daminozide",
+          "synsets": [
+            "oewn-14732692-n"
+          ]
+        },
+        {
+          "name": "digestive",
+          "synsets": [
+            "oewn-14858884-n"
+          ]
+        },
+        {
+          "name": "earth wax",
+          "synsets": [
+            "oewn-14689281-n"
+          ]
+        },
+        {
+          "name": "fluorine",
+          "synsets": [
+            "oewn-14661685-n"
+          ]
+        },
+        {
+          "name": "galactagogue",
+          "synsets": [
+            "oewn-14900830-n"
+          ]
+        },
+        {
+          "name": "gift wrap",
+          "synsets": [
+            "oewn-14903398-n"
+          ]
+        },
+        {
+          "name": "gilgai soil",
+          "synsets": [
+            "oewn-14903643-n"
+          ]
+        },
+        {
+          "name": "glutamate",
+          "synsets": [
+            "oewn-14908732-n"
+          ]
+        },
+        {
+          "name": "glutelin",
+          "synsets": [
+            "oewn-15050722-n"
+          ]
+        },
+        {
+          "name": "heating oil",
+          "synsets": [
+            "oewn-14710746-n"
+          ]
+        },
+        {
+          "name": "hemoglobin",
+          "synsets": [
+            "oewn-15048807-n"
+          ]
+        },
+        {
+          "name": "hydrazide",
+          "synsets": [
+            "oewn-92465669-n"
+          ]
+        },
+        {
+          "name": "insecticide",
+          "synsets": [
+            "oewn-14944099-n"
+          ]
+        },
+        {
+          "name": "knothole",
+          "synsets": [
+            "oewn-15127461-n"
+          ]
+        },
+        {
+          "name": "liquid air",
+          "synsets": [
+            "oewn-14964994-n"
+          ]
+        },
+        {
+          "name": "lubricant",
+          "synsets": [
+            "oewn-14914810-n"
+          ]
+        },
+        {
+          "name": "menhaden oil",
+          "synsets": [
+            "oewn-14974268-n"
+          ]
+        },
+        {
+          "name": "moss agate",
+          "synsets": [
+            "oewn-14732574-n"
+          ]
+        },
+        {
+          "name": "opaque gem",
+          "synsets": [
+            "oewn-14994225-n"
+          ]
+        },
+        {
+          "name": "palmitic acid",
+          "synsets": [
+            "oewn-14997862-n"
+          ]
+        },
+        {
+          "name": "pediculicide",
+          "synsets": [
+            "oewn-15003012-n"
+          ]
+        },
+        {
+          "name": "perfect gas",
+          "synsets": [
+            "oewn-14940663-n"
+          ]
+        },
+        {
+          "name": "phalloidin",
+          "synsets": [
+            "oewn-92406062-n"
+          ]
+        },
+        {
+          "name": "plagioclase",
+          "synsets": [
+            "oewn-14889467-n"
+          ]
+        },
+        {
+          "name": "polyamide",
+          "synsets": [
+            "oewn-14990233-n"
+          ]
+        },
+        {
+          "name": "pyridine",
+          "synsets": [
+            "oewn-14716671-n"
+          ]
+        },
+        {
+          "name": "pyrogen",
+          "synsets": [
+            "oewn-14608682-n",
+            "oewn-14608838-n"
+          ]
+        },
+        {
+          "name": "quicklime",
+          "synsets": [
+            "oewn-14814055-n"
+          ]
+        },
+        {
+          "name": "radiocarbon",
+          "synsets": [
+            "oewn-14658034-n"
+          ]
+        },
+        {
+          "name": "ravelling",
+          "synsets": [
+            "oewn-15027526-n"
+          ]
+        },
+        {
+          "name": "sucrose",
+          "synsets": [
+            "oewn-15087345-n"
+          ]
+        },
+        {
+          "name": "tetryl",
+          "synsets": [
+            "oewn-15094151-n"
+          ]
+        },
+        {
+          "name": "thickening",
+          "synsets": [
+            "oewn-15094387-n"
+          ]
+        },
+        {
+          "name": "urobilin",
+          "synsets": [
+            "oewn-14780785-n"
+          ]
+        },
+        {
+          "name": "xylose",
+          "synsets": [
+            "oewn-15128347-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun.time",
+      "label": "Time",
+      "count": 1586,
+      "matches": [
+        {
+          "name": "adulthood",
+          "synsets": [
+            "oewn-15177777-n"
+          ]
+        },
+        {
+          "name": "flow rate",
+          "synsets": [
+            "oewn-15302716-n"
+          ]
+        },
+        {
+          "name": "great year",
+          "synsets": [
+            "oewn-15258411-n"
+          ]
+        },
+        {
+          "name": "mid-fifties",
+          "synsets": [
+            "oewn-15174602-n"
+          ]
+        },
+        {
+          "name": "off-season",
+          "synsets": [
+            "oewn-15263558-n"
+          ]
+        },
+        {
+          "name": "outset",
+          "synsets": [
+            "oewn-15290329-n"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-15231386-n",
+            "oewn-15250842-n",
+            "oewn-15259739-n",
+            "oewn-15283261-n"
+          ]
+        },
+        {
+          "name": "run-time",
+          "synsets": [
+            "oewn-15287171-n",
+            "oewn-15287321-n"
+          ]
+        },
+        {
+          "name": "session",
+          "synsets": [
+            "oewn-15250045-n"
+          ]
+        },
+        {
+          "name": "tabernacles",
+          "synsets": [
+            "oewn-15186919-n"
+          ]
+        },
+        {
+          "name": "time of life",
+          "synsets": [
+            "oewn-15169331-n"
+          ]
+        },
+        {
+          "name": "ventose",
+          "synsets": [
+            "oewn-15201832-n"
+          ]
+        },
+        {
+          "name": "voting age",
+          "synsets": [
+            "oewn-15177634-n"
+          ]
+        },
+        {
+          "name": "wednesday",
+          "synsets": [
+            "oewn-15189280-n"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.body",
+      "label": "Body & grooming",
+      "count": 968,
+      "matches": [
+        {
+          "name": "autoclave",
+          "synsets": [
+            "oewn-00062744-v"
+          ]
+        },
+        {
+          "name": "comport",
+          "synsets": [
+            "oewn-00010428-v"
+          ]
+        },
+        {
+          "name": "emasculate",
+          "synsets": [
+            "oewn-00060604-v"
+          ]
+        },
+        {
+          "name": "give birth",
+          "synsets": [
+            "oewn-00056644-v"
+          ]
+        },
+        {
+          "name": "inoculate",
+          "synsets": [
+            "oewn-00053234-v",
+            "oewn-00055835-v",
+            "oewn-00086587-v"
+          ]
+        },
+        {
+          "name": "irritate",
+          "synsets": [
+            "oewn-00063062-v"
+          ]
+        },
+        {
+          "name": "pollenate",
+          "synsets": [
+            "oewn-00053776-v"
+          ]
+        },
+        {
+          "name": "renovate",
+          "synsets": [
+            "oewn-00024272-v"
+          ]
+        },
+        {
+          "name": "saw wood",
+          "synsets": [
+            "oewn-00017024-v"
+          ]
+        },
+        {
+          "name": "scrub up",
+          "synsets": [
+            "oewn-00036773-v"
+          ]
+        },
+        {
+          "name": "squint",
+          "synsets": [
+            "oewn-00008595-v",
+            "oewn-00008792-v"
+          ]
+        },
+        {
+          "name": "stress",
+          "synsets": [
+            "oewn-90005421-v"
+          ]
+        },
+        {
+          "name": "tense up",
+          "synsets": [
+            "oewn-00025196-v",
+            "oewn-00026146-v"
+          ]
+        },
+        {
+          "name": "undress",
+          "synsets": [
+            "oewn-00049617-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.change",
+      "label": "Change",
+      "count": 2766,
+      "matches": [
+        {
+          "name": "accumulate",
+          "synsets": [
+            "oewn-00158612-v"
+          ]
+        },
+        {
+          "name": "alkalinize",
+          "synsets": [
+            "oewn-00134545-v",
+            "oewn-00134706-v"
+          ]
+        },
+        {
+          "name": "camphorate",
+          "synsets": [
+            "oewn-00187057-v"
+          ]
+        },
+        {
+          "name": "cook out",
+          "synsets": [
+            "oewn-00325607-v"
+          ]
+        },
+        {
+          "name": "creosote",
+          "synsets": [
+            "oewn-00186591-v"
+          ]
+        },
+        {
+          "name": "culture",
+          "synsets": [
+            "oewn-00246666-v"
+          ]
+        },
+        {
+          "name": "cut down",
+          "synsets": [
+            "oewn-00430013-v"
+          ]
+        },
+        {
+          "name": "cut out",
+          "synsets": [
+            "oewn-00352964-v",
+            "oewn-00473602-v"
+          ]
+        },
+        {
+          "name": "deliquesce",
+          "synsets": [
+            "oewn-00377296-v",
+            "oewn-00554130-v"
+          ]
+        },
+        {
+          "name": "dry-rot",
+          "synsets": [
+            "oewn-00211427-v"
+          ]
+        },
+        {
+          "name": "emasculate",
+          "synsets": [
+            "oewn-00543033-v"
+          ]
+        },
+        {
+          "name": "encrust",
+          "synsets": [
+            "oewn-00255965-v"
+          ]
+        },
+        {
+          "name": "honeycomb",
+          "synsets": [
+            "oewn-00534853-v"
+          ]
+        },
+        {
+          "name": "inoculate",
+          "synsets": [
+            "oewn-00188584-v"
+          ]
+        },
+        {
+          "name": "irritate",
+          "synsets": [
+            "oewn-00504796-v"
+          ]
+        },
+        {
+          "name": "jazz up",
+          "synsets": [
+            "oewn-00193003-v"
+          ]
+        },
+        {
+          "name": "magnetize",
+          "synsets": [
+            "oewn-00400694-v"
+          ]
+        },
+        {
+          "name": "maximize",
+          "synsets": [
+            "oewn-00429536-v",
+            "oewn-00429823-v"
+          ]
+        },
+        {
+          "name": "mummify",
+          "synsets": [
+            "oewn-00243091-v"
+          ]
+        },
+        {
+          "name": "perturb",
+          "synsets": [
+            "oewn-00277400-v"
+          ]
+        },
+        {
+          "name": "postdate",
+          "synsets": [
+            "oewn-00278024-v"
+          ]
+        },
+        {
+          "name": "renovate",
+          "synsets": [
+            "oewn-00163249-v",
+            "oewn-00164009-v"
+          ]
+        },
+        {
+          "name": "repress",
+          "synsets": [
+            "oewn-00587675-v"
+          ]
+        },
+        {
+          "name": "reshuffle",
+          "synsets": [
+            "oewn-00279480-v"
+          ]
+        },
+        {
+          "name": "restore",
+          "synsets": [
+            "oewn-00168396-v",
+            "oewn-00261534-v"
+          ]
+        },
+        {
+          "name": "set apart",
+          "synsets": [
+            "oewn-00496744-v"
+          ]
+        },
+        {
+          "name": "set out",
+          "synsets": [
+            "oewn-00346415-v"
+          ]
+        },
+        {
+          "name": "telescope",
+          "synsets": [
+            "oewn-00245809-v"
+          ]
+        },
+        {
+          "name": "undergird",
+          "synsets": [
+            "oewn-00222144-v"
+          ]
+        },
+        {
+          "name": "undress",
+          "synsets": [
+            "oewn-00177253-v"
+          ]
+        },
+        {
+          "name": "unfreeze",
+          "synsets": [
+            "oewn-00270568-v",
+            "oewn-00376777-v"
+          ]
+        },
+        {
+          "name": "verbalize",
+          "synsets": [
+            "oewn-00116011-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.cognition",
+      "label": "Thinking",
+      "count": 1069,
+      "matches": [
+        {
+          "name": "acknowledge",
+          "synsets": [
+            "oewn-00594278-v",
+            "oewn-00742454-v"
+          ]
+        },
+        {
+          "name": "dumbfound",
+          "synsets": [
+            "oewn-00624056-v"
+          ]
+        },
+        {
+          "name": "espouse",
+          "synsets": [
+            "oewn-00603217-v"
+          ]
+        },
+        {
+          "name": "preordain",
+          "synsets": [
+            "oewn-00704735-v"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-00644160-v"
+          ]
+        },
+        {
+          "name": "regroup",
+          "synsets": [
+            "oewn-00658496-v"
+          ]
+        },
+        {
+          "name": "repress",
+          "synsets": [
+            "oewn-00614373-v"
+          ]
+        },
+        {
+          "name": "reprobate",
+          "synsets": [
+            "oewn-00689082-v"
+          ]
+        },
+        {
+          "name": "set apart",
+          "synsets": [
+            "oewn-00679602-v"
+          ]
+        },
+        {
+          "name": "spot-check",
+          "synsets": [
+            "oewn-00666029-v"
+          ]
+        },
+        {
+          "name": "subsume",
+          "synsets": [
+            "oewn-00687125-v"
+          ]
+        },
+        {
+          "name": "trip up",
+          "synsets": [
+            "oewn-00601230-v",
+            "oewn-00619747-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.communication",
+      "label": "Communicating",
+      "count": 2267,
+      "matches": [
+        {
+          "name": "acknowledge",
+          "synsets": [
+            "oewn-00818972-v",
+            "oewn-00893988-v",
+            "oewn-00894219-v",
+            "oewn-01060995-v"
+          ]
+        },
+        {
+          "name": "buoy up",
+          "synsets": [
+            "oewn-00861800-v"
+          ]
+        },
+        {
+          "name": "clock out",
+          "synsets": [
+            "oewn-00968672-v"
+          ]
+        },
+        {
+          "name": "confabulate",
+          "synsets": [
+            "oewn-00878196-v",
+            "oewn-01040538-v"
+          ]
+        },
+        {
+          "name": "count off",
+          "synsets": [
+            "oewn-00977765-v"
+          ]
+        },
+        {
+          "name": "denominate",
+          "synsets": [
+            "oewn-01032165-v"
+          ]
+        },
+        {
+          "name": "dogmatize",
+          "synsets": [
+            "oewn-00965315-v",
+            "oewn-00982940-v"
+          ]
+        },
+        {
+          "name": "eulogize",
+          "synsets": [
+            "oewn-00882301-v"
+          ]
+        },
+        {
+          "name": "excoriate",
+          "synsets": [
+            "oewn-00865823-v"
+          ]
+        },
+        {
+          "name": "forewarn",
+          "synsets": [
+            "oewn-00872604-v"
+          ]
+        },
+        {
+          "name": "inoculate",
+          "synsets": [
+            "oewn-00834278-v"
+          ]
+        },
+        {
+          "name": "magnetize",
+          "synsets": [
+            "oewn-00779567-v"
+          ]
+        },
+        {
+          "name": "misdirect",
+          "synsets": [
+            "oewn-00993057-v"
+          ]
+        },
+        {
+          "name": "reprobate",
+          "synsets": [
+            "oewn-00865823-v",
+            "oewn-01073177-v"
+          ]
+        },
+        {
+          "name": "reschedule",
+          "synsets": [
+            "oewn-00797137-v"
+          ]
+        },
+        {
+          "name": "reshoot",
+          "synsets": [
+            "oewn-01005786-v"
+          ]
+        },
+        {
+          "name": "satirise",
+          "synsets": [
+            "oewn-00854367-v"
+          ]
+        },
+        {
+          "name": "semaphore",
+          "synsets": [
+            "oewn-01042030-v",
+            "oewn-01042150-v"
+          ]
+        },
+        {
+          "name": "set down",
+          "synsets": [
+            "oewn-01022365-v"
+          ]
+        },
+        {
+          "name": "shrug off",
+          "synsets": [
+            "oewn-00744118-v"
+          ]
+        },
+        {
+          "name": "sound off",
+          "synsets": [
+            "oewn-00909100-v",
+            "oewn-01029677-v"
+          ]
+        },
+        {
+          "name": "stress",
+          "synsets": [
+            "oewn-00985365-v",
+            "oewn-01015376-v"
+          ]
+        },
+        {
+          "name": "surcharge",
+          "synsets": [
+            "oewn-00925452-v"
+          ]
+        },
+        {
+          "name": "talk down",
+          "synsets": [
+            "oewn-00751590-v",
+            "oewn-00866478-v",
+            "oewn-00965047-v"
+          ]
+        },
+        {
+          "name": "tear apart",
+          "synsets": [
+            "oewn-00848023-v"
+          ]
+        },
+        {
+          "name": "telephone",
+          "synsets": [
+            "oewn-00791110-v"
+          ]
+        },
+        {
+          "name": "verbalize",
+          "synsets": [
+            "oewn-00942415-v",
+            "oewn-00944022-v",
+            "oewn-00945313-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.competition",
+      "label": "Competition",
+      "count": 608,
+      "matches": [
+        {
+          "name": "cut down",
+          "synsets": [
+            "oewn-01106920-v"
+          ]
+        },
+        {
+          "name": "cut out",
+          "synsets": [
+            "oewn-01106920-v"
+          ]
+        },
+        {
+          "name": "demobilize",
+          "synsets": [
+            "oewn-01090603-v",
+            "oewn-01100617-v"
+          ]
+        },
+        {
+          "name": "outflank",
+          "synsets": [
+            "oewn-01111670-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.consumption",
+      "label": "Eating & drinking",
+      "count": 402,
+      "matches": [
+        {
+          "name": "quarry",
+          "synsets": [
+            "oewn-01166163-v"
+          ]
+        },
+        {
+          "name": "skin pop",
+          "synsets": [
+            "oewn-01202299-v"
+          ]
+        },
+        {
+          "name": "toss off",
+          "synsets": [
+            "oewn-01204994-v"
+          ]
+        },
+        {
+          "name": "underlay",
+          "synsets": [
+            "oewn-01185721-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.contact",
+      "label": "Contact & touch",
+      "count": 2535,
+      "matches": [
+        {
+          "name": "buoy up",
+          "synsets": [
+            "oewn-01221076-v"
+          ]
+        },
+        {
+          "name": "cut down",
+          "synsets": [
+            "oewn-01242426-v",
+            "oewn-01260866-v",
+            "oewn-01322222-v",
+            "oewn-01325339-v"
+          ]
+        },
+        {
+          "name": "cut out",
+          "synsets": [
+            "oewn-01443265-v",
+            "oewn-01552501-v",
+            "oewn-01557581-v"
+          ]
+        },
+        {
+          "name": "demodulate",
+          "synsets": [
+            "oewn-01354304-v"
+          ]
+        },
+        {
+          "name": "disjoint",
+          "synsets": [
+            "oewn-01296785-v",
+            "oewn-01296999-v",
+            "oewn-01297235-v"
+          ]
+        },
+        {
+          "name": "draw close",
+          "synsets": [
+            "oewn-01427599-v",
+            "oewn-01612857-v"
+          ]
+        },
+        {
+          "name": "drizzle",
+          "synsets": [
+            "oewn-01378747-v"
+          ]
+        },
+        {
+          "name": "encrust",
+          "synsets": [
+            "oewn-01264192-v",
+            "oewn-01519987-v"
+          ]
+        },
+        {
+          "name": "excoriate",
+          "synsets": [
+            "oewn-01256372-v"
+          ]
+        },
+        {
+          "name": "fiddle with",
+          "synsets": [
+            "oewn-01226775-v"
+          ]
+        },
+        {
+          "name": "gift-wrap",
+          "synsets": [
+            "oewn-01286763-v"
+          ]
+        },
+        {
+          "name": "grope for",
+          "synsets": [
+            "oewn-01317100-v"
+          ]
+        },
+        {
+          "name": "honeycomb",
+          "synsets": [
+            "oewn-01232373-v"
+          ]
+        },
+        {
+          "name": "interbreed",
+          "synsets": [
+            "oewn-01432586-v"
+          ]
+        },
+        {
+          "name": "jar against",
+          "synsets": [
+            "oewn-01242872-v"
+          ]
+        },
+        {
+          "name": "pasture",
+          "synsets": [
+            "oewn-01578996-v",
+            "oewn-01579309-v"
+          ]
+        },
+        {
+          "name": "patinize",
+          "synsets": [
+            "oewn-01268063-v"
+          ]
+        },
+        {
+          "name": "pursue",
+          "synsets": [
+            "oewn-01320193-v"
+          ]
+        },
+        {
+          "name": "putter",
+          "synsets": [
+            "oewn-01475806-v",
+            "oewn-01475976-v"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-01566356-v"
+          ]
+        },
+        {
+          "name": "redeploy",
+          "synsets": [
+            "oewn-01382469-v"
+          ]
+        },
+        {
+          "name": "repress",
+          "synsets": [
+            "oewn-01571411-v"
+          ]
+        },
+        {
+          "name": "reshuffle",
+          "synsets": [
+            "oewn-01421613-v"
+          ]
+        },
+        {
+          "name": "set down",
+          "synsets": [
+            "oewn-01492094-v",
+            "oewn-01503011-v",
+            "oewn-01504761-v"
+          ]
+        },
+        {
+          "name": "set out",
+          "synsets": [
+            "oewn-01476839-v"
+          ]
+        },
+        {
+          "name": "surcharge",
+          "synsets": [
+            "oewn-01491184-v",
+            "oewn-01491343-v"
+          ]
+        },
+        {
+          "name": "tear out",
+          "synsets": [
+            "oewn-01353852-v"
+          ]
+        },
+        {
+          "name": "telescope",
+          "synsets": [
+            "oewn-01597703-v"
+          ]
+        },
+        {
+          "name": "transect",
+          "synsets": [
+            "oewn-01553731-v"
+          ]
+        },
+        {
+          "name": "turn off",
+          "synsets": [
+            "oewn-01513208-v"
+          ]
+        },
+        {
+          "name": "underlay",
+          "synsets": [
+            "oewn-01499931-v"
+          ]
+        },
+        {
+          "name": "unfasten",
+          "synsets": [
+            "oewn-01346822-v",
+            "oewn-01346975-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.creation",
+      "label": "Creating",
+      "count": 896,
+      "matches": [
+        {
+          "name": "confabulate",
+          "synsets": [
+            "oewn-01638429-v"
+          ]
+        },
+        {
+          "name": "give birth",
+          "synsets": [
+            "oewn-01635501-v"
+          ]
+        },
+        {
+          "name": "honeycomb",
+          "synsets": [
+            "oewn-01755970-v"
+          ]
+        },
+        {
+          "name": "innovate",
+          "synsets": [
+            "oewn-01645979-v"
+          ]
+        },
+        {
+          "name": "ornament",
+          "synsets": [
+            "oewn-01679858-v"
+          ]
+        },
+        {
+          "name": "reprint",
+          "synsets": [
+            "oewn-01739979-v"
+          ]
+        },
+        {
+          "name": "simulate",
+          "synsets": [
+            "oewn-01725631-v",
+            "oewn-01726857-v",
+            "oewn-01746767-v"
+          ]
+        },
+        {
+          "name": "sound off",
+          "synsets": [
+            "oewn-01654652-v"
+          ]
+        },
+        {
+          "name": "surcharge",
+          "synsets": [
+            "oewn-01752270-v"
+          ]
+        },
+        {
+          "name": "tear down",
+          "synsets": [
+            "oewn-01665698-v"
+          ]
+        },
+        {
+          "name": "toss off",
+          "synsets": [
+            "oewn-01704514-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.emotion",
+      "label": "Feeling",
+      "count": 640,
+      "matches": [
+        {
+          "name": "buoy up",
+          "synsets": [
+            "oewn-01818041-v"
+          ]
+        },
+        {
+          "name": "chill out",
+          "synsets": [
+            "oewn-01767681-v"
+          ]
+        },
+        {
+          "name": "flurry",
+          "synsets": [
+            "oewn-01794768-v"
+          ]
+        },
+        {
+          "name": "irritate",
+          "synsets": [
+            "oewn-01791774-v"
+          ]
+        },
+        {
+          "name": "keep in line",
+          "synsets": [
+            "oewn-01807900-v"
+          ]
+        },
+        {
+          "name": "perturb",
+          "synsets": [
+            "oewn-01768023-v"
+          ]
+        },
+        {
+          "name": "stress",
+          "synsets": [
+            "oewn-01802463-v"
+          ]
+        },
+        {
+          "name": "turn off",
+          "synsets": [
+            "oewn-01812593-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.motion",
+      "label": "Movement",
+      "count": 1707,
+      "matches": [
+        {
+          "name": "clear the air",
+          "synsets": [
+            "oewn-02007200-v"
+          ]
+        },
+        {
+          "name": "draw close",
+          "synsets": [
+            "oewn-02057865-v"
+          ]
+        },
+        {
+          "name": "flurry",
+          "synsets": [
+            "oewn-02088499-v"
+          ]
+        },
+        {
+          "name": "misdirect",
+          "synsets": [
+            "oewn-02004320-v"
+          ]
+        },
+        {
+          "name": "outflank",
+          "synsets": [
+            "oewn-02089693-v"
+          ]
+        },
+        {
+          "name": "palpitate",
+          "synsets": [
+            "oewn-01883921-v",
+            "oewn-01893122-v",
+            "oewn-01893385-v"
+          ]
+        },
+        {
+          "name": "perturb",
+          "synsets": [
+            "oewn-02069257-v",
+            "oewn-02069580-v"
+          ]
+        },
+        {
+          "name": "plummet",
+          "synsets": [
+            "oewn-01982213-v"
+          ]
+        },
+        {
+          "name": "pursue",
+          "synsets": [
+            "oewn-02004900-v"
+          ]
+        },
+        {
+          "name": "ride herd on",
+          "synsets": [
+            "oewn-01961962-v"
+          ]
+        },
+        {
+          "name": "scuttle",
+          "synsets": [
+            "oewn-01906398-v"
+          ]
+        },
+        {
+          "name": "set down",
+          "synsets": [
+            "oewn-01983255-v",
+            "oewn-01983915-v"
+          ]
+        },
+        {
+          "name": "set out",
+          "synsets": [
+            "oewn-02018017-v"
+          ]
+        },
+        {
+          "name": "sneak away",
+          "synsets": [
+            "oewn-02080274-v"
+          ]
+        },
+        {
+          "name": "surcharge",
+          "synsets": [
+            "oewn-02031880-v"
+          ]
+        },
+        {
+          "name": "trip up",
+          "synsets": [
+            "oewn-01904753-v"
+          ]
+        },
+        {
+          "name": "turn off",
+          "synsets": [
+            "oewn-01912651-v"
+          ]
+        },
+        {
+          "name": "underlay",
+          "synsets": [
+            "oewn-01978930-v"
+          ]
+        },
+        {
+          "name": "unhorse",
+          "synsets": [
+            "oewn-01962311-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.perception",
+      "label": "Perception",
+      "count": 662,
+      "matches": [
+        {
+          "name": "apperceive",
+          "synsets": [
+            "oewn-02111551-v"
+          ]
+        },
+        {
+          "name": "cover up",
+          "synsets": [
+            "oewn-02152799-v"
+          ]
+        },
+        {
+          "name": "film over",
+          "synsets": [
+            "oewn-02162464-v"
+          ]
+        },
+        {
+          "name": "haze over",
+          "synsets": [
+            "oewn-02162161-v"
+          ]
+        },
+        {
+          "name": "squint",
+          "synsets": [
+            "oewn-02172514-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.possession",
+      "label": "Possessing & exchanging",
+      "count": 1064,
+      "matches": [
+        {
+          "name": "accumulate",
+          "synsets": [
+            "oewn-02309962-v"
+          ]
+        },
+        {
+          "name": "amortise",
+          "synsets": [
+            "oewn-02357259-v"
+          ]
+        },
+        {
+          "name": "bewhisker",
+          "synsets": [
+            "oewn-02337169-v"
+          ]
+        },
+        {
+          "name": "chance upon",
+          "synsets": [
+            "oewn-02291532-v"
+          ]
+        },
+        {
+          "name": "espouse",
+          "synsets": [
+            "oewn-02351891-v"
+          ]
+        },
+        {
+          "name": "mummify",
+          "synsets": [
+            "oewn-02231909-v"
+          ]
+        },
+        {
+          "name": "reimpose",
+          "synsets": [
+            "oewn-02312120-v"
+          ]
+        },
+        {
+          "name": "restore",
+          "synsets": [
+            "oewn-02315462-v"
+          ]
+        },
+        {
+          "name": "surcharge",
+          "synsets": [
+            "oewn-02324030-v",
+            "oewn-02325753-v"
+          ]
+        },
+        {
+          "name": "syndicate",
+          "synsets": [
+            "oewn-02248540-v"
+          ]
+        },
+        {
+          "name": "vouchsafe",
+          "synsets": [
+            "oewn-02260523-v"
+          ]
+        },
+        {
+          "name": "wholesale",
+          "synsets": [
+            "oewn-02252008-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.social",
+      "label": "Social interaction",
+      "count": 1692,
+      "matches": [
+        {
+          "name": "boycott",
+          "synsets": [
+            "oewn-02470917-v"
+          ]
+        },
+        {
+          "name": "carpenter",
+          "synsets": [
+            "oewn-02413973-v"
+          ]
+        },
+        {
+          "name": "comport",
+          "synsets": [
+            "oewn-02525332-v"
+          ]
+        },
+        {
+          "name": "discipline",
+          "synsets": [
+            "oewn-02559125-v",
+            "oewn-02559394-v"
+          ]
+        },
+        {
+          "name": "discommode",
+          "synsets": [
+            "oewn-02513385-v"
+          ]
+        },
+        {
+          "name": "disjoint",
+          "synsets": [
+            "oewn-02435427-v"
+          ]
+        },
+        {
+          "name": "domiciliate",
+          "synsets": [
+            "oewn-02464596-v"
+          ]
+        },
+        {
+          "name": "espouse",
+          "synsets": [
+            "oewn-02494483-v"
+          ]
+        },
+        {
+          "name": "field-test",
+          "synsets": [
+            "oewn-02537927-v"
+          ]
+        },
+        {
+          "name": "get married",
+          "synsets": [
+            "oewn-02494483-v"
+          ]
+        },
+        {
+          "name": "grow up",
+          "synsets": [
+            "oewn-02546044-v"
+          ]
+        },
+        {
+          "name": "instalike",
+          "synsets": [
+            "oewn-90009141-v"
+          ]
+        },
+        {
+          "name": "interfere",
+          "synsets": [
+            "oewn-02457343-v",
+            "oewn-02544431-v"
+          ]
+        },
+        {
+          "name": "misdirect",
+          "synsets": [
+            "oewn-02585532-v"
+          ]
+        },
+        {
+          "name": "monetise",
+          "synsets": [
+            "oewn-02486820-v"
+          ]
+        },
+        {
+          "name": "prevent",
+          "synsets": [
+            "oewn-02455370-v",
+            "oewn-02458316-v"
+          ]
+        },
+        {
+          "name": "pursue",
+          "synsets": [
+            "oewn-02380222-v",
+            "oewn-02381520-v"
+          ]
+        },
+        {
+          "name": "putter",
+          "synsets": [
+            "oewn-02420524-v"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-02489153-v"
+          ]
+        },
+        {
+          "name": "regroup",
+          "synsets": [
+            "oewn-02438228-v"
+          ]
+        },
+        {
+          "name": "repress",
+          "synsets": [
+            "oewn-02428975-v",
+            "oewn-02457192-v"
+          ]
+        },
+        {
+          "name": "restore",
+          "synsets": [
+            "oewn-02431646-v",
+            "oewn-02558146-v"
+          ]
+        },
+        {
+          "name": "succour",
+          "synsets": [
+            "oewn-02554407-v"
+          ]
+        },
+        {
+          "name": "syndicate",
+          "synsets": [
+            "oewn-02453876-v",
+            "oewn-02454048-v"
+          ]
+        },
+        {
+          "name": "undergird",
+          "synsets": [
+            "oewn-02562555-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.stative",
+      "label": "Being & having",
+      "count": 1016,
+      "matches": [
+        {
+          "name": "appertain",
+          "synsets": [
+            "oewn-02659801-v"
+          ]
+        },
+        {
+          "name": "companion",
+          "synsets": [
+            "oewn-02722642-v"
+          ]
+        },
+        {
+          "name": "domiciliate",
+          "synsets": [
+            "oewn-02656647-v"
+          ]
+        },
+        {
+          "name": "mummify",
+          "synsets": [
+            "oewn-02686168-v"
+          ]
+        },
+        {
+          "name": "ornament",
+          "synsets": [
+            "oewn-02755122-v"
+          ]
+        },
+        {
+          "name": "outrank",
+          "synsets": [
+            "oewn-02679633-v"
+          ]
+        },
+        {
+          "name": "piddle away",
+          "synsets": [
+            "oewn-02713983-v"
+          ]
+        },
+        {
+          "name": "postdate",
+          "synsets": [
+            "oewn-02718647-v"
+          ]
+        },
+        {
+          "name": "quarter",
+          "synsets": [
+            "oewn-02659254-v"
+          ]
+        },
+        {
+          "name": "subsume",
+          "synsets": [
+            "oewn-02640748-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb.weather",
+      "label": "Weather",
+      "count": 127,
+      "matches": [
+        {
+          "name": "drizzle",
+          "synsets": [
+            "oewn-02763433-v"
+          ]
+        },
+        {
+          "name": "run dry",
+          "synsets": [
+            "oewn-02777714-v"
+          ]
+        }
+      ]
+    }
+  ]
+}

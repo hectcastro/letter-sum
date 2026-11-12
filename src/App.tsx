@@ -1,7 +1,7 @@
 import { useRef, useState } from 'react';
 import { AlphabetReference } from './components/AlphabetReference';
 import { LetterBreakdown } from './components/LetterBreakdown';
-import { FoodDrinkFinder } from './components/FoodDrinkFinder';
+import { WordnetFinder } from './components/WordnetFinder';
 import { calculate } from './calculate';
 
 export default function App() {
@@ -72,7 +72,7 @@ export default function App() {
 
         <LetterBreakdown letters={letters} hasInput={text.length > 0} />
         <AlphabetReference usedLetters={usedLetters} />
-        <FoodDrinkFinder onSelect={selectName} />
+        <WordnetFinder onSelect={selectName} />
 
         <footer>Calculated here in your browser.</footer>
       </main>

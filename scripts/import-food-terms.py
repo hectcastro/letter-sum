@@ -111,6 +111,30 @@ def apply_overrides(entries, overrides):
     return [by_name[name] for name in sorted(by_name)]
 
 
+def extract_categories(root, foods):
+    lexicon = root.find("Lexicon")
+    synsets = {item.get("id"): item.get("lexfile") for item in lexicon.findall("Synset")}
+    grouped = {category: defaultdict(set) for category in sorted(set(synsets.values()))}
+    for entry in lexicon.findall("LexicalEntry"):
+        lemma = entry.find("Lemma")
+        if lemma is None:
+            continue
+        name = normalize(lemma.get("writtenForm"))
+        if not re.search("[a-z]", name):
+            continue
+        for sense in entry.findall("Sense"):
+            synset_id = sense.get("synset")
+            category = synsets[synset_id]
+            if category != "noun.food":
+                grouped[category][name].add(synset_id)
+    # Keep the reviewed food policy and additions within its WordNet category.
+    grouped["noun.food"] = {entry["name"]: entry["synsets"] for entry in foods}
+    return {
+        category: [{"name": name, "synsets": sorted(ids)} for name, ids in sorted(names.items())]
+        for category, names in sorted(grouped.items())
+    }
+
+
 def write_json(path, content):
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary = path.with_suffix(path.suffix + ".tmp")
@@ -138,7 +162,8 @@ def main():
         temporary.replace(cache)
     data = source.read_bytes()
     verify_checksum(data, policy["sha256"])
-    entries, audit = extract(ET.fromstring(gzip.decompress(data)), policy)
+    root = ET.fromstring(gzip.decompress(data))
+    entries, audit = extract(root, policy)
     overrides = json.loads((ROOT / "src/data/foodAndDrinks.overrides.json").read_text())
     entries = apply_overrides(entries, overrides)
     if not entries:
@@ -159,6 +184,7 @@ def main():
     audit["overrideExclusions"] = overrides["exclusions"]
     write_json(output, {"source": policy, "entries": entries})
     write_json(ROOT / ".cache/wordnet/import-audit.json", audit)
+    write_json(ROOT / ".cache/wordnet/categories.json", extract_categories(root, entries))
     print(f"Imported {len(entries)} names. Run the report step to inspect matches and changes.")
 
 

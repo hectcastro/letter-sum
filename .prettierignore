@@ -4,4 +4,5 @@ coverage/
 package-lock.json
 .cache/
 src/data/foodAndDrinks.generated.json
+src/data/wordnet.generated.json
 reports/food-terms.json
