@@ -4,13 +4,16 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -54,6 +57,7 @@ jobs:
         run: npm ci
 
       - name: Configure Pages
+        if: github.event_name != 'pull_request'
         id: pages
         uses: actions/configure-pages@v6
 
@@ -63,12 +67,35 @@ jobs:
         run: npm run build -- --base "${BASE_PATH}/"
 
       - name: Upload website artifacts
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v5
         with:
           path: dist
 
+  dependabot:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: write
+      pull-requests: write
+    if: >-
+      github.event_name == 'pull_request' &&
+      github.event.pull_request.user.login == 'dependabot[bot]'
+    steps:
+      - name: Dependabot PR merge
+        run: |
+          gh pr merge --squash --delete-branch --match-head-commit "$PR_HEAD_SHA" "$PR_URL"
+          gh workflow run deploy.yml --ref main
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+
   deploy:
     needs: build
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       contents: read
